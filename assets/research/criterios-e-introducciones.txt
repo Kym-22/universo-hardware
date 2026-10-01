@@ -1,0 +1,169 @@
+Bloque	Sección	Contenido
+A		"# Álbum comparativo de hardware — Bloque A
+Alcance: 39 entradas, agrupadas en 13 familias. Cada entrada compara dos marcas: 78 modelos en total.
+Fecha de consulta: 30 de septiembre de 2026. Moneda: dólares estadounidenses (USD)."
+A	Criterios de lectura	"Los precios son referencias de las páginas consultadas, sin impuestos ni envío salvo indicación expresa. Se distingue entre oferta comercial, registro indexado, precio recomendado y precio histórico de lanzamiento. Una ficha con precio puede estar agotada; no se presenta como una oferta disponible. Los anuncios de marketplace pueden variar mucho entre vendedores y no constituyen un promedio del mercado.
+Las especificaciones proceden de fabricantes y sus documentos; las tiendas y distribuidores se utilizan para los precios. Las recomendaciones son decisiones razonadas para el uso descrito, no resultados de pruebas propias. Los productos representan categorías de hardware y no necesariamente los lanzamientos más recientes.
+Cada pareja cuenta como una entrada. La clasificación interno/externo describe cómo se instala el componente; no es un despiece de su interior. Las interfaces de audio y capturadoras USB se clasifican como externas aunque se conservan aquí por la agrupación del inventario. Los gabinetes se identifican como la estructura del equipo.
+Para las imágenes se incluye una referencia a la galería del producto o un enlace directo cuando se dispone de él. El Markdown no contiene las imágenes descargadas; para verlas se necesita abrir el enlace. En productos OEM y documentos técnicos se utiliza la ficha de identificación como referencia cuando no hay una galería independiente.
+N/D significa que no se verificó un precio de venta individual aplicable. En los procesadores de portátil no se sustituye ese dato por el precio de una computadora completa."
+A	Índice de familias	"| Familia | Entradas | Cantidad |
+|---|---:|---:|
+| Procesadores | A01–A03 | 3 |
+| Placas madre | A04–A06 | 3 |
+| Memoria RAM | A07–A09 | 3 |
+| Tarjetas gráficas | A10–A12 | 3 |
+| Discos duros HDD | A13–A15 | 3 |
+| Unidades SSD | A16–A18 | 3 |
+| Fuentes de alimentación | A19–A21 | 3 |
+| Refrigeración | A22–A24 | 3 |
+| Gabinetes | A25–A27 | 3 |
+| Tarjetas de red | A28–A30 | 3 |
+| Audio | A31–A33 | 3 |
+| Capturadoras de video | A34–A36 | 3 |
+| Otras tarjetas de expansión | A37–A39 | 3 |
+| Total | A01–A39 | 39 |"
+A	Glosario breve	"| Término | Significado |
+|---|---|
+| PCIe x1/x4/x8/x16 | Cantidad de líneas de la conexión. El tamaño físico de la ranura no garantiza que todas estén activas. |
+| MT/s | Millones de transferencias por segundo; unidad adecuada para la velocidad de RAM. |
+| CL | Latencia CAS expresada en ciclos; se interpreta junto con la velocidad de la memoria. |
+| M.2 2280 | Formato de 22 mm de ancho y 80 mm de largo; no determina si la unidad usa SATA o NVMe. |
+| NVMe | Protocolo de almacenamiento utilizado normalmente sobre PCIe. |
+| TBW | Terabytes escritos previstos como referencia de resistencia y límite de garantía de un SSD. |
+| CMR / SMR | Grabación magnética convencional / por pistas superpuestas. CMR suele ser más apropiada para escrituras continuas en NAS. |
+| ECC | Corrección de errores; requiere soporte adecuado en toda la plataforma para proteger la memoria del sistema. |
+| TDP / potencia base | Valores de diseño o especificación del fabricante; no son el consumo medido de todo el equipo. |
+| AIO | Refrigeración líquida ensamblada como un conjunto cerrado. |
+| HBA | Adaptador que conecta unidades de almacenamiento al sistema; no implica RAID por hardware. |
+| Paso de señal | Video que atraviesa una capturadora hacia la pantalla; puede tener un límite distinto al video grabado. |
+| 1+1 | Redundancia de dos módulos en la que la carga puede mantenerse con uno solo, según la configuración admitida. |
+Fin del bloque A: 39 entradas comparativas."
+B		"# Álbum comparativo de hardware — Bloque B
+Alcance: 51 entradas en 17 familias. Cada entrada compara dos marcas: 102 modelos en total.
+Fecha de consulta: 30 de septiembre de 2026. Moneda de precios: dólares estadounidenses (USD).
+Este bloque reúne periféricos de entrada y salida, equipos de impresión y digitalización, audio, controladores de juego, almacenamiento extraíble, lectores, UPS y estaciones de conexión. La numeración B01–B51 identifica las parejas de este archivo; cada pareja cuenta como una entrada."
+B	Criterios de lectura	"Las especificaciones proceden de fichas, manuales y catálogos de los fabricantes. Para los precios se utilizan tiendas oficiales y distribuidores; cada ficha distingue una oferta indexada, un precio regular, un MSRP/MAP o un precio histórico. Son referencias aproximadas, sin impuestos ni envío salvo indicación expresa, y no promedios del mercado ni cotizaciones de importación a Guatemala. Las promociones, existencias, colores y vendedores pueden cambiar. Un precio en una ficha agotada no representa una oferta disponible.
+Las recomendaciones son decisiones razonadas para el uso indicado; no son resultados de pruebas propias. Se compara el modelo y la capacidad señalados, sin trasladar automáticamente especificaciones de otra generación o paquete. Cuando las dos referencias incluyen accesorios distintos, se explica la diferencia.
+La clasificación externo describe el equipo o accesorio en relación con la computadora, no sus piezas internas. SD, microSD y CFexpress se marcan como medios externos/extraíbles aunque se introduzcan en una ranura. Las fotocopiadoras de este bloque son equipos multifunción carta/A4 con función de copia; su familia puede solaparse con impresoras.
+Las categorías no siempre son excluyentes: IPS y OLED describen el panel; Mini LED describe la iluminación de un LCD. DLP y 3LCD describen la formación de imagen de un proyector; láser describe su fuente de luz. Un equipo puede reunir más de una de estas características.
+Las velocidades y autonomías expresadas como hasta son máximos o estimaciones de fabricantes bajo sus condiciones de prueba. Hz, dpi, ppm, ipm, MB/s y Gb/s describen magnitudes diferentes; no se usan como una puntuación única de calidad.
+Para cada modelo se incluye una galería o referencia visual enlazada. Este Markdown no contiene imágenes descargadas: se abren desde los enlaces. En productos antiguos se puede utilizar un anuncio del modelo o documento de identificación cuando la ficha oficial carece de galería."
+B	Índice de familias	"| Familia | Entradas | Cantidad |
+|---|---:|---:|
+| Teclados | B01–B03 | 3 |
+| Mouse | B04–B06 | 3 |
+| Monitores | B07–B09 | 3 |
+| Impresoras | B10–B12 | 3 |
+| Escáneres | B13–B15 | 3 |
+| Fotocopiadoras | B16–B18 | 3 |
+| Cañoneras / proyectores | B19–B21 | 3 |
+| Micrófonos | B22–B24 | 3 |
+| Bocinas | B25–B27 | 3 |
+| Auriculares | B28–B30 | 3 |
+| Webcams | B31–B33 | 3 |
+| Controladores de videojuegos | B34–B36 | 3 |
+| Almacenamiento externo | B37–B39 | 3 |
+| Tarjetas de memoria | B40–B42 | 3 |
+| Lectores de tarjetas | B43–B45 | 3 |
+| UPS | B46–B48 | 3 |
+| Hubs y estaciones | B49–B51 | 3 |
+| Total | B01–B51 | 51 |"
+B	Glosario breve	"| Término | Significado |
+|---|---|
+| Hall Effect | Detección de posición mediante un campo magnético; permite entradas ajustables o analógicas según el dispositivo. |
+| Rapid Trigger | Ajuste que reinicia una tecla según su desplazamiento, en vez de esperar un punto fijo de retorno. |
+| DPI / Hz en un mouse | DPI expresa resolución de seguimiento; Hz expresa frecuencia de informes al equipo. Ninguno, por sí solo, determina comodidad o precisión. |
+| IPS / VA / OLED | Tecnologías de panel. IPS y VA son LCD; OLED emite luz en sus propios píxeles. |
+| Mini LED / atenuación local | Iluminación LCD con LED pequeños y zonas regulables. Las zonas no equivalen a píxeles autoemisivos. |
+| HDR | Presentación de un rango más amplio de luminancia; el resultado depende del panel, brillo, atenuación y contenido. |
+| ppm / ipm / cps | Páginas por minuto / imágenes o caras por minuto / caracteres por segundo. Se interpretan junto con papel, resolución y modo. |
+| ADF / dúplex | Alimentador automático de originales / trabajo a doble cara. Un equipo puede imprimir a doble cara y no escanear automáticamente ambas caras. |
+| 3LCD / DLP | Formación de imagen mediante tres paneles LCD / microespejos digitales. Ambas tecnologías pueden usar diferentes fuentes de luz. |
+| ANSI / ISO / IDMS en brillo | Métodos de medición identificados en fichas de proyectores; una cifra sin método no basta para comparar brillo. |
+| XLR / phantom | Conector común de audio profesional / alimentación para micrófonos compatibles, normalmente de 48 V. |
+| TRS / TRRS | Conectores minijack con tres / cuatro contactos. El mismo diámetro no garantiza compatibilidad de micrófono. |
+| RMS / pico | Potencia continua de referencia / máximo de corta duración; no son valores intercambiables. |
+| ANC | Cancelación activa de ruido; distinta del aislamiento físico y de la reducción de ruido aplicada al micrófono. |
+| IP55 / IP65 / IP67 | Grados de protección frente a polvo y agua con pruebas diferentes. Solo la cifra adecuada y sus condiciones permiten interpretar la resistencia. |
+| HOTAS | Conjunto de acelerador y palanca para simulación que concentra controles al alcance de las manos. |
+| MB/s / Gb/s | Megabytes por segundo / gigabits por segundo. Un byte son ocho bits; el enlace añade sobrecarga y no garantiza el rendimiento del dispositivo. |
+| UHS-I / UHS-II | Clases de bus de tarjetas SD; UHS-II añade una segunda fila de contactos y requiere un lector compatible para aprovecharla. |
+| V30 / V60 / A2 | Clases de escritura sostenida para video / rendimiento para aplicaciones. A2 depende también del soporte del equipo. |
+| CFexpress Type A / Type B | Formatos físicos diferentes de tarjeta; no se intercambian en una misma ranura. |
+| VA / W / AVR | Potencia aparente / potencia real / regulación automática de voltaje. Una UPS tiene límites separados en VA y W. |
+| Standby / Line Interactive / Online | Topologías de UPS con diferente forma de regular la energía y utilizar la batería. Online emplea doble conversión en su modo normal. |
+| USB-C / PD / Alt Mode | Tipo de conector / negociación de alimentación / modo alternativo para señales como DisplayPort. La forma USB-C no garantiza todas esas funciones. |
+| Thunderbolt 4 / KVM | Interfaz de datos, video y energía con requisitos definidos / función para compartir controles entre equipos. |
+| MSRP / MAP | Precio minorista sugerido / precio mínimo anunciado según política del fabricante; no equivalen necesariamente a una oferta final disponible. |
+Fin del bloque B: 51 entradas comparativas en 17 familias."
+C		"# Álbum comparativo de hardware — Bloque C
+Alcance: 24 entradas en 8 familias. Cada entrada compara dos marcas: 48 modelos en total.
+Fecha de consulta: 30 de septiembre de 2026. Moneda de precios: dólares estadounidenses (USD).
+Este bloque reúne computadoras de escritorio, laptops, tablets, celulares, smartwatches, consolas, plotters y sillas gamer. La numeración C01–C24 identifica las parejas de este archivo; cada pareja cuenta como una entrada. El bloque D queda fuera de este documento."
+C	Criterios de lectura	"Las especificaciones proceden de fichas, manuales y documentos de los fabricantes. En computadoras configurables se identifica la versión seleccionada y se complementa con el anuncio del SKU: procesador, RAM, SSD y GPU pueden cambiar dentro del mismo nombre comercial. Los modelos son ejemplos de cada segmento, incluidos equipos de generaciones anteriores; no se presentan todos como la generación más reciente.
+Los precios son referencias de tiendas oficiales, distribuidores o registros identificados. Cada cifra indica si es oferta indexada, MSRP, precio histórico o ficha agotada. Los resultados consultados pueden reflejar páginas indexadas con distinta antigüedad; consultar una página el 30 de septiembre no convierte un registro histórico en una oferta vigente. Los importes no incluyen impuestos, envío ni costos de importación a Guatemala, salvo indicación expresa. No se descuentan canjes, activación de operador, membresías o reembolsos condicionados.
+Una ficha agotada no representa una oferta disponible. Cuando un precio es histórico o los paquetes difieren, la recomendación se refiere a la configuración y al uso; se necesita cotización actual para decidir una compra por precio. Los cambios de precio de consolas de 2026 se señalan expresamente.
+Las recomendaciones son decisiones razonadas a partir de las características publicadas; no son resultados de pruebas propias. Las autonomías, velocidades y límites de potencia anunciados dependen de las condiciones del fabricante. Más núcleos, megapíxeles, Hz o dpi no constituyen una puntuación única de calidad.
+Clasificación: computadoras, móviles, relojes y consolas son equipos completos con componentes internos, no piezas para instalar en otra computadora. Los plotters son periféricos externos. Las sillas son mobiliario externo; los cockpits sostienen periféricos y no incluyen el hardware de simulación. Las categorías gaming, creación y oficina describen un uso prioritario y pueden solaparse.
+Cada modelo tiene una galería o referencia visual enlazada. Este Markdown no incluye imágenes descargadas: las fotografías se consultan desde los enlaces. Algunos documentos técnicos describen una familia; la capacidad o configuración exacta se identifica en la tabla y en la fuente de precio."
+C	Índice de familias	"| Familia | Entradas | Cantidad |
+|---|---:|---:|
+| Computadoras de escritorio | C01–C03 | 3 |
+| Laptops | C04–C06 | 3 |
+| Tablets | C07–C09 | 3 |
+| Celulares | C10–C12 | 3 |
+| Smartwatches | C13–C15 | 3 |
+| Consolas | C16–C18 | 3 |
+| Plotters | C19–C21 | 3 |
+| Sillas gamer | C22–C24 | 3 |
+| Total | C01–C24 | 24 |"
+C	Control de alcance del bloque C	"| Verificación | Resultado |
+|---|---:|
+| Familias | 8 |
+| Parejas por familia | 3 |
+| Comparativas | 24 |
+| Modelos comparados | 48 |
+| Marcas diferentes en cada pareja | Sí |
+| Precio y tipo de referencia para cada modelo | Sí |
+| Comparación, recomendación y nota de precisión por entrada | Sí |
+| Fuentes técnicas, de precio y visuales por entrada | Sí |
+Las fotografías, fichas y documentos enlazados pertenecen a sus respectivos titulares. El álbum resume las características y explica una elección de uso; no garantiza precios futuros ni disponibilidad."
+D		"# Álbum comparativo de hardware — Bloque D
+Alcance: 10 entradas en 4 secciones: 3 familias de hardware y una sección de servicios de IA. Cada entrada compara dos marcas o proveedores: 18 plataformas de hardware y 2 planes de servicios, 20 referencias en total.
+Fecha de consulta: 30 de septiembre de 2026. Moneda de precios: dólares estadounidenses (USD).
+Este bloque final reúne microcontroladores, computadoras de placa única, realidad virtual/mixta y una comparación de asistentes IA. La numeración D01–D10 identifica las parejas de este archivo. Conserva el formato de los bloques A, B y C: características, clasificación, precio, comparación, recomendación, nota de precisión y fuentes."
+D	Criterios de lectura	"Microcontroladores: se comparan placas de desarrollo de dos marcas, con el chip identificado en cada ficha. El precio corresponde a la placa, no al microcontrolador suelto. Dos marcas de placas pueden utilizar chips del mismo fabricante. Un microcontrolador ejecuta firmware y no equivale a una computadora Linux.
+SBC y plataformas embebidas: integran procesador, memoria y conectores, pero pueden requerir fuente, almacenamiento, refrigeración y gabinete. Un kit Jetson de módulo y placa portadora se identifica como tal; su formato no se confunde con una sola placa. La clasificación depende de cómo se integra la plataforma en un equipo.
+VR y MR: las categorías describen el uso principal y se solapan. Un visor autónomo puede admitir conexión a PC y funciones de realidad mixta. La resolución por ojo se distingue de los píxeles totales de ambas pantallas. Un visor para PC requiere hardware y puertos compatibles, además del precio del kit.
+IA: ChatGPT y Claude son servicios de software. Se comparan planes personales con pago mensual, no precios por token ni suscripciones empresariales. No se consideran piezas internas o periféricos externos. La creación de archivos, modelos y herramientas puede variar según el plan, plataforma y disponibilidad.
+Los datos técnicos se apoyan en documentación de fabricantes. Los precios proceden de tiendas oficiales, distribuidores y anuncios identificados, con su condición indicada: precio unitario, indexado, agotado o histórico/de lanzamiento. Consultar una página en esta fecha no convierte una cifra de lanzamiento en oferta vigente. Se excluyen impuestos, envío y costos de importación a Guatemala salvo indicación expresa. Las cifras no son promedios de mercado; un precio agotado requiere nueva cotización.
+Las recomendaciones son decisiones razonadas para cada uso, sin pruebas propias de rendimiento. Frecuencia, núcleos, TOPS, resolución y refresco son magnitudes distintas. En IA embebida, TOPS depende de precisión, dispersión y operación; no se usa como una comparación directa de velocidad de modelos.
+Cada referencia incluye un enlace a galería, ficha ilustrada o presentación visual; este archivo no contiene imágenes descargadas. En el caso de software, se enlaza su presentación oficial.
+El sensor CCD figuraba como tema provisional pendiente de definir. No se incluye en las diez entradas acordadas ni se sustituye por un sensor CMOS: son tecnologías distintas."
+D	Índice	"| Familia / sección | Entradas | Cantidad |
+|---|---:|---:|
+| Microcontroladores | D01–D03 | 3 |
+| Computadoras de placa única / SBC | D04–D06 | 3 |
+| Realidad virtual / mixta | D07–D09 | 3 |
+| Inteligencia artificial | D10 | 1 |
+| Total | D01–D10 | 10 |"
+D	Control de alcance y cierre del álbum	"| Verificación del bloque D | Resultado |
+|---|---:|
+| Parejas de hardware | 9 |
+| Parejas de servicios IA | 1 |
+| Comparativas del bloque | 10 |
+| Referencias comparadas | 20 |
+| Marcas / proveedores diferentes por pareja | Sí |
+| Comparación y recomendación por entrada | Sí |
+| Tipo de precio y fuentes por referencia | Sí |
+| Clasificación aplicable por entrada | Sí |
+| Bloque entregado | Comparativas | Referencias, dos por pareja |
+|---|---:|---:|
+| A — Componentes internos | 39 | 78 |
+| B — Periféricos y accesorios | 51 | 102 |
+| C — Equipos completos y mobiliario | 24 | 48 |
+| D — Electrónica y tecnologías adicionales | 10 | 20 |
+| Total A–D | 124 | 248 |
+El total cuenta parejas, no marcas únicas ni piezas físicas diferentes. La cifra incluye la pareja de servicios de IA y excluye el tema provisional CCD. Este archivo completa el alcance de los cuatro bloques entregados.
+Las fotografías, fichas, marcas y documentos enlazados pertenecen a sus respectivos titulares. El álbum resume características y explica elecciones de uso; no garantiza precios futuros ni disponibilidad."

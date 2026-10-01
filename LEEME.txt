@@ -1,0 +1,11 @@
+UNIVERSO HARDWARE
+
+1. Extrae el ZIP.
+2. Sube los archivos extraídos a la raíz de tu repositorio de GitHub.
+3. En Vercel importa ese repositorio.
+4. Framework Preset: Other.
+5. Root Directory: raíz del repositorio.
+6. No necesita comando de compilación.
+7. Pulsa Deploy y copia el enlace.
+
+Para verlo en tu computadora, usa Live Server en VS Code.

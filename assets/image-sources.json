@@ -1,0 +1,191 @@
+[
+  {
+    "key": "computer-case",
+    "path": "assets/computer-case.jpg",
+    "source": "https://en.wikipedia.org/wiki/Computer_case",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Gabinete99.jpg/960px-Gabinete99.jpg",
+    "note": "Fotografía ilustrativa de la categoría; no representa los modelos pendientes."
+  },
+  {
+    "key": "computer-fan",
+    "path": "assets/computer-fan.jpg",
+    "source": "https://en.wikipedia.org/wiki/Computer_fan",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/80mm_fan.jpg/960px-80mm_fan.jpg",
+    "note": "Fotografía ilustrativa de la categoría; no representa los modelos pendientes."
+  },
+  {
+    "key": "computer-keyboard",
+    "path": "assets/products/B01-1.webp",
+    "source": "https://www.simplygaming.in/products/hyperx-alloy-origins-full-size-rgb-mechanical-keyboard-hyperx-red-switch",
+    "image_url": "https://www.simplygaming.in/cdn/shop/files/HyperX_Alloy_Origins_Full_Size_RGB_Mechanical_Gaming_Keyboard_Red_Linear_Switch.jpg",
+    "note": "Imagen de HyperX Alloy Origins, tamaño completo como referencia de la categoría."
+  },
+  {
+    "key": "computer-mouse",
+    "path": "assets/computer-mouse.jpg",
+    "source": "https://en.wikipedia.org/wiki/Computer_mouse",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/3-Tasten-Maus_Microsoft.jpg",
+    "note": "Fotografía ilustrativa de la categoría; no representa los modelos pendientes."
+  },
+  {
+    "key": "graphics-card",
+    "path": "assets/graphics-card.png",
+    "source": "https://en.wikipedia.org/wiki/Graphics_card",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/RTX_5080.png",
+    "note": "Fotografía ilustrativa de la categoría; no representa los modelos pendientes."
+  },
+  {
+    "key": "hard-disk-drive",
+    "path": "assets/hard-disk-drive.jpg",
+    "source": "https://en.wikipedia.org/wiki/Hard_disk_drive",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Hatachi_500_GB_hard_drive%2C_2011.jpg/960px-Hatachi_500_GB_hard_drive%2C_2011.jpg",
+    "note": "Fotografía ilustrativa de la categoría; no representa los modelos pendientes."
+  },
+  {
+    "key": "headphones",
+    "path": "assets/headphones.jpg",
+    "source": "https://en.wikipedia.org/wiki/Headphones",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/S%C5%82uchawki_referencyjne_K-701_firmy_AKG.jpg/960px-S%C5%82uchawki_referencyjne_K-701_firmy_AKG.jpg",
+    "note": "Fotografía ilustrativa de la categoría; no representa los modelos pendientes."
+  },
+  {
+    "key": "image-scanner",
+    "path": "assets/image-scanner.jpg",
+    "source": "https://en.wikipedia.org/wiki/Image_scanner",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Epson_V850_scanner_open_20230920.jpg/960px-Epson_V850_scanner_open_20230920.jpg",
+    "note": "Fotografía ilustrativa de la categoría; no representa los modelos pendientes."
+  },
+  {
+    "key": "laptop",
+    "path": "assets/products/C05-0.webp",
+    "source": "https://support.apple.com/es-es/121552",
+    "image_url": "https://macfinder.co.uk/product-images/Macbook/A2991/MacBook-Pro-Retina-16-Inch-28687.jpg",
+    "note": "Imagen de Apple MacBook Pro 14, M4 (2024), 16/512 GB como referencia de la categoría."
+  },
+  {
+    "key": "loudspeaker",
+    "path": "assets/loudspeaker.png",
+    "source": "https://en.wikipedia.org/wiki/Loudspeaker",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Electrodynamic-loudspeaker.png",
+    "note": "Fotografía ilustrativa de la categoría; no representa los modelos pendientes."
+  },
+  {
+    "key": "microcontroller",
+    "path": "assets/products/D01-0.webp",
+    "source": "https://store.arduino.cc/products/arduino-uno-rev3",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCBgos2BIzK_CraRoBsujev1yrg-mX7LPNhAKc1X4GEKDFOX_FyK0C75XO&s=10",
+    "note": "Imagen de Arduino UNO Rev3, A000066 como referencia de la categoría."
+  },
+  {
+    "key": "microphone",
+    "path": "assets/products/B23-1.webp",
+    "source": "https://rode.com/en-us/products/nt1-signature-series",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqp6mricE60b7Svh1NfU2e8FGYzviQtGpooM7EPQrdYA&s=10",
+    "note": "Imagen de RØDE NT1 Signature Series, negro como referencia de la categoría."
+  },
+  {
+    "key": "motherboard",
+    "path": "assets/products/A04-0.webp",
+    "source": "https://www.msi.com/Motherboard/MAG-B650-TOMAHAWK-WIFI",
+    "image_url": "https://storage-asset.msi.com/global/picture/product/product_16647862076483c5f134837db9cec7b126c4168d6a.webp",
+    "note": "Imagen de MSI MAG B650 TOMAHAWK WIFI como referencia de la categoría."
+  },
+  {
+    "key": "network-interface-controller",
+    "path": "assets/network-interface-controller.jpg",
+    "source": "https://en.wikipedia.org/wiki/Network_interface_controller",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Network_card.jpg/960px-Network_card.jpg",
+    "note": "Fotografía ilustrativa de la categoría; no representa los modelos pendientes."
+  },
+  {
+    "key": "power-supply-unit-computer",
+    "path": "assets/power-supply-unit-computer.jpg",
+    "source": "https://en.wikipedia.org/wiki/Power_supply_unit_(computer)",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PSU-Open1.jpg/960px-PSU-Open1.jpg",
+    "note": "Fotografía ilustrativa de la categoría; no representa los modelos pendientes."
+  },
+  {
+    "key": "projector",
+    "path": "assets/projector.jpg",
+    "source": "https://en.wikipedia.org/wiki/Projector",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/IFA_2012_IMG_5767.JPG/960px-IFA_2012_IMG_5767.JPG",
+    "note": "Fotografía ilustrativa de la categoría; no representa los modelos pendientes."
+  },
+  {
+    "key": "random-access-memory",
+    "path": "assets/random-access-memory.jpg",
+    "source": "https://en.wikipedia.org/wiki/Random-access_memory",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Swissbit_2GB_PC2-5300U-555.jpg/960px-Swissbit_2GB_PC2-5300U-555.jpg",
+    "note": "Fotografía ilustrativa de la categoría; no representa los modelos pendientes."
+  },
+  {
+    "key": "sd-card",
+    "path": "assets/sd-card.png",
+    "source": "https://en.wikipedia.org/wiki/SD_card",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/SD_Cards.svg/960px-SD_Cards.svg.png",
+    "note": "Fotografía ilustrativa de la categoría; no representa los modelos pendientes."
+  },
+  {
+    "key": "smartphone",
+    "path": "assets/smartphone.jpg",
+    "source": "https://en.wikipedia.org/wiki/Smartphone",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Wikipedia_homepage_on_a_large_Android_phone%2C_2015-04-16.jpg/960px-Wikipedia_homepage_on_a_large_Android_phone%2C_2015-04-16.jpg",
+    "note": "Fotografía ilustrativa de la categoría; no representa los modelos pendientes."
+  },
+  {
+    "key": "smartwatch",
+    "path": "assets/smartwatch.jpg",
+    "source": "https://en.wikipedia.org/wiki/Smartwatch",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Samsung_Galaxy_Watch.jpg/960px-Samsung_Galaxy_Watch.jpg",
+    "note": "Fotografía ilustrativa de la categoría; no representa los modelos pendientes."
+  },
+  {
+    "key": "solid-state-drive",
+    "path": "assets/products/A17-0.webp",
+    "source": "https://us.transcend-info.com/product/internal-ssd/mts830s",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEzpEE0Hng5N_HQ1JoUXfPf7sRrsHyLzA5tbpHdSIn1Q&s=10",
+    "note": "Imagen de Transcend MTS830S TS1TMTS830S como referencia de la categoría."
+  },
+  {
+    "key": "tablet-computer",
+    "path": "assets/tablet-computer.jpg",
+    "source": "https://en.wikipedia.org/wiki/Tablet_computer",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/12.9_iPad_Pro_1st_Gen_And_Galaxy_Tab_S8_Ultra_Size_Comparison.jpg/960px-12.9_iPad_Pro_1st_Gen_And_Galaxy_Tab_S8_Ultra_Size_Comparison.jpg",
+    "note": "Fotografía ilustrativa de la categoría; no representa los modelos pendientes."
+  },
+  {
+    "key": "video-game-console",
+    "path": "assets/products/C16-0.webp",
+    "source": "https://direct.playstation.com/en-us/buy-consoles/playstation5-console-1-tb",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_pZ5mqd-njzdb19i4GPZ66oFsiB7R3VR-39FZMHAYaqDHhEcCouxBREQ&s=10",
+    "note": "Imagen de Sony PlayStation 5, modelo compacto, disco / 1 TB como referencia de la categoría."
+  },
+  {
+    "key": "hero",
+    "path": "assets/hero.jpg",
+    "source": "https://www.fravega.com/l/informatica/gaming-pc/mothers/",
+    "image_url": "https://images.fravega.com/f1000/80fa48559b5b236f907ce9f9e3a6794d.jpg",
+    "note": "Fotografía ilustrativa de la categoría; no representa los modelos pendientes."
+  },
+  {
+    "key": "corsair-ram",
+    "path": "assets/corsair-ram.jpg",
+    "source": "https://trivico.la/ram-pc-ddr4ddr5/ram-pc-ddr4-32gb-kit-16x2-bus-3200-corsair-vengeance-lpx-p14625.html",
+    "image_url": "https://trivico.la/images/products/detail/RAM%20PC%20DDR4%2032Gb%20Kit%2016x2%20Bus%203200%20Corsair%20VENGEANCE%20LPX%20DTC463.jpg",
+    "note": "Fotografía ilustrativa de la categoría; no representa los modelos pendientes."
+  },
+  {
+    "key": "kingston-ram",
+    "path": "assets/kingston-ram.jpg",
+    "source": "https://www.kingston.com/de/memory/gaming/kingston-fury-beast-ddr4-memory",
+    "image_url": "https://media.kingston.com/kingston/product/FURY_Beast_Black_DDR4_2-zm-lg.jpg",
+    "note": "Fotografía ilustrativa; el modelo final está pendiente."
+  },
+  {
+    "key": "printer-computing",
+    "path": "assets/products/B11-0.webp",
+    "source": "https://epson.com/For-Work/Printers/Inkjet/EcoTank-ET-2800-Wireless-Color-All-in-One-Cartridge-Free-Supertank-Printer-with-Scan-and-Copy/p/C11CJ66202?cq_cmp=71700000113027797",
+    "image_url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f7013284-d6d9-485c-a435-927247f16e05.__CR0,0,600,450_PT0_SX600_V1___.jpg",
+    "note": "Imagen de Epson EcoTank ET-2800, blanca como referencia de la categoría."
+  }
+]

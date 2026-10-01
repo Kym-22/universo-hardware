@@ -1,0 +1,39 @@
+Bloque	Término	Significado
+A	PCIe x1/x4/x8/x16	Cantidad de líneas de la conexión. El tamaño físico de la ranura no garantiza que todas estén activas.
+A	MT/s	Millones de transferencias por segundo; unidad adecuada para la velocidad de RAM.
+A	CL	Latencia CAS expresada en ciclos; se interpreta junto con la velocidad de la memoria.
+A	M.2 2280	Formato de 22 mm de ancho y 80 mm de largo; no determina si la unidad usa SATA o NVMe.
+A	NVMe	Protocolo de almacenamiento utilizado normalmente sobre PCIe.
+A	TBW	Terabytes escritos previstos como referencia de resistencia y límite de garantía de un SSD.
+A	CMR / SMR	Grabación magnética convencional / por pistas superpuestas. CMR suele ser más apropiada para escrituras continuas en NAS.
+A	ECC	Corrección de errores; requiere soporte adecuado en toda la plataforma para proteger la memoria del sistema.
+A	TDP / potencia base	Valores de diseño o especificación del fabricante; no son el consumo medido de todo el equipo.
+A	AIO	Refrigeración líquida ensamblada como un conjunto cerrado.
+A	HBA	Adaptador que conecta unidades de almacenamiento al sistema; no implica RAID por hardware.
+A	Paso de señal	Video que atraviesa una capturadora hacia la pantalla; puede tener un límite distinto al video grabado.
+A	1+1	Redundancia de dos módulos en la que la carga puede mantenerse con uno solo, según la configuración admitida.
+B	Hall Effect	Detección de posición mediante un campo magnético; permite entradas ajustables o analógicas según el dispositivo.
+B	Rapid Trigger	Ajuste que reinicia una tecla según su desplazamiento, en vez de esperar un punto fijo de retorno.
+B	DPI / Hz en un mouse	DPI expresa resolución de seguimiento; Hz expresa frecuencia de informes al equipo. Ninguno, por sí solo, determina comodidad o precisión.
+B	IPS / VA / OLED	Tecnologías de panel. IPS y VA son LCD; OLED emite luz en sus propios píxeles.
+B	Mini LED / atenuación local	Iluminación LCD con LED pequeños y zonas regulables. Las zonas no equivalen a píxeles autoemisivos.
+B	HDR	Presentación de un rango más amplio de luminancia; el resultado depende del panel, brillo, atenuación y contenido.
+B	ppm / ipm / cps	Páginas por minuto / imágenes o caras por minuto / caracteres por segundo. Se interpretan junto con papel, resolución y modo.
+B	ADF / dúplex	Alimentador automático de originales / trabajo a doble cara. Un equipo puede imprimir a doble cara y no escanear automáticamente ambas caras.
+B	3LCD / DLP	Formación de imagen mediante tres paneles LCD / microespejos digitales. Ambas tecnologías pueden usar diferentes fuentes de luz.
+B	ANSI / ISO / IDMS en brillo	Métodos de medición identificados en fichas de proyectores; una cifra sin método no basta para comparar brillo.
+B	XLR / phantom	Conector común de audio profesional / alimentación para micrófonos compatibles, normalmente de 48 V.
+B	TRS / TRRS	Conectores minijack con tres / cuatro contactos. El mismo diámetro no garantiza compatibilidad de micrófono.
+B	RMS / pico	Potencia continua de referencia / máximo de corta duración; no son valores intercambiables.
+B	ANC	Cancelación activa de ruido; distinta del aislamiento físico y de la reducción de ruido aplicada al micrófono.
+B	IP55 / IP65 / IP67	Grados de protección frente a polvo y agua con pruebas diferentes. Solo la cifra adecuada y sus condiciones permiten interpretar la resistencia.
+B	HOTAS	Conjunto de acelerador y palanca para simulación que concentra controles al alcance de las manos.
+B	MB/s / Gb/s	Megabytes por segundo / gigabits por segundo. Un byte son ocho bits; el enlace añade sobrecarga y no garantiza el rendimiento del dispositivo.
+B	UHS-I / UHS-II	Clases de bus de tarjetas SD; UHS-II añade una segunda fila de contactos y requiere un lector compatible para aprovecharla.
+B	V30 / V60 / A2	Clases de escritura sostenida para video / rendimiento para aplicaciones. A2 depende también del soporte del equipo.
+B	CFexpress Type A / Type B	Formatos físicos diferentes de tarjeta; no se intercambian en una misma ranura.
+B	VA / W / AVR	Potencia aparente / potencia real / regulación automática de voltaje. Una UPS tiene límites separados en VA y W.
+B	Standby / Line Interactive / Online	Topologías de UPS con diferente forma de regular la energía y utilizar la batería. Online emplea doble conversión en su modo normal.
+B	USB-C / PD / Alt Mode	Tipo de conector / negociación de alimentación / modo alternativo para señales como DisplayPort. La forma USB-C no garantiza todas esas funciones.
+B	Thunderbolt 4 / KVM	Interfaz de datos, video y energía con requisitos definidos / función para compartir controles entre equipos.
+B	MSRP / MAP	Precio minorista sugerido / precio mínimo anunciado según política del fabricante; no equivalen necesariamente a una oferta final disponible.

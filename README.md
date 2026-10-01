@@ -2,4 +2,12 @@
 
 Álbum de componentes de hardware de Kimberly Vásquez y Alexander Canon.
 
-Sitio estático en HTML, CSS y JavaScript. Para Vercel: importar este repositorio, elegir Other y usar la raíz del repositorio, sin comando de compilación.
+HTML, CSS y JavaScript. Incluye 124 comparaciones y 248 fotos de productos.
+
+## Publicar en Vercel
+
+Importa este repositorio. Selecciona Framework Preset: Other y Root Directory: raíz. No requiere comando de compilación.
+
+## Vista local
+
+Abre index.html con Live Server en VS Code.

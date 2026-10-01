@@ -1,0 +1,754 @@
+ID comparativa	Bloque	Alternativa	Producto	Tipo de fuente	Título	URL
+A01	A			técnicas	ficha/documento de AMD Ryzen 7 9700X	https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9700x.html
+A01	A			técnicas	ficha/documento de Intel Core Ultra 5 245K	https://www.intel.com/content/www/us/en/products/sku/241067/intel-core-ultra-5-processor-245k-24m-cache-up-to-5-20-ghz/specifications.html
+A01	A	A	AMD Ryzen 7 9700X	de precio	AMD Ryzen 7 9700X	https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+7+9700X
+A01	A	B	Intel Core Ultra 5 245K	de precio	Intel Core Ultra 5 245K	https://www.intel.com/content/www/us/en/products/sku/241067/intel-core-ultra-5-processor-245k-24m-cache-up-to-5-20-ghz/specifications.html
+A01	A	A	AMD Ryzen 7 9700X	Imágenes: galería o referencia visual	AMD Ryzen 7 9700X	https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9700x.html
+A01	A	B	Intel Core Ultra 5 245K	Imágenes: galería o referencia visual	Intel Core Ultra 5 245K	https://www.intel.com/content/www/us/en/products/sku/241067/intel-core-ultra-5-processor-245k-24m-cache-up-to-5-20-ghz/specifications.html
+A02	A			técnicas	ficha/documento de AMD Ryzen 7 8845HS	https://www.amd.com/en/products/processors/laptop/ryzen/8000-series/amd-ryzen-7-8845hs.html
+A02	A			técnicas	ficha/documento de Intel Core Ultra 7 155H	https://www.intel.com/content/www/us/en/products/sku/236847/intel-core-ultra-7-processor-155h-24m-cache-up-to-4-80-ghz/specifications.html
+A02	A	A	AMD Ryzen 7 8845HS	de precio	AMD Ryzen 7 8845HS	https://www.amd.com/en/products/processors/laptop/ryzen/8000-series/amd-ryzen-7-8845hs.html
+A02	A	B	Intel Core Ultra 7 155H	de precio	Intel Core Ultra 7 155H	https://www.intel.com/content/www/us/en/products/sku/236847/intel-core-ultra-7-processor-155h-24m-cache-up-to-4-80-ghz/specifications.html
+A02	A	A	AMD Ryzen 7 8845HS	Imágenes: galería o referencia visual	AMD Ryzen 7 8845HS	https://www.amd.com/en/products/processors/laptop/ryzen/8000-series/amd-ryzen-7-8845hs.html
+A02	A	B	Intel Core Ultra 7 155H	Imágenes: galería o referencia visual	Intel Core Ultra 7 155H	https://www.intel.com/content/www/us/en/products/sku/236847/intel-core-ultra-7-processor-155h-24m-cache-up-to-4-80-ghz/specifications.html
+A03	A			técnicas	ficha/documento de AMD EPYC 9124	https://www.amd.com/en/products/processors/server/epyc/4th-generation-9004-and-8004-series/amd-epyc-9124.html
+A03	A			técnicas	ficha/documento de Intel Xeon Silver 4510	https://www.intel.com/content/www/us/en/products/sku/236637/intel-xeon-silver-4510-processor-30m-cache-2-40-ghz/specifications.html
+A03	A	A	AMD EPYC 9124	de precio	AMD EPYC 9124	https://www.amd.com/en/products/processors/server/epyc/4th-generation-9004-and-8004-series/amd-epyc-9124.html
+A03	A	B	Intel Xeon Silver 4510	de precio	Intel Xeon Silver 4510	https://www.intel.com/content/www/us/en/products/sku/236637/intel-xeon-silver-4510-processor-30m-cache-2-40-ghz/specifications.html
+A03	A	A	AMD EPYC 9124	Imágenes: galería o referencia visual	AMD EPYC 9124	https://www.amd.com/en/products/processors/server/epyc/4th-generation-9004-and-8004-series/amd-epyc-9124.html
+A03	A	B	Intel Xeon Silver 4510	Imágenes: galería o referencia visual	Intel Xeon Silver 4510	https://www.intel.com/content/www/us/en/products/sku/236637/intel-xeon-silver-4510-processor-30m-cache-2-40-ghz/specifications.html
+A04	A			técnicas	ficha/documento de MSI MAG B650 TOMAHAWK WIFI	https://www.msi.com/Motherboard/MAG-B650-TOMAHAWK-WIFI
+A04	A			técnicas	ficha/documento de ASUS TUF GAMING B650-PLUS WIFI	https://www.asus.com/latin/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b650-plus-wifi/
+A04	A	A	MSI MAG B650 TOMAHAWK WIFI	de precio	MSI MAG B650 TOMAHAWK WIFI	https://www.newegg.com/p/pl?N=100&d=%2FMAG-B650-TOMAHAWK-WIFI
+A04	A	B	ASUS TUF GAMING B650-PLUS WIFI	de precio	ASUS TUF GAMING B650-PLUS WIFI	https://www.walmart.com/ip/19123565699
+A04	A	A	MSI MAG B650 TOMAHAWK WIFI	Imágenes: galería o referencia visual	MSI MAG B650 TOMAHAWK WIFI	https://www.msi.com/Motherboard/MAG-B650-TOMAHAWK-WIFI
+A04	A	B	ASUS TUF GAMING B650-PLUS WIFI	Imágenes: galería o referencia visual	ASUS TUF GAMING B650-PLUS WIFI	https://www.asus.com/latin/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b650-plus-wifi/
+A05	A			técnicas	ficha/documento de GIGABYTE B650M AORUS ELITE AX, rev. 1.0/1.1	https://www.gigabyte.com/Motherboard/B650M-AORUS-ELITE-AX-rev-10-11
+A05	A			técnicas	ficha/documento de ASRock B650M Pro RS WiFi	https://www.asrock.com/mb/amd/b650m%20pro%20rs%20wifi/index.asp
+A05	A	A	GIGABYTE B650M AORUS ELITE AX, rev. 1.0/1.1	de precio	GIGABYTE B650M AORUS ELITE AX, rev. 1.0/1.1	https://www.walmart.com/ip/1801691433
+A05	A	B	ASRock B650M Pro RS WiFi	de precio	ASRock B650M Pro RS WiFi	https://www.newegg.com/asrock-b650m-pro-rs-wifi-micro-atx-motherboard-amd-b650-am5/p/N82E16813162131?srsltid=AU7gw4XPtS8Vf6THx-TqW1gzUPLs7YertntacLnU2zrQXKGViiOMRKzD
+A05	A	A	GIGABYTE B650M AORUS ELITE AX, rev. 1.0/1.1	Imágenes: galería o referencia visual	GIGABYTE B650M AORUS ELITE AX, rev. 1.0/1.1	https://www.gigabyte.com/Motherboard/B650M-AORUS-ELITE-AX-rev-10-11
+A05	A	B	ASRock B650M Pro RS WiFi	Imágenes: galería o referencia visual	ASRock B650M Pro RS WiFi	https://www.asrock.com/mb/amd/b650m%20pro%20rs%20wifi/index.asp
+A06	A			técnicas	ficha/documento de ASUS ROG STRIX B650E-I GAMING WIFI	https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b650e-i-gaming-wifi-model/
+A06	A			técnicas	ficha/documento de ASRock B650I Lightning WiFi	https://asrock.com/MB/AMD/B650I%20Lightning%20WiFi/index.asp
+A06	A	A	ASUS ROG STRIX B650E-I GAMING WIFI	de precio	ASUS ROG STRIX B650E-I GAMING WIFI	https://www.newegg.com/asus-rog-strix-b650e-i-gaming-wifi-mini-itx-motherboard-amd-b650e-am5/p/N82E16813119612
+A06	A	B	ASRock B650I Lightning WiFi	de precio	ASRock B650I Lightning WiFi	https://www.newegg.com/p/pl?cm_sp=KeywordRelated-_-INFOCARD-_-b850+i-_-b650i&d=b650i
+A06	A	A	ASUS ROG STRIX B650E-I GAMING WIFI	Imágenes: galería o referencia visual	ASUS ROG STRIX B650E-I GAMING WIFI	https://c1.neweggimages.com/productimage/nb640/13-119-612-09.png
+A06	A	B	ASRock B650I Lightning WiFi	Imágenes: galería o referencia visual	ASRock B650I Lightning WiFi	https://asrock.com/MB/AMD/B650I%20Lightning%20WiFi/index.asp
+A07	A			técnicas	ficha/documento de Corsair VENGEANCE LPX CMK32GX4M2E3200C16	https://www.corsair.com/us/en/p/memory/cmk32gx4m2e3200c16/vengeance-lpx-32gb-2-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk32gx4m2e3200c16?srsltid=AU7gw4UyUbx8qlel3Bu0n4wCBiVdDDJWBd1KW5Z1VUjC1l5hhrjETWqT
+A07	A			técnicas	ficha/documento de Kingston FURY Beast KF432C16BBK2/32	https://www.kingston.com/datasheets/KF432C16BBK2_32.pdf
+A07	A	A	Corsair VENGEANCE LPX CMK32GX4M2E3200C16	de precio	Corsair VENGEANCE LPX CMK32GX4M2E3200C16	https://www.corsair.com/us/en/p/memory/cmk32gx4m2e3200c16/vengeance-lpx-32gb-2-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk32gx4m2e3200c16?srsltid=AU7gw4UyUbx8qlel3Bu0n4wCBiVdDDJWBd1KW5Z1VUjC1l5hhrjETWqT
+A07	A	B	Kingston FURY Beast KF432C16BBK2/32	de precio	Kingston FURY Beast KF432C16BBK2/32	https://www.newegg.com/kingston-technology-corp-fury-beast-32gb-ddr4-3200-cas-latency-cl16-memory-black/p/0RN-001J-01055
+A07	A	A	Corsair VENGEANCE LPX CMK32GX4M2E3200C16	Imágenes: galería o referencia visual	Corsair VENGEANCE LPX CMK32GX4M2E3200C16	https://www.corsair.com/us/en/p/memory/cmk32gx4m2e3200c16/vengeance-lpx-32gb-2-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk32gx4m2e3200c16?srsltid=AU7gw4UyUbx8qlel3Bu0n4wCBiVdDDJWBd1KW5Z1VUjC1l5hhrjETWqT
+A07	A	B	Kingston FURY Beast KF432C16BBK2/32	Imágenes: galería o referencia visual	Kingston FURY Beast KF432C16BBK2/32	https://www.newegg.com/kingston-technology-corp-fury-beast-32gb-ddr4-3200-cas-latency-cl16-memory-black/p/0RN-001J-01055
+A08	A			técnicas	ficha/documento de Crucial Pro CP2K16G56C46U5	https://www.crucial.com/memory/ddr5/cp2k16g56c46u5?srsltid=AU7gw4XAUYQt0V1vZm-FgFHyhM8ExD8lLAZHqztFsS80EucFOGFKJYce
+A08	A			técnicas	ficha/documento de Kingston FURY Beast KF556C40BBK2-32	https://www.kingston.com/datasheets/KF556C40BBK2-32.pdf
+A08	A	A	Crucial Pro CP2K16G56C46U5	de precio	Crucial Pro CP2K16G56C46U5	https://business.walmart.com/ip/Crucial-Pro-32GB-2-x-16GB-DDR5-5600-PC5-44800-XMP-3-0-AMD-EXPO-Ready-Desktop-Memory-Model-CP2K16G56C46U5/1653417755
+A08	A	B	Kingston FURY Beast KF556C40BBK2-32	de precio	Kingston FURY Beast KF556C40BBK2-32	https://www.walmart.com/ip/660531314
+A08	A	A	Crucial Pro CP2K16G56C46U5	Imágenes: galería o referencia visual	Crucial Pro CP2K16G56C46U5	https://www.crucial.com/memory/ddr5/cp2k16g56c46u5?srsltid=AU7gw4XAUYQt0V1vZm-FgFHyhM8ExD8lLAZHqztFsS80EucFOGFKJYce
+A08	A	B	Kingston FURY Beast KF556C40BBK2-32	Imágenes: galería o referencia visual	Kingston FURY Beast KF556C40BBK2-32	https://www.walmart.com/ip/660531314
+A09	A			técnicas	ficha/documento de Crucial CT2K16G4SFRA32A	https://www.crucial.com/memory/ddr4/ct2k16g4sfra32a?srsltid=AU7gw4WCZ0U4fOtbrA8a49zRnOicntUmeWyiybLixMYmJF7xGVDBHU31
+A09	A			técnicas	ficha/documento de Corsair VENGEANCE CMSX32GX4M2A3200C22	https://www.corsair.com/us/en/p/memory/cmsx32gx4m2a3200c22/vengeancea-series-32gb-2x16gb-ddr4-sodimm-3200mhz-cl22-memory-kit-cmsx32gx4m2a3200c22?srsltid=AU7gw4W9yHRfmVp6J4Z2wvCo-4iAGhDylyTSLTqfJo84aZFUSJSutgF1
+A09	A	A	Crucial CT2K16G4SFRA32A	de precio	Crucial CT2K16G4SFRA32A	https://www.newegg.com/crucial-32gb-ddr4-3200-cas-latency-cl22-laptop-memory/p/N82E16820156263?Item=9SIAFYRKKZ5523
+A09	A	B	Corsair VENGEANCE CMSX32GX4M2A3200C22	de precio	Corsair VENGEANCE CMSX32GX4M2A3200C22	https://www.corsair.com/us/en/p/memory/cmsx32gx4m2a3200c22/vengeancea-series-32gb-2x16gb-ddr4-sodimm-3200mhz-cl22-memory-kit-cmsx32gx4m2a3200c22?srsltid=AU7gw4W9yHRfmVp6J4Z2wvCo-4iAGhDylyTSLTqfJo84aZFUSJSutgF1
+A09	A	A	Crucial CT2K16G4SFRA32A	Imágenes: galería o referencia visual	Crucial CT2K16G4SFRA32A	https://www.crucial.com/memory/ddr4/ct2k16g4sfra32a?srsltid=AU7gw4WCZ0U4fOtbrA8a49zRnOicntUmeWyiybLixMYmJF7xGVDBHU31
+A09	A	B	Corsair VENGEANCE CMSX32GX4M2A3200C22	Imágenes: galería o referencia visual	Corsair VENGEANCE CMSX32GX4M2A3200C22	https://www.corsair.com/us/en/p/memory/cmsx32gx4m2a3200c22/vengeancea-series-32gb-2x16gb-ddr4-sodimm-3200mhz-cl22-memory-kit-cmsx32gx4m2a3200c22?srsltid=AU7gw4W9yHRfmVp6J4Z2wvCo-4iAGhDylyTSLTqfJo84aZFUSJSutgF1
+A10	A			técnicas	ficha/documento de NVIDIA GeForce RTX 4070 SUPER	https://www.nvidia.com/en-us/geforce/news/geforce-rtx-4070-super-game-ready-driver/
+A10	A			técnicas	ficha/documento de AMD Radeon RX 7800 XT	https://www.amd.com/en/newsroom/press-releases/2023-8-25-new-amd-radeon-rx-7800-xt-and-radeon-rx-7700-xt-gr.html
+A10	A	A	NVIDIA GeForce RTX 4070 SUPER	de precio	NVIDIA GeForce RTX 4070 SUPER	https://www.nvidia.com/en-us/geforce/news/geforce-rtx-4070-super-game-ready-driver/
+A10	A	B	AMD Radeon RX 7800 XT	de precio	AMD Radeon RX 7800 XT	https://www.amd.com/en/newsroom/press-releases/2023-8-25-new-amd-radeon-rx-7800-xt-and-radeon-rx-7700-xt-gr.html
+A10	A	A	NVIDIA GeForce RTX 4070 SUPER	Imágenes: galería o referencia visual	NVIDIA GeForce RTX 4070 SUPER	https://www.nvidia.com/en-us/geforce/news/geforce-rtx-4070-super-game-ready-driver/
+A10	A	B	AMD Radeon RX 7800 XT	Imágenes: galería o referencia visual	AMD Radeon RX 7800 XT	https://www.amd.com/en/newsroom/press-releases/2023-8-25-new-amd-radeon-rx-7800-xt-and-radeon-rx-7700-xt-gr.html
+A11	A			técnicas	ficha/documento de NVIDIA RTX 2000 Ada Generation	https://www.nvidia.com/en-us/products/workstations/rtx-2000/
+A11	A			técnicas	ficha/documento de AMD Radeon PRO W7700	https://ir.amd.com/news-events/press-releases/detail/1165/new-amd-radeon-pro-workstation-graphics-card-to-power-next-generation-professional-content-creation-cad-and-ai-applications
+A11	A	A	NVIDIA RTX 2000 Ada Generation	de precio	NVIDIA RTX 2000 Ada Generation	https://www.walmart.com/ip/5488163621
+A11	A	B	AMD Radeon PRO W7700	de precio	AMD Radeon PRO W7700	https://ir.amd.com/news-events/press-releases/detail/1165/new-amd-radeon-pro-workstation-graphics-card-to-power-next-generation-professional-content-creation-cad-and-ai-applications
+A11	A	A	NVIDIA RTX 2000 Ada Generation	Imágenes: galería o referencia visual	NVIDIA RTX 2000 Ada Generation	https://www.nvidia.com/en-us/products/workstations/rtx-2000/
+A11	A	B	AMD Radeon PRO W7700	Imágenes: galería o referencia visual	AMD Radeon PRO W7700	https://ir.amd.com/news-events/press-releases/detail/1165/new-amd-radeon-pro-workstation-graphics-card-to-power-next-generation-professional-content-creation-cad-and-ai-applications
+A12	A			técnicas	ficha/documento de NVIDIA GeForce RTX 5090	https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/
+A12	A			técnicas	ficha/documento de AMD Radeon AI PRO R9700	https://www.amd.com/en/products/graphics/workstations/radeon-ai-pro/ai-9000-series/amd-radeon-ai-pro-r9700.html
+A12	A	A	NVIDIA GeForce RTX 5090	de precio	NVIDIA GeForce RTX 5090	https://www.nvidia.com/en-us/geforce/news/rtx-50-series-graphics-cards-gpu-laptop-announcements/
+A12	A	B	AMD Radeon AI PRO R9700	de precio	AMD Radeon AI PRO R9700	https://www.amd.com/en/products/graphics/workstations/radeon-ai-pro.html
+A12	A	A	NVIDIA GeForce RTX 5090	Imágenes: galería o referencia visual	NVIDIA GeForce RTX 5090	https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/
+A12	A	B	AMD Radeon AI PRO R9700	Imágenes: galería o referencia visual	AMD Radeon AI PRO R9700	https://www.amd.com/en/products/graphics/workstations/radeon-ai-pro/ai-9000-series/amd-radeon-ai-pro-r9700.html
+A13	A			técnicas	ficha/documento de Seagate BarraCuda ST2000DM008	https://www.seagate.com/la/es/support/internal-hard-drives/desktop-hard-drives/barracuda-3-5/
+A13	A			técnicas	ficha/documento de Western Digital Blue WD20EZBX	https://www.westerndigital.com/es-la/products/internal-drives/wd-blue-desktop-sata-hdd?sku=WD20EZBX
+A13	A	A	Seagate BarraCuda ST2000DM008	de precio	Seagate BarraCuda ST2000DM008	https://www.newegg.com/p/pl?d=st2000dm008
+A13	A	B	Western Digital Blue WD20EZBX	de precio	Western Digital Blue WD20EZBX	https://www.newegg.com/blue-wd20ezbx-2tb-computer-hardware-for-daily-computing-7200-rpm/p/N82E16822234469
+A13	A	A	Seagate BarraCuda ST2000DM008	Imágenes: galería o referencia visual	Seagate BarraCuda ST2000DM008	https://www.seagate.com/la/es/support/internal-hard-drives/desktop-hard-drives/barracuda-3-5/
+A13	A	B	Western Digital Blue WD20EZBX	Imágenes: galería o referencia visual	Western Digital Blue WD20EZBX	https://www.westerndigital.com/es-la/products/internal-drives/wd-blue-desktop-sata-hdd?sku=WD20EZBX
+A14	A			técnicas	ficha/documento de Seagate Mobile HDD ST1000LM035	https://www.seagate.com/support/internal-hard-drives/laptop-hard-drives/mobile-hdd/
+A14	A			técnicas	ficha/documento de Western Digital Blue WD10SPZX	https://www.westerndigital.com/es-la/products/internal-drives/wd-blue-mobile-sata-hdd?sku=WD10SPZ
+A14	A	A	Seagate Mobile HDD ST1000LM035	de precio	Seagate Mobile HDD ST1000LM035	https://www.newegg.com/p/pl?N=100&d=st1000lm035
+A14	A	B	Western Digital Blue WD10SPZX	de precio	Western Digital Blue WD10SPZX	https://www.walmart.com/ip/553477429
+A14	A	A	Seagate Mobile HDD ST1000LM035	Imágenes: galería o referencia visual	Seagate Mobile HDD ST1000LM035	https://www.seagate.com/support/internal-hard-drives/laptop-hard-drives/mobile-hdd/
+A14	A	B	Western Digital Blue WD10SPZX	Imágenes: galería o referencia visual	Western Digital Blue WD10SPZX	https://www.westerndigital.com/es-la/products/internal-drives/wd-blue-mobile-sata-hdd?sku=WD10SPZ
+A15	A			técnicas	ficha/documento de Western Digital Red Plus WD40EFPX	https://www.westerndigital.com/products/internal-drives/wd-red-plus-sata-3-5-hdd?sku=WD40EFPX
+A15	A			técnicas	ficha/documento de Seagate IronWolf ST4000VN006	https://www.seagate.com/la/es/support/internal-hard-drives/nas-drives/ironwolf/
+A15	A	A	Western Digital Red Plus WD40EFPX	de precio	Western Digital Red Plus WD40EFPX	https://www.walmart.com/ip/1301028309
+A15	A	B	Seagate IronWolf ST4000VN006	de precio	Seagate IronWolf ST4000VN006	https://www.cdw.com/product/seagate-ironwolf-st4000vn006-hard-drive-4-tb-sata-6gb-s/7036985
+A15	A	A	Western Digital Red Plus WD40EFPX	Imágenes: galería o referencia visual	Western Digital Red Plus WD40EFPX	https://www.westerndigital.com/products/internal-drives/wd-red-plus-sata-3-5-hdd?sku=WD40EFPX
+A15	A	B	Seagate IronWolf ST4000VN006	Imágenes: galería o referencia visual	Seagate IronWolf ST4000VN006	https://www.seagate.com/la/es/support/internal-hard-drives/nas-drives/ironwolf/
+A16	A			técnicas	ficha/documento de Samsung 870 EVO MZ-77E1T0B/AM	https://www.samsung.com/us/memory-storage/sata-ssd/870-evo-sata-2-5-ssd-1tb-sku-mz-77e1t0b-am/
+A16	A			técnicas	ficha/documento de Crucial MX500 CT1000MX500SSD1	https://content.crucial.com/content/dam/crucial/ssd-products/mx500/flyer/crucial-mx500-ssd-productflyer-es_es.pdf
+A16	A	A	Samsung 870 EVO MZ-77E1T0B/AM	de precio	Samsung 870 EVO MZ-77E1T0B/AM	https://www.samsung.com/us/memory-storage/sata-ssd/870-evo-sata-2-5-ssd-1tb-sku-mz-77e1t0b-am/
+A16	A	B	Crucial MX500 CT1000MX500SSD1	de precio	Crucial MX500 CT1000MX500SSD1	https://www.walmart.com/ip/1295036238
+A16	A	A	Samsung 870 EVO MZ-77E1T0B/AM	Imágenes: galería o referencia visual	Samsung 870 EVO MZ-77E1T0B/AM	https://www.samsung.com/us/memory-storage/sata-ssd/870-evo-sata-2-5-ssd-1tb-sku-mz-77e1t0b-am/
+A16	A	B	Crucial MX500 CT1000MX500SSD1	Imágenes: galería o referencia visual	Crucial MX500 CT1000MX500SSD1	https://www.walmart.com/ip/1295036238
+A17	A			técnicas	ficha/documento de Transcend MTS830S TS1TMTS830S	https://us.transcend-info.com/product/internal-ssd/mts830s
+A17	A			técnicas	ficha/documento de Western Digital Blue SA510 WDS100T3B0B	https://www.sandisk.com/es-la/products/ssd/internal-ssd/wd-blue-sa510-sata-m-2-ssd?sku=WDS100T3B0B-00AXS0
+A17	A	A	Transcend MTS830S TS1TMTS830S	de precio	Transcend MTS830S TS1TMTS830S	https://www.newegg.com/transcend-830-series-1tb/p/0D9-001H-001W2
+A17	A	B	Western Digital Blue SA510 WDS100T3B0B	de precio	Western Digital Blue SA510 WDS100T3B0B	https://business.walmart.com/ip/WD-Blue-1TB-SA510-M-2-Internal-Solid-State-Drive-SSD-WDS100T3B0B/1338589968
+A17	A	A	Transcend MTS830S TS1TMTS830S	Imágenes: galería o referencia visual	Transcend MTS830S TS1TMTS830S	https://us.transcend-info.com/product/internal-ssd/mts830s
+A17	A	B	Western Digital Blue SA510 WDS100T3B0B	Imágenes: galería o referencia visual	Western Digital Blue SA510 WDS100T3B0B	https://www.sandisk.com/es-la/products/ssd/internal-ssd/wd-blue-sa510-sata-m-2-ssd?sku=WDS100T3B0B-00AXS0
+A18	A			técnicas	ficha/documento de Samsung 990 PRO con disipador MZ-V9P1T0CW	https://www.samsung.com/us/memory-storage/nvme-ssd/990-pro-w-heatsink-pcie-4-0-nvme-ssd-1tb-sku-mz-v9p1t0cw/
+A18	A			técnicas	ficha/documento de Western Digital Black SN850X con disipador WDS100T2XHE	https://www.sandisk.com/products/ssd/internal-ssd/wd-black-sn850x-nvme-ssd
+A18	A	A	Samsung 990 PRO con disipador MZ-V9P1T0CW	de precio	Samsung 990 PRO con disipador MZ-V9P1T0CW	https://www.samsung.com/us/memory-storage/nvme-ssd/990-pro-w-heatsink-pcie-4-0-nvme-ssd-1tb-sku-mz-v9p1t0cw/
+A18	A	B	Western Digital Black SN850X con disipador WDS100T2XHE	de precio	Western Digital Black SN850X con disipador WDS100T2XHE	https://www.walmart.com/c/kp/sn850x-1tb
+A18	A	A	Samsung 990 PRO con disipador MZ-V9P1T0CW	Imágenes: galería o referencia visual	Samsung 990 PRO con disipador MZ-V9P1T0CW	https://www.samsung.com/us/memory-storage/nvme-ssd/990-pro-w-heatsink-pcie-4-0-nvme-ssd-1tb-sku-mz-v9p1t0cw/
+A18	A	B	Western Digital Black SN850X con disipador WDS100T2XHE	Imágenes: galería o referencia visual	Western Digital Black SN850X con disipador WDS100T2XHE	https://www.sandisk.com/products/ssd/internal-ssd/wd-black-sn850x-nvme-ssd
+A19	A			técnicas	ficha/documento de Corsair RM850e 2025 CP-9020296-NA	https://www.corsair.com/us/en/p/psu/cp-9020296-na/rme-series-rm850e-fully-modular-low-noise-atx-power-supply-cp-9020296-na?position=5&queryID=b40463b01c1854669e1b4995c67722fc
+A19	A			técnicas	ficha/documento de MSI MAG A850GL PCIE5, revisión ATX 3.1	https://us.msi.com/Power-Supply/MAG-A850GL-PCIE5/Overview
+A19	A	A	Corsair RM850e 2025 CP-9020296-NA	de precio	Corsair RM850e 2025 CP-9020296-NA	https://www.corsair.com/us/en/p/psu/cp-9020296-na/rme-series-rm850e-fully-modular-low-noise-atx-power-supply-cp-9020296-na?position=5&queryID=b40463b01c1854669e1b4995c67722fc
+A19	A	B	MSI MAG A850GL PCIE5, revisión ATX 3.1	de precio	MSI MAG A850GL PCIE5, revisión ATX 3.1	https://us-store.msi.com/MAG-A850GL
+A19	A	A	Corsair RM850e 2025 CP-9020296-NA	Imágenes: galería o referencia visual	Corsair RM850e 2025 CP-9020296-NA	https://www.corsair.com/us/en/p/psu/cp-9020296-na/rme-series-rm850e-fully-modular-low-noise-atx-power-supply-cp-9020296-na?position=5&queryID=b40463b01c1854669e1b4995c67722fc
+A19	A	B	MSI MAG A850GL PCIE5, revisión ATX 3.1	Imágenes: galería o referencia visual	MSI MAG A850GL PCIE5, revisión ATX 3.1	https://us.msi.com/Power-Supply/MAG-A850GL-PCIE5/Overview
+A20	A			técnicas	ficha/documento de Corsair SF750 2024 CP-9020284-NA	https://www.corsair.com/us/en/p/psu/cp-9020284-na/sf-series-sf750-fully-modular-80-plus-platinum-sfx-power-supply-cp-9020284-na?position=1&queryID=cef20cb172b8c5ce992577f6d37b7687
+A20	A			técnicas	ficha/documento de Cooler Master V750 SFX Gold ATX 3.1 MPY-7501-SFHAGV-3XX	https://legacy.coolermaster.com/en-au/products/v750-sfx-gold/
+A20	A	A	Corsair SF750 2024 CP-9020284-NA	de precio	Corsair SF750 2024 CP-9020284-NA	https://www.corsair.com/us/en/p/psu/cp-9020284-na/sf-series-sf750-fully-modular-80-plus-platinum-sfx-power-supply-cp-9020284-na?position=1&queryID=cef20cb172b8c5ce992577f6d37b7687
+A20	A	B	Cooler Master V750 SFX Gold ATX 3.1 MPY-7501-SFHAGV-3XX	de precio	Cooler Master V750 SFX Gold ATX 3.1 MPY-7501-SFHAGV-3XX	https://business.walmart.com/ip/Cooler-Master-V750-SFX-Gold-MPY-7501-SFHAGV-750W-Power-Supply-SFX-120-V-AC-230-V-AC-Input-5-V-DC-20-A-3-3-V-DC-20-A-12-V-DC-62-5-A-12-V-DC-300-mA-5-V/623966657?classType=REGULAR
+A20	A	A	Corsair SF750 2024 CP-9020284-NA	Imágenes: galería o referencia visual	Corsair SF750 2024 CP-9020284-NA	https://www.corsair.com/us/en/p/psu/cp-9020284-na/sf-series-sf750-fully-modular-80-plus-platinum-sfx-power-supply-cp-9020284-na?position=1&queryID=cef20cb172b8c5ce992577f6d37b7687
+A20	A	B	Cooler Master V750 SFX Gold ATX 3.1 MPY-7501-SFHAGV-3XX	Imágenes: galería o referencia visual	Cooler Master V750 SFX Gold ATX 3.1 MPY-7501-SFHAGV-3XX	https://legacy.coolermaster.com/en-au/products/v750-sfx-gold/
+A21	A			técnicas	ficha/documento de HPE Flex Slot 800 W Platinum P38995-B21	https://buy.hpe.com/us/en/options/power-supplies/server-power-supplies/hpe-800w-flex-slot-platinum-hot-plug-low-halogen-power-supply-kit/p/p38995-b21
+A21	A			técnicas	ficha/documento de Lenovo ThinkSystem 750 W Platinum 7N67A00883	https://lenovopress.lenovo.com/lp1161.pdf
+A21	A	A	HPE Flex Slot 800 W Platinum P38995-B21	de precio	HPE Flex Slot 800 W Platinum P38995-B21	https://buy.hpe.com/us/en/options/power-supplies/server-power-supplies/hpe-flexible-slot-power-supplies/p/7268787?page=0&pageSize=10&q=7268787%3Aname-asc
+A21	A	B	Lenovo ThinkSystem 750 W Platinum 7N67A00883	de precio	Lenovo ThinkSystem 750 W Platinum 7N67A00883	https://www.serversupply.com/POWER%20SUPPLY/SERVER%20POWER%20SUPPLY/750%20WATT/LENOVO/7N67A00883_330110.htm
+A21	A	A	HPE Flex Slot 800 W Platinum P38995-B21	Imágenes: galería o referencia visual	HPE Flex Slot 800 W Platinum P38995-B21	https://buy.hpe.com/us/en/options/power-supplies/server-power-supplies/hpe-800w-flex-slot-platinum-hot-plug-low-halogen-power-supply-kit/p/p38995-b21
+A21	A	B	Lenovo ThinkSystem 750 W Platinum 7N67A00883	Imágenes: galería o referencia visual	Lenovo ThinkSystem 750 W Platinum 7N67A00883	https://www.serversupply.com/POWER%20SUPPLY/SERVER%20POWER%20SUPPLY/750%20WATT/LENOVO/7N67A00883_330110.htm
+A22	A			técnicas	ficha/documento de Noctua NH-D15 G2, versión estándar	https://noctua.at/pub/media/blfa_files/infosheet/noctua_nh_d15_g2_datasheet_en.pdf
+A22	A			técnicas	ficha/documento de be quiet! Dark Rock Pro 5 BK036	https://www.bequiet.com/en/cpucooler/4466
+A22	A	A	Noctua NH-D15 G2, versión estándar	de precio	Noctua NH-D15 G2, versión estándar	https://www.noctua.at/en/news/noctua-releases-its-nh-d15-g2-next-gen-flagship-model-cpu-cooler-and-nf-a14x25r-g2-fans
+A22	A	B	be quiet! Dark Rock Pro 5 BK036	de precio	be quiet! Dark Rock Pro 5 BK036	https://pangoly.com/en/price-history/be-quiet-dark-rock-pro-5
+A22	A	A	Noctua NH-D15 G2, versión estándar	Imágenes: galería o referencia visual	Noctua NH-D15 G2, versión estándar	https://www.noctua.at/en/nh-d15-g2
+A22	A	B	be quiet! Dark Rock Pro 5 BK036	Imágenes: galería o referencia visual	be quiet! Dark Rock Pro 5 BK036	https://www.bequiet.com/en/cpucooler/4466
+A23	A			técnicas	ficha/documento de ARCTIC Liquid Freezer III 360 A-RGB, blanco	https://www.arctic.de/en/Liquid-Freezer-III-360
+A23	A			técnicas	ficha/documento de Corsair iCUE H150i ELITE CAPELLIX XT, blanco CW-9060073-WW	https://www.corsair.com/us/en/p/cpu-coolers/cw-9060073-ww/icue-h150i-elite-capellix-xt-liquid-cpu-cooler-white?position=4&queryID=e64ca9d7e751654a34ec3cab1ebaaec5
+A23	A	A	ARCTIC Liquid Freezer III 360 A-RGB, blanco	de precio	ARCTIC Liquid Freezer III 360 A-RGB, blanco	https://www.walmart.com/ip/5339494780
+A23	A	B	Corsair iCUE H150i ELITE CAPELLIX XT, blanco CW-9060073-WW	de precio	Corsair iCUE H150i ELITE CAPELLIX XT, blanco CW-9060073-WW	https://www.corsair.com/us/en/p/cpu-coolers/cw-9060073-ww/icue-h150i-elite-capellix-xt-liquid-cpu-cooler-white?position=4&queryID=e64ca9d7e751654a34ec3cab1ebaaec5
+A23	A	A	ARCTIC Liquid Freezer III 360 A-RGB, blanco	Imágenes: galería o referencia visual	ARCTIC Liquid Freezer III 360 A-RGB, blanco	https://www.walmart.com/ip/5339494780
+A23	A	B	Corsair iCUE H150i ELITE CAPELLIX XT, blanco CW-9060073-WW	Imágenes: galería o referencia visual	Corsair iCUE H150i ELITE CAPELLIX XT, blanco CW-9060073-WW	https://www.corsair.com/us/en/p/cpu-coolers/cw-9060073-ww/icue-h150i-elite-capellix-xt-liquid-cpu-cooler-white?position=4&queryID=e64ca9d7e751654a34ec3cab1ebaaec5
+A24	A			técnicas	ficha/documento de Corsair Hydro X iCUE XH305i RGB PRO, negro CX-9070008-WW	https://www.corsair.com/us/en/p/custom-liquid-cooling/cx-9070008-ww/hydro-x-series-icue-xh305i-rgb-pro-custom-cooling-kit-black-cx-9070008-ww?position=3&queryID=4fb248fe64595f0ee7cc761eb6aaa5e7
+A24	A			técnicas	ficha/documento de Thermaltake Pacific C360 DDC Hard Tube CL-W243-CU12SW-A	https://thermaltakeusa.com/products/thermaltake-pacific-c360-ddc-hard-tube-water-cooling-kit-cl-w243-cu12sw-a
+A24	A	A	Corsair Hydro X iCUE XH305i RGB PRO, negro CX-9070008-WW	de precio	Corsair Hydro X iCUE XH305i RGB PRO, negro CX-9070008-WW	https://www.corsair.com/us/en/p/custom-liquid-cooling/cx-9070008-ww/hydro-x-series-icue-xh305i-rgb-pro-custom-cooling-kit-black-cx-9070008-ww?position=3&queryID=4fb248fe64595f0ee7cc761eb6aaa5e7
+A24	A	B	Thermaltake Pacific C360 DDC Hard Tube CL-W243-CU12SW-A	de precio	Thermaltake Pacific C360 DDC Hard Tube CL-W243-CU12SW-A	https://thermaltakeusa.com/products/thermaltake-pacific-c360-ddc-hard-tube-water-cooling-kit-cl-w243-cu12sw-a
+A24	A	A	Corsair Hydro X iCUE XH305i RGB PRO, negro CX-9070008-WW	Imágenes: galería o referencia visual	Corsair Hydro X iCUE XH305i RGB PRO, negro CX-9070008-WW	https://www.corsair.com/us/en/p/custom-liquid-cooling/cx-9070008-ww/hydro-x-series-icue-xh305i-rgb-pro-custom-cooling-kit-black-cx-9070008-ww?position=3&queryID=4fb248fe64595f0ee7cc761eb6aaa5e7
+A24	A	B	Thermaltake Pacific C360 DDC Hard Tube CL-W243-CU12SW-A	Imágenes: galería o referencia visual	Thermaltake Pacific C360 DDC Hard Tube CL-W243-CU12SW-A	https://thermaltakeusa.com/products/thermaltake-pacific-c360-ddc-hard-tube-water-cooling-kit-cl-w243-cu12sw-a
+A25	A			técnicas	ficha/documento de Corsair 7000D AIRFLOW, negro CC-9011218-WW	https://www.corsair.com/us/en/p/pc-cases/cc-9011218-ww/7000d-airflow-f
+A25	A			técnicas	ficha/documento de Fractal Design Meshify 2 XL, negro Light TG	https://www.fractal-design.com/products/cases/meshify/meshify-2-xl/black-tg-dark-tint/
+A25	A	A	Corsair 7000D AIRFLOW, negro CC-9011218-WW	de precio	Corsair 7000D AIRFLOW, negro CC-9011218-WW	https://www.corsair.com/us/en/p/pc-cases/cc-9011218-ww/7000d-airflow-f
+A25	A	B	Fractal Design Meshify 2 XL, negro Light TG	de precio	Fractal Design Meshify 2 XL, negro Light TG	https://www.walmart.com/ip/700440353
+A25	A	A	Corsair 7000D AIRFLOW, negro CC-9011218-WW	Imágenes: galería o referencia visual	Corsair 7000D AIRFLOW, negro CC-9011218-WW	https://www.corsair.com/us/en/p/pc-cases/cc-9011218-ww/7000d-airflow-f
+A25	A	B	Fractal Design Meshify 2 XL, negro Light TG	Imágenes: galería o referencia visual	Fractal Design Meshify 2 XL, negro Light TG	https://www.fractal-design.com/products/cases/meshify/meshify-2-xl/black-tg-dark-tint/
+A26	A			técnicas	ficha/documento de Corsair 4000D AIRFLOW, negro CC-9011200-WW	https://www.corsair.com/us/en/p/pc-cases/cc-9011200-ww/4000d-airflow-tempered-glass-mid-tower-atx-case-black-cc-9011200-ww
+A26	A			técnicas	ficha/documento de NZXT H5 Flow, edición 2024, negro	https://nzxt.com/products/h5-flow
+A26	A	A	Corsair 4000D AIRFLOW, negro CC-9011200-WW	de precio	Corsair 4000D AIRFLOW, negro CC-9011200-WW	https://www.corsair.com/us/en/p/pc-cases/cc-9011200-ww/4000d-airflow-tempered-glass-mid-tower-atx-case-black-cc-9011200-ww
+A26	A	B	NZXT H5 Flow, edición 2024, negro	de precio	NZXT H5 Flow, edición 2024, negro	https://nzxt.com/products/h5-flow
+A26	A	A	Corsair 4000D AIRFLOW, negro CC-9011200-WW	Imágenes: galería o referencia visual	Corsair 4000D AIRFLOW, negro CC-9011200-WW	https://www.corsair.com/us/en/p/pc-cases/cc-9011200-ww/4000d-airflow-tempered-glass-mid-tower-atx-case-black-cc-9011200-ww
+A26	A	B	NZXT H5 Flow, edición 2024, negro	Imágenes: galería o referencia visual	NZXT H5 Flow, edición 2024, negro	https://nzxt.com/products/h5-flow
+A27	A			técnicas	ficha/documento de Cooler Master MasterBox NR200, negro MCB-NR200-KNNN-S00	https://www.coolermaster.com/en-global/products/masterbox-nr200/
+A27	A			técnicas	ficha/documento de Fractal Design Terra, Jade	https://www.fractal-design.com/products/cases/terra/terra/terra-jade/
+A27	A	A	Cooler Master MasterBox NR200, negro MCB-NR200-KNNN-S00	de precio	Cooler Master MasterBox NR200, negro MCB-NR200-KNNN-S00	https://www.walmart.com/ip/268320756
+A27	A	B	Fractal Design Terra, Jade	de precio	Fractal Design Terra, Jade	https://global.channelonline.com/9to5computer/storesite/Products/overview/M024384862
+A27	A	A	Cooler Master MasterBox NR200, negro MCB-NR200-KNNN-S00	Imágenes: galería o referencia visual	Cooler Master MasterBox NR200, negro MCB-NR200-KNNN-S00	https://www.coolermaster.com/en-global/products/masterbox-nr200/
+A27	A	B	Fractal Design Terra, Jade	Imágenes: galería o referencia visual	Fractal Design Terra, Jade	https://www.fractal-design.com/products/cases/terra/terra/terra-jade/
+A28	A			técnicas	ficha/documento de TP-Link TG-3468, versión 4	https://www.tp-link.com/es/home-networking/pci-adapter/tg-3468/
+A28	A			técnicas	ficha/documento de D-Link DGE-560T, revisión B1	https://www.dlink.com/middle-east/en/products/dge-560t-gigabit-desktop-pci-express-adapter
+A28	A	A	TP-Link TG-3468, versión 4	de precio	TP-Link TG-3468, versión 4	https://www.walmart.com/ip/23143281
+A28	A	B	D-Link DGE-560T, revisión B1	de precio	D-Link DGE-560T, revisión B1	https://www.secureswitches.com/dge-560t.asp
+A28	A	A	TP-Link TG-3468, versión 4	Imágenes: galería o referencia visual	TP-Link TG-3468, versión 4	https://www.tp-link.com/es/home-networking/pci-adapter/tg-3468/
+A28	A	B	D-Link DGE-560T, revisión B1	Imágenes: galería o referencia visual	D-Link DGE-560T, revisión B1	https://www.dlink.com/middle-east/en/products/dge-560t-gigabit-desktop-pci-express-adapter
+A29	A			técnicas	ficha/documento de TP-Link Archer TX3000E, versión 1	https://www.tp-link.com/us/home-networking/pci-adapter/archer-tx3000e/v1/
+A29	A			técnicas	ficha/documento de ASUS PCE-AX58BT	https://www.asus.com/us/networking-iot-servers/wireless-adapters/all-series/pce-ax58bt/techspec/
+A29	A	A	TP-Link Archer TX3000E, versión 1	de precio	TP-Link Archer TX3000E, versión 1	https://www.walmart.com/ip/405538339
+A29	A	B	ASUS PCE-AX58BT	de precio	ASUS PCE-AX58BT	https://www.asus.com/us/networking-iot-servers/wireless-adapters/all-series/pce-ax58bt/techspec/
+A29	A	A	TP-Link Archer TX3000E, versión 1	Imágenes: galería o referencia visual	TP-Link Archer TX3000E, versión 1	https://www.tp-link.com/us/home-networking/pci-adapter/archer-tx3000e/v1/
+A29	A	B	ASUS PCE-AX58BT	Imágenes: galería o referencia visual	ASUS PCE-AX58BT	https://www.asus.com/us/networking-iot-servers/wireless-adapters/all-series/pce-ax58bt/techspec/
+A30	A			técnicas	ficha/documento de Intel Ethernet Converged Network Adapter X550-T2	https://www.intel.com/content/www/us/en/products/sku/88209/intel-ethernet-converged-network-adapter-x550t2/specifications.html
+A30	A			técnicas	ficha/documento de QNAP QXG-10G2T	https://www.qnap.com/en-us/product/qxg-10g2t/specs/hardware
+A30	A	A	Intel Ethernet Converged Network Adapter X550-T2	de precio	Intel Ethernet Converged Network Adapter X550-T2	https://www.tech-america.com/item/intel-reg-ethernet-converged-network-adapter-x550-t2/x550t2
+A30	A	B	QNAP QXG-10G2T	de precio	QNAP QXG-10G2T	https://www.tech-america.com/item/qnap-qxg-10g2t-dual-port-5-speed-10-gbe-rj45-network-expansion-card/qxg-10g2t?page=1
+A30	A	A	Intel Ethernet Converged Network Adapter X550-T2	Imágenes: galería o referencia visual	Intel Ethernet Converged Network Adapter X550-T2	https://www.intel.com/content/www/us/en/products/sku/88209/intel-ethernet-converged-network-adapter-x550t2/specifications.html
+A30	A	B	QNAP QXG-10G2T	Imágenes: galería o referencia visual	QNAP QXG-10G2T	https://www.qnap.com/en-us/product/qxg-10g2t/specs/hardware
+A31	A			técnicas	ficha/documento de Creative Sound BlasterX AE-5 Plus	https://us.creative.com/p/sound-blaster/sound-blasterx-ae-5-plus
+A31	A			técnicas	ficha/documento de ASUS Xonar SE	https://www.asus.com/us/motherboards-components/sound-cards/all-series/xonar-se/techspec/
+A31	A	A	Creative Sound BlasterX AE-5 Plus	de precio	Creative Sound BlasterX AE-5 Plus	https://www.omniapartners.com/suppliers-files/A-D/D_H_Distributing/Contract_Documents/01-168/01-168_D_H_PRC_2024_12_13.pdf
+A31	A	B	ASUS Xonar SE	de precio	ASUS Xonar SE	https://www.asus.com/us/motherboards-components/sound-cards/all-series/xonar-se/techspec/
+A31	A	A	Creative Sound BlasterX AE-5 Plus	Imágenes: galería o referencia visual	Creative Sound BlasterX AE-5 Plus	https://us.creative.com/p/sound-blaster/sound-blasterx-ae-5-plus
+A31	A	B	ASUS Xonar SE	Imágenes: galería o referencia visual	ASUS Xonar SE	https://www.asus.com/us/motherboards-components/sound-cards/all-series/xonar-se/techspec/
+A32	A			técnicas	ficha/documento de Creative Sound Blaster X4	https://us.creative.com/p/sound-blaster/sound-blaster-x4
+A32	A			técnicas	ficha/documento de EPOS GSX 1000, segunda edición	https://www.eposaudio.com/en/ly/gaming/products/gsx-1000-2nd-edition-gaming-amplifier-1001150/support
+A32	A	A	Creative Sound Blaster X4	de precio	Creative Sound Blaster X4	https://us.creative.com/p/sound-blaster/sound-blaster-x4
+A32	A	B	EPOS GSX 1000, segunda edición	de precio	EPOS GSX 1000, segunda edición	https://www.walmart.com/ip/1887724161
+A32	A	A	Creative Sound Blaster X4	Imágenes: galería o referencia visual	Creative Sound Blaster X4	https://us.creative.com/p/sound-blaster/sound-blaster-x4
+A32	A	B	EPOS GSX 1000, segunda edición	Imágenes: galería o referencia visual	EPOS GSX 1000, segunda edición	https://www.eposaudio.com/en/ly/gaming/products/gsx-1000-2nd-edition-gaming-amplifier-1001150/support
+A33	A			técnicas	ficha/documento de Focusrite Scarlett 2i2, cuarta generación	https://us.focusrite.com/products/scarlett-2i2
+A33	A			técnicas	ficha/documento de Steinberg UR22C	https://download.steinberg.net/downloads_hardware/UR-C/Manuals/UR22C_Operation_Manual_English.pdf
+A33	A	A	Focusrite Scarlett 2i2, cuarta generación	de precio	Focusrite Scarlett 2i2, cuarta generación	https://www.walmart.com/ip/5028866556
+A33	A	B	Steinberg UR22C	de precio	Steinberg UR22C	https://www.walmart.com/ip/593652126
+A33	A	A	Focusrite Scarlett 2i2, cuarta generación	Imágenes: galería o referencia visual	Focusrite Scarlett 2i2, cuarta generación	https://us.focusrite.com/products/scarlett-2i2
+A33	A	B	Steinberg UR22C	Imágenes: galería o referencia visual	Steinberg UR22C	https://www.steinberg.net/audio-interfaces/ur22c/
+A34	A			técnicas	ficha/documento de Elgato Game Capture 4K Pro	https://help.elgato.com/hc/en-us/articles/23710571317517-Elgato-Game-Capture-4K-Pro-Technical-Specifications
+A34	A			técnicas	ficha/documento de AVerMedia Live Gamer 4K 2.1 GC575	https://www.avermedia.com/ev/product-detail/GC575
+A34	A	A	Elgato Game Capture 4K Pro	de precio	Elgato Game Capture 4K Pro	https://www.walmart.com/ip/9381358075
+A34	A	B	AVerMedia Live Gamer 4K 2.1 GC575	de precio	AVerMedia Live Gamer 4K 2.1 GC575	https://shop-us.avermedia.com/collections/internal-capture-card/products/avermedia-live-gamer-4k-2-1-gc575
+A34	A	A	Elgato Game Capture 4K Pro	Imágenes: galería o referencia visual	Elgato Game Capture 4K Pro	https://help.elgato.com/hc/en-us/articles/23710571317517-Elgato-Game-Capture-4K-Pro-Technical-Specifications
+A34	A	B	AVerMedia Live Gamer 4K 2.1 GC575	Imágenes: galería o referencia visual	AVerMedia Live Gamer 4K 2.1 GC575	https://www.avermedia.com/ev/product-detail/GC575
+A35	A			técnicas	ficha/documento de Elgato Game Capture 4K X	https://www.elgato.com/us/en/p/game-capture-4k-x
+A35	A			técnicas	ficha/documento de AVerMedia Live Gamer ULTRA 2.1 GC553G2	https://www.avermedia.com/es/product-detail/GC553G2
+A35	A	A	Elgato Game Capture 4K X	de precio	Elgato Game Capture 4K X	https://www.walmart.com/ip/9415056045
+A35	A	B	AVerMedia Live Gamer ULTRA 2.1 GC553G2	de precio	AVerMedia Live Gamer ULTRA 2.1 GC553G2	https://shop-us.avermedia.com/products/avermedia-live-gamer-ultra2-1-gc553g2
+A35	A	A	Elgato Game Capture 4K X	Imágenes: galería o referencia visual	Elgato Game Capture 4K X	https://www.elgato.com/us/en/p/game-capture-4k-x
+A35	A	B	AVerMedia Live Gamer ULTRA 2.1 GC553G2	Imágenes: galería o referencia visual	AVerMedia Live Gamer ULTRA 2.1 GC553G2	https://www.avermedia.com/es/product-detail/GC553G2
+A36	A			técnicas	ficha/documento de Blackmagic Design DeckLink Quad HDMI Recorder	https://www.blackmagicdesign.com/products/decklink/software/
+A36	A			técnicas	ficha/documento de Magewell Pro Capture Quad HDMI, modelo 11100	https://www.magewell.com/tech-specs/pro-capture-quad-hdmi
+A36	A	A	Blackmagic Design DeckLink Quad HDMI Recorder	de precio	Blackmagic Design DeckLink Quad HDMI Recorder	https://www.blackmagicdesign.com/products/decklink/software/
+A36	A	B	Magewell Pro Capture Quad HDMI, modelo 11100	de precio	Magewell Pro Capture Quad HDMI, modelo 11100	https://www.motionmedia.com/magewell-pro-capture-quad-hdmi-4-channel-hd-capture-card/
+A36	A	A	Blackmagic Design DeckLink Quad HDMI Recorder	Imágenes: galería o referencia visual	Blackmagic Design DeckLink Quad HDMI Recorder	https://www.blackmagicdesign.com/products/decklink/software/
+A36	A	B	Magewell Pro Capture Quad HDMI, modelo 11100	Imágenes: galería o referencia visual	Magewell Pro Capture Quad HDMI, modelo 11100	https://www.magewell.com/products/pro-capture-quad-hdmi?from=text-video-conferencing-1
+A37	A			técnicas	ficha/documento de Broadcom / LSI SAS 9300-8i	https://docs.broadcom.com/doc/12354877
+A37	A			técnicas	ficha/documento de Microchip / Adaptec HBA 1000-8i, 2288300-R	https://storage.microsemi.com/nr/pdfs/hba1000_tb.pdf
+A37	A	A	Broadcom / LSI SAS 9300-8i	de precio	Broadcom / LSI SAS 9300-8i	https://www.newegg.com/lsi-9300-8i-sata-sas/p/N82E16816118217?Item=9SIB7VEHMA5034
+A37	A	B	Microchip / Adaptec HBA 1000-8i, 2288300-R	de precio	Microchip / Adaptec HBA 1000-8i, 2288300-R	https://www.ebay.com/itm/256276834311
+A37	A	A	Broadcom / LSI SAS 9300-8i	Imágenes: galería o referencia visual	Broadcom / LSI SAS 9300-8i	https://www.newegg.com/lsi-9300-8i-sata-sas/p/N82E16816118217
+A37	A	B	Microchip / Adaptec HBA 1000-8i, 2288300-R	Imágenes: galería o referencia visual	Microchip / Adaptec HBA 1000-8i, 2288300-R	https://www.ebay.com/itm/256276834311
+A38	A			técnicas	ficha/documento de StarTech PEXUSB3S44V	https://www.startech.com/en-eu/cards-adapters/pexusb3s44v?srsltid=AU7gw4WCTwdwDq8bVuZj9yi5O269XlBjVascbtwcxBwhG_3maq3Yvk2M
+A38	A			técnicas	ficha/documento de Sonnet Allegro Type A USB 3.2 PCIe, 4 puertos	https://www.sonnettech.com/product/allegrousb3pcie4port.html
+A38	A	A	StarTech PEXUSB3S44V	de precio	StarTech PEXUSB3S44V	https://www.mouser.com/es/ProductDetail/StarTech/PEXUSB3S44V?qs=PBDs2xEllI%252B3XhUMQbvjmQ%3D%3D
+A38	A	B	Sonnet Allegro Type A USB 3.2 PCIe, 4 puertos	de precio	Sonnet Allegro Type A USB 3.2 PCIe, 4 puertos	https://www.sonnetstore.com/products/allegro-usb-3-0-pcie-4-port
+A38	A	A	StarTech PEXUSB3S44V	Imágenes: galería o referencia visual	StarTech PEXUSB3S44V	https://www.startech.com/en-eu/cards-adapters/pexusb3s44v?srsltid=AU7gw4WCTwdwDq8bVuZj9yi5O269XlBjVascbtwcxBwhG_3maq3Yvk2M
+A38	A	B	Sonnet Allegro Type A USB 3.2 PCIe, 4 puertos	Imágenes: galería o referencia visual	Sonnet Allegro Type A USB 3.2 PCIe, 4 puertos	https://www.sonnettech.com/product/allegrousb3pcie4port.html
+A39	A			técnicas	ficha/documento de ASUS ThunderboltEX 4	https://www.asus.com/us/motherboards-components/motherboards/accessories/thunderboltex-4/where-to-buy/
+A39	A			técnicas	ficha/documento de GIGABYTE GC-MAPLE RIDGE, rev. 1.0	https://www.gigabyte.com/PC-Accessory/GC-MAPLE-RIDGE-rev-10
+A39	A	A	ASUS ThunderboltEX 4	de precio	ASUS ThunderboltEX 4	https://www.asus.com/us/motherboards-components/motherboards/accessories/thunderboltex-4/where-to-buy/
+A39	A	B	GIGABYTE GC-MAPLE RIDGE, rev. 1.0	de precio	GIGABYTE GC-MAPLE RIDGE, rev. 1.0	https://www.tech-america.com/item/gigabyte-gc-maple-ridge-rev-1-0/gc-maple-ridge
+A39	A	A	ASUS ThunderboltEX 4	Imágenes: galería o referencia visual	ASUS ThunderboltEX 4	https://www.asus.com/us/motherboards-components/motherboards/accessories/thunderboltex-4/where-to-buy/
+A39	A	B	GIGABYTE GC-MAPLE RIDGE, rev. 1.0	Imágenes: galería o referencia visual	GIGABYTE GC-MAPLE RIDGE, rev. 1.0	https://www.gigabyte.com/PC-Accessory/GC-MAPLE-RIDGE-rev-10
+B01	B			técnicas	ficha/documento de Keychron V6 QMK, ensamblado con perilla	https://www.keychron.com/products/keychron-v6-qmk-custom-mechanical-keyboard
+B01	B			técnicas	ficha/documento de HyperX Alloy Origins, tamaño completo	https://hyperx.com/collections/gaming-keyboards/products/hyperx-alloy-origins-mechanical-gaming-keyboard
+B01	B	A	Keychron V6 QMK, ensamblado con perilla	de precio	Keychron V6 QMK, ensamblado con perilla	https://www.keychron.com/products/keychron-v6-qmk-custom-mechanical-keyboard
+B01	B	B	HyperX Alloy Origins, tamaño completo	de precio	HyperX Alloy Origins, tamaño completo	https://hyperx.com/collections/gaming-keyboards/products/hyperx-alloy-origins-mechanical-gaming-keyboard
+B01	B	A	Keychron V6 QMK, ensamblado con perilla	Imágenes: galería o referencia visual	Keychron V6 QMK, ensamblado con perilla	https://www.keychron.com/products/keychron-v6-qmk-custom-mechanical-keyboard
+B01	B	B	HyperX Alloy Origins, tamaño completo	Imágenes: galería o referencia visual	HyperX Alloy Origins, tamaño completo	https://hyperx.com/collections/gaming-keyboards/products/hyperx-alloy-origins-mechanical-gaming-keyboard
+B02	B			técnicas	ficha/documento de Logitech K120	https://www.logitech.com/en-us/shop/p/k120-usb-standard-computer
+B02	B			técnicas	ficha/documento de Dell KB216, negro	https://www.dell.com/en-us/shop/keyboardsmice/apd/dell-wired-keyboard-kb216-us-english-black/nvcfk/-
+B02	B	A	Logitech K120	de precio	Logitech K120	https://www.logitech.com/en-us/shop/p/k120-usb-standard-computer
+B02	B	B	Dell KB216, negro	de precio	Dell KB216, negro	https://www.dell.com/en-us/shop/keyboardsmice/apd/dell-wired-keyboard-kb216-us-english-black/nvcfk/-
+B02	B	A	Logitech K120	Imágenes: galería o referencia visual	Logitech K120	https://www.logitech.com/en-us/shop/p/k120-usb-standard-computer
+B02	B	B	Dell KB216, negro	Imágenes: galería o referencia visual	Dell KB216, negro	https://www.dell.com/en-us/shop/keyboardsmice/apd/dell-wired-keyboard-kb216-us-english-black/nvcfk/-
+B03	B			técnicas	ficha/documento de Wooting 80HE, preensamblado con carcasa ABS	https://wooting.com.cn/zh-CN/wooting-80he
+B03	B			técnicas	ficha/documento de SteelSeries Apex Pro TKL Gen 3, cableado negro	https://steelseries.com/es-us/gaming-keyboards/apex-pro-gen-3?color=black&connectivityType=wired&keyboardLanguage=english&keyboardSize=tkl
+B03	B	A	Wooting 80HE, preensamblado con carcasa ABS	de precio	Wooting 80HE, preensamblado con carcasa ABS	https://checkout-row-apac.wooting.io/products/wooting-80he
+B03	B	B	SteelSeries Apex Pro TKL Gen 3, cableado negro	de precio	SteelSeries Apex Pro TKL Gen 3, cableado negro	https://www.lenovo.com/buy/us/en/steelseries-apex-pro-tkl-keyboard-0afz00a
+B03	B	A	Wooting 80HE, preensamblado con carcasa ABS	Imágenes: galería o referencia visual	Wooting 80HE, preensamblado con carcasa ABS	https://wooting.com.cn/zh-CN/wooting-80he
+B03	B	B	SteelSeries Apex Pro TKL Gen 3, cableado negro	Imágenes: galería o referencia visual	SteelSeries Apex Pro TKL Gen 3, cableado negro	https://steelseries.com/es-us/gaming-keyboards/apex-pro-gen-3?color=black&connectivityType=wired&keyboardLanguage=english&keyboardSize=tkl
+B04	B			técnicas	ficha/documento de Razer DeathAdder V3, cableado	https://www.razer.com/latam-es/gaming-mice/razer-deathadder-v3
+B04	B			técnicas	ficha/documento de HyperX Pulsefire Haste 2, cableado	https://hyperx.com/products/hyperx-pulsefire-haste-2-gaming-mouse
+B04	B	A	Razer DeathAdder V3, cableado	de precio	Razer DeathAdder V3, cableado	https://www.razer.com/gaming-mice/razer-deathadder-v3/RZ01-04640100-R3U1
+B04	B	B	HyperX Pulsefire Haste 2, cableado	de precio	HyperX Pulsefire Haste 2, cableado	https://hyperx.com/products/hyperx-pulsefire-haste-2-gaming-mouse
+B04	B	A	Razer DeathAdder V3, cableado	Imágenes: galería o referencia visual	Razer DeathAdder V3, cableado	https://www.razer.com/latam-es/gaming-mice/razer-deathadder-v3
+B04	B	B	HyperX Pulsefire Haste 2, cableado	Imágenes: galería o referencia visual	HyperX Pulsefire Haste 2, cableado	https://hyperx.com/products/hyperx-pulsefire-haste-2-gaming-mouse
+B05	B			técnicas	ficha/documento de Logitech Signature M650, tamaño estándar	https://www.logitech.com/en-us/shop/p/m650-signature-wireless-mouse
+B05	B			técnicas	ficha/documento de HP 430 Multi-Device Wireless Mouse	https://support.hp.com/us-en/product/product-specs/hp-430-multi-device-wireless-mouse/model/2100752809
+B05	B	A	Logitech Signature M650, tamaño estándar	de precio	Logitech Signature M650, tamaño estándar	https://www.logitech.com/en-us/shop/p/m650-signature-wireless-mouse
+B05	B	B	HP 430 Multi-Device Wireless Mouse	de precio	HP 430 Multi-Device Wireless Mouse	https://www.walmart.com/ip/694362882
+B05	B	A	Logitech Signature M650, tamaño estándar	Imágenes: galería o referencia visual	Logitech Signature M650, tamaño estándar	https://www.logitech.com/en-us/shop/p/m650-signature-wireless-mouse
+B05	B	B	HP 430 Multi-Device Wireless Mouse	Imágenes: galería o referencia visual	HP 430 Multi-Device Wireless Mouse	https://support.hp.com/us-en/product/product-specs/hp-430-multi-device-wireless-mouse/model/2100752809
+B06	B			técnicas	ficha/documento de Logitech Lift, blanco roto	https://gaming.logitech.com/en-us/shop/p/lift-vertical-ergonomic-mouse.910-006469
+B06	B			técnicas	ficha/documento de Anker A7852, inalámbrico vertical	https://www.anker.com/products/a7582?Sort_by=Recommended&collections_gifts-for-teachers=&variant=37438089461910
+B06	B	A	Logitech Lift, blanco roto	de precio	Logitech Lift, blanco roto	https://gaming.logitech.com/en-us/shop/p/lift-vertical-ergonomic-mouse.910-006469
+B06	B	B	Anker A7852, inalámbrico vertical	de precio	Anker A7852, inalámbrico vertical	https://www.anker.com/products/a7582?Sort_by=Recommended&collections_gifts-for-teachers=&variant=37438089461910
+B06	B	A	Logitech Lift, blanco roto	Imágenes: galería o referencia visual	Logitech Lift, blanco roto	https://gaming.logitech.com/en-us/shop/p/lift-vertical-ergonomic-mouse.910-006469
+B06	B	B	Anker A7852, inalámbrico vertical	Imágenes: galería o referencia visual	Anker A7852, inalámbrico vertical	https://www.anker.com/products/a7582?Sort_by=Recommended&collections_gifts-for-teachers=&variant=37438089461910
+B07	B			técnicas	ficha/documento de Dell P2725H, con soporte	https://www.dell.com/en-us/shop/dell-27-monitor-p2725h/apd/210-bmfj/monitors-monitor-accessories
+B07	B			técnicas	ficha/documento de ASUS ProArt PA278QV original	https://www.asus.com/us/displays-desktops/monitors/proart/proart-display-pa278qv/
+B07	B	A	Dell P2725H, con soporte	de precio	Dell P2725H, con soporte	https://www.dell.com/en-us/shop/dell-27-monitor-p2725h/apd/210-bmfj/monitors-monitor-accessories
+B07	B	B	ASUS ProArt PA278QV original	de precio	ASUS ProArt PA278QV original	https://www.asus.com/us/displays-desktops/monitors/proart/proart-display-pa278qv/helpdeskhelpdeskhelpdesk_manual?model2Name=ProArt-Display-PA278QV
+B07	B	A	Dell P2725H, con soporte	Imágenes: galería o referencia visual	Dell P2725H, con soporte	https://www.dell.com/en-us/shop/dell-27-monitor-p2725h/apd/210-bmfj/monitors-monitor-accessories
+B07	B	B	ASUS ProArt PA278QV original	Imágenes: galería o referencia visual	ASUS ProArt PA278QV original	https://www.asus.com/us/displays-desktops/monitors/proart/proart-display-pa278qv/
+B08	B			técnicas	ficha/documento de Alienware AW2725DF	https://www.dell.com/en-us/shop/monitors/apd/alienware-27-360hz-qd-oled-gaming-monitor-aw2725df/aw2725df/-
+B08	B			técnicas	ficha/documento de MSI MPG 271QRX QD-OLED	https://es.msi.com/Monitor/MPG-271QRX-QD-OLED/Specification
+B08	B	A	Alienware AW2725DF	de precio	Alienware AW2725DF	https://www.dell.com/en-us/shop/monitors/apd/alienware-27-360hz-qd-oled-gaming-monitor-aw2725df/aw2725df/-
+B08	B	B	MSI MPG 271QRX QD-OLED	de precio	MSI MPG 271QRX QD-OLED	https://us-store.msi.com/Monitors/MPG-271QRX-QD-OLED?filter=&order=DESC&sort=pd.name
+B08	B	A	Alienware AW2725DF	Imágenes: galería o referencia visual	Alienware AW2725DF	https://www.dell.com/en-us/shop/monitors/apd/alienware-27-360hz-qd-oled-gaming-monitor-aw2725df/aw2725df/-
+B08	B	B	MSI MPG 271QRX QD-OLED	Imágenes: galería o referencia visual	MSI MPG 271QRX QD-OLED	https://es.msi.com/Monitor/MPG-271QRX-QD-OLED/Specification
+B09	B			técnicas	ficha/documento de BenQ MOBIUZ EX321UX	https://www.benq.com/en-us/monitor/gaming/ex321ux/spec.html
+B09	B			técnicas	ficha/documento de Samsung Odyssey Neo G7 G75NB, 32 pulgadas	https://www.samsung.com/latin/monitors/gaming/odyssey-neo-g7-g75nb-32-inch-165hz-1ms-curved-uhd-4k-ls32bg752nnxgo/
+B09	B	A	BenQ MOBIUZ EX321UX	de precio	BenQ MOBIUZ EX321UX	https://www.benq.com/en-us/monitor/gaming.html
+B09	B	B	Samsung Odyssey Neo G7 G75NB, 32 pulgadas	de precio	Samsung Odyssey Neo G7 G75NB, 32 pulgadas	https://www.samsung.com/us/monitors/gaming/32-inch-odyssey-neo-g7-4k-uhd-165hz-1ms-curved-gaming-monitor-sku-ls32bg752nnxgo/?gQT=2
+B09	B	A	BenQ MOBIUZ EX321UX	Imágenes: galería o referencia visual	BenQ MOBIUZ EX321UX	https://www.benq.com/en-us/monitor/gaming/ex321ux/spec.html
+B09	B	B	Samsung Odyssey Neo G7 G75NB, 32 pulgadas	Imágenes: galería o referencia visual	Samsung Odyssey Neo G7 G75NB, 32 pulgadas	https://www.samsung.com/latin/monitors/gaming/odyssey-neo-g7-g75nb-32-inch-165hz-1ms-curved-uhd-4k-ls32bg752nnxgo/
+B10	B			técnicas	ficha/documento de Brother HL-L2405W	https://www.brother-usa.com/p/laser-printers/HLL2405W
+B10	B			técnicas	ficha/documento de HP LaserJet M209dw	https://support.hp.com/us-en/product/product-specs/hp/model/30836593
+B10	B	A	Brother HL-L2405W	de precio	Brother HL-L2405W	https://www.brother-usa.com/p/laser-printers/HLL2405W
+B10	B	B	HP LaserJet M209dw	de precio	HP LaserJet M209dw	https://www.walmart.com/ip/923361728
+B10	B	A	Brother HL-L2405W	Imágenes: galería o referencia visual	Brother HL-L2405W	https://www.brother-usa.com/p/laser-printers/HLL2405W
+B10	B	B	HP LaserJet M209dw	Imágenes: galería o referencia visual	HP LaserJet M209dw	https://support.hp.com/us-en/product/product-specs/hp/model/30836593
+B11	B			técnicas	ficha/documento de Epson EcoTank ET-2800, blanca	https://epson.com/For-Work/Printers/Inkjet/EcoTank-ET-2800-Wireless-Color-All-in-One-Cartridge-Free-Supertank-Printer-with-Scan-and-Copy/p/C11CJ66202?cq_cmp=71700000113027797
+B11	B			técnicas	ficha/documento de Canon MegaTank PIXMA G3290	https://www.usa.canon.com/shop/p/megatank-pixma-g3290
+B11	B	A	Epson EcoTank ET-2800, blanca	de precio	Epson EcoTank ET-2800, blanca	https://epson.com/For-Work/Printers/Inkjet/EcoTank-ET-2800-Wireless-Color-All-in-One-Cartridge-Free-Supertank-Printer-with-Scan-and-Copy/p/C11CJ66202?cq_cmp=71700000113027797
+B11	B	B	Canon MegaTank PIXMA G3290	de precio	Canon MegaTank PIXMA G3290	https://www.usa.canon.com/shop/p/megatank-pixma-g3290
+B11	B	A	Epson EcoTank ET-2800, blanca	Imágenes: galería o referencia visual	Epson EcoTank ET-2800, blanca	https://epson.com/For-Work/Printers/Inkjet/EcoTank-ET-2800-Wireless-Color-All-in-One-Cartridge-Free-Supertank-Printer-with-Scan-and-Copy/p/C11CJ66202?cq_cmp=71700000113027797
+B11	B	B	Canon MegaTank PIXMA G3290	Imágenes: galería o referencia visual	Canon MegaTank PIXMA G3290	https://www.usa.canon.com/shop/p/megatank-pixma-g3290
+B12	B			técnicas	ficha/documento de Epson LX-350	https://epson.com/en/For-Work/Printers/Impact-Dot-Matrix/LX-350-Impact-Dot-Matrix-Printer/p/C11CC24001
+B12	B			técnicas	ficha/documento de OKI MICROLINE 320 TURBO, P/N 62411601	https://www.oki.com/tw/printing/products/dotmatrix/ml320t/specifications/
+B12	B	A	Epson LX-350	de precio	Epson LX-350	https://epson.com/en/For-Work/Printers/Impact-Dot-Matrix/LX-350-Impact-Dot-Matrix-Printer/p/C11CC24001
+B12	B	B	OKI MICROLINE 320 TURBO, P/N 62411601	de precio	OKI MICROLINE 320 TURBO, P/N 62411601	https://www.walmart.com/ip/17981607010
+B12	B	A	Epson LX-350	Imágenes: galería o referencia visual	Epson LX-350	https://epson.com/en/For-Work/Printers/Impact-Dot-Matrix/LX-350-Impact-Dot-Matrix-Printer/p/C11CC24001
+B12	B	B	OKI MICROLINE 320 TURBO, P/N 62411601	Imágenes: galería o referencia visual	OKI MICROLINE 320 TURBO, P/N 62411601	https://www.walmart.com/ip/17981607010
+B13	B			técnicas	ficha/documento de Epson Perfection V39 II	https://epson.com/For-Home/Scanners/Photo-Scanners/Epson-Perfection-V39-II-Color-Photo-and-Document-Flatbed-Scanner/p/B11B268201?msockid=1ca08a7f37346cbd39329c3d36056d26
+B13	B			técnicas	ficha/documento de Canon CanoScan LiDE 400	https://www.usa.canon.com/shop/p/canoscan-lide-400
+B13	B	A	Epson Perfection V39 II	de precio	Epson Perfection V39 II	https://epson.com/For-Home/Scanners/Photo-Scanners/Epson-Perfection-V39-II-Color-Photo-and-Document-Flatbed-Scanner/p/B11B268201?msockid=1ca08a7f37346cbd39329c3d36056d26
+B13	B	B	Canon CanoScan LiDE 400	de precio	Canon CanoScan LiDE 400	https://www.usa.canon.com/shop/p/canoscan-lide-400
+B13	B	A	Epson Perfection V39 II	Imágenes: galería o referencia visual	Epson Perfection V39 II	https://epson.com/For-Home/Scanners/Photo-Scanners/Epson-Perfection-V39-II-Color-Photo-and-Document-Flatbed-Scanner/p/B11B268201?msockid=1ca08a7f37346cbd39329c3d36056d26
+B13	B	B	Canon CanoScan LiDE 400	Imágenes: galería o referencia visual	Canon CanoScan LiDE 400	https://www.usa.canon.com/shop/p/canoscan-lide-400
+B14	B			técnicas	ficha/documento de Brother ADS-1800W	https://www.brother-usa.com/p/desktop-scanners/ADS1800W
+B14	B			técnicas	ficha/documento de Ricoh ScanSnap iX2500, modelo base	https://www.pfu.ricoh.com/global/scanners/scansnap/ix2500/
+B14	B	A	Brother ADS-1800W	de precio	Brother ADS-1800W	https://www.brother-usa.com/p/desktop-scanners/ADS1800W
+B14	B	B	Ricoh ScanSnap iX2500, modelo base	de precio	Ricoh ScanSnap iX2500, modelo base	https://store.pfu-us.ricoh.com/scanners/scansnap/ix2500-touch-screen-scanner/
+B14	B	A	Brother ADS-1800W	Imágenes: galería o referencia visual	Brother ADS-1800W	https://www.brother-usa.com/p/desktop-scanners/ADS1800W
+B14	B	B	Ricoh ScanSnap iX2500, modelo base	Imágenes: galería o referencia visual	Ricoh ScanSnap iX2500, modelo base	https://www.pfu.ricoh.com/global/scanners/scansnap/ix2500/
+B15	B			técnicas	ficha/documento de Brother DS-640	https://www.brother-usa.com/-/media/brother/product-catalog-media/documents/2022/06/21/19/16/ds640-2page-brochure_fin.pdf
+B15	B			técnicas	ficha/documento de Epson WorkForce ES-50	https://epson.com/For-Home/Scanners/Document-Scanners/WorkForce-ES-50-Portable-Document-Scanner/p/B11B252201
+B15	B	A	Brother DS-640	de precio	Brother DS-640	https://www.brother-usa.com/p/portable-scanners/RDS640?Condition=New&pid=DS640
+B15	B	B	Epson WorkForce ES-50	de precio	Epson WorkForce ES-50	https://epson.com/Scanners/c/e2
+B15	B	A	Brother DS-640	Imágenes: galería o referencia visual	Brother DS-640	https://www.brother-usa.com/-/media/brother/product-catalog-media/documents/2022/06/21/19/16/ds640-2page-brochure_fin.pdf
+B15	B	B	Epson WorkForce ES-50	Imágenes: galería o referencia visual	Epson WorkForce ES-50	https://epson.com/For-Home/Scanners/Document-Scanners/WorkForce-ES-50-Portable-Document-Scanner/p/B11B252201
+B16	B			técnicas	ficha/documento de Brother MFC-L5915DW	https://www.brother-usa.com/-/media/brother/product-catalog-media/documents/2025/02/28/14/06/mfc-l5915dw_2pgbrochure.pdf
+B16	B			técnicas	ficha/documento de Canon imageCLASS MF455dw	https://www.usa.canon.com/bin/canon/downloadasset?path=%2Fcontent%2Fdam%2Fcanon-assets%2Fproduct-assets%2FPrinters%2Fimageclass-laserprinters%2Fimageclass%2Fimageclass-mf455dw%2Fpdfs%2FimageCLASS-MF455dw-Brochure.pdf
+B16	B	A	Brother MFC-L5915DW	de precio	Brother MFC-L5915DW	https://www.brother-usa.com/p/laser-printers/MFCL5915DW
+B16	B	B	Canon imageCLASS MF455dw	de precio	Canon imageCLASS MF455dw	https://www.walmart.com/ip/598501842
+B16	B	A	Brother MFC-L5915DW	Imágenes: galería o referencia visual	Brother MFC-L5915DW	https://www.brother-usa.com/p/laser-printers/MFCL5915DW
+B16	B	B	Canon imageCLASS MF455dw	Imágenes: galería o referencia visual	Canon imageCLASS MF455dw	https://www.usa.canon.com/support/p/imageclass-mf455dw
+B17	B			técnicas	ficha/documento de Canon Color imageCLASS MF753Cdw II	https://oip.manual.canon/USRMA-9605-zz-SSM-750II-enUS/contents/devu-mcn-spec-basic.html
+B17	B			técnicas	ficha/documento de Brother MFC-L3780CDW	https://www.brother-usa.com/p/laser-printers/MFCL3780CDW
+B17	B	A	Canon Color imageCLASS MF753Cdw II	de precio	Canon Color imageCLASS MF753Cdw II	https://www.usa.canon.com/shop/p/imageclass-mf753cdw-ii
+B17	B	B	Brother MFC-L3780CDW	de precio	Brother MFC-L3780CDW	https://www.brother-usa.com/p/laser-printers/MFCL3780CDW
+B17	B	A	Canon Color imageCLASS MF753Cdw II	Imágenes: galería o referencia visual	Canon Color imageCLASS MF753Cdw II	https://www.usa.canon.com/shop/p/imageclass-mf753cdw-ii
+B17	B	B	Brother MFC-L3780CDW	Imágenes: galería o referencia visual	Brother MFC-L3780CDW	https://www.brother-usa.com/p/laser-printers/MFCL3780CDW
+B18	B			técnicas	ficha/documento de HP Color LaserJet Enterprise MFP M480f	https://support.hp.com/us-en/product/product-specs/hp-color-laserjet-enterprise-mfp-m480-series/model/29256417
+B18	B			técnicas	ficha/documento de Xerox VersaLink C625	https://www.xerox.com/en-an/office/multifunction-printers/versalink-c625/specifications
+B18	B	A	HP Color LaserJet Enterprise MFP M480f	de precio	HP Color LaserJet Enterprise MFP M480f	https://www.walmart.com/ip/275513274
+B18	B	B	Xerox VersaLink C625	de precio	Xerox VersaLink C625	https://www.shop.xerox.com/versalink-c625
+B18	B	A	HP Color LaserJet Enterprise MFP M480f	Imágenes: galería o referencia visual	HP Color LaserJet Enterprise MFP M480f	https://www.hp.com/us-en/shop/pdp/hp-color-laserjet-enterprise-mfp-m480f-3qa55a-bgj
+B18	B	B	Xerox VersaLink C625	Imágenes: galería o referencia visual	Xerox VersaLink C625	https://www.shop.xerox.com/versalink-c625
+B19	B			técnicas	ficha/documento de BenQ TH575	https://www.benq.com/es-la/projector/cinema/th575/spec.html
+B19	B			técnicas	ficha/documento de ViewSonic PA503HD	https://www.viewsonic.com/us/pa503w-3800-lumens-wxga-home-with-hdmi-and-vertical-keystone-1.html
+B19	B	A	BenQ TH575	de precio	BenQ TH575	https://www.bestbuy.com/product/benq-th575-1080p-dlp-gaming-projector-3800-lumens-enhanced-game-mode-low-input-lag-white/J39QZT5JYQ/sku/10102264/reviews
+B19	B	B	ViewSonic PA503HD	de precio	ViewSonic PA503HD	https://www.viewsonic.com/us/pa503w-3800-lumens-wxga-home-with-hdmi-and-vertical-keystone-1.html
+B19	B	A	BenQ TH575	Imágenes: galería o referencia visual	BenQ TH575	https://www.benq.com/es-la/projector/cinema/th575/spec.html
+B19	B	B	ViewSonic PA503HD	Imágenes: galería o referencia visual	ViewSonic PA503HD	https://www.viewsonic.com/us/pa503w-3800-lumens-wxga-home-with-hdmi-and-vertical-keystone-1.html
+B20	B			técnicas	ficha/documento de Epson Home Cinema 1100	https://epson.com/For-Home/Projectors/Home-Cinema/Home-Cinema-1100-3LCD-Wireless-1080p-Projector/p/V11HB61020?slpfid=1
+B20	B			técnicas	ficha/documento de Panasonic PT-VW360	https://docs.connect.panasonic.com/projector/products/vw360/spec/
+B20	B	A	Epson Home Cinema 1100	de precio	Epson Home Cinema 1100	https://epson.com/For-Home/Projectors/Home-Cinema/Home-Cinema-1100-3LCD-Wireless-1080p-Projector/p/V11HB61020?slpfid=1
+B20	B	B	Panasonic PT-VW360	de precio	Panasonic PT-VW360	https://www.projectorcentral.com/panasonic-pt-vw360.htm
+B20	B	A	Epson Home Cinema 1100	Imágenes: galería o referencia visual	Epson Home Cinema 1100	https://epson.com/For-Home/Projectors/Home-Cinema/Home-Cinema-1100-3LCD-Wireless-1080p-Projector/p/V11HB61020?slpfid=1
+B20	B	B	Panasonic PT-VW360	Imágenes: galería o referencia visual	Panasonic PT-VW360	https://docs.connect.panasonic.com/projector/products/vw360/spec/
+B21	B			técnicas	ficha/documento de BenQ GV50	https://www.benq.com/en-ap/projector/portable/gv50/spec.html
+B21	B			técnicas	ficha/documento de Epson EpiqVision Mini EF22	https://epson.com/For-Home/Projectors/Home-Cinema/Epson-EpiqVision-Mini-EF22-Portable-Smart-Laser-Projector-%E2%80%93-Stone-Blue/p/V11HB38420
+B21	B	A	BenQ GV50	de precio	BenQ GV50	https://www.bestbuy.com/product/benq-gv50-full-hd-1080p-hdr-portable-smart-ceiling-projector-500-lumens-white/J39QZT53XL
+B21	B	B	Epson EpiqVision Mini EF22	de precio	Epson EpiqVision Mini EF22	https://news.epson.com/news/epiqvision-mini-ef22-ef21-portable-projectors
+B21	B	A	BenQ GV50	Imágenes: galería o referencia visual	BenQ GV50	https://www.benq.com/en-ap/projector/portable/gv50/spec.html
+B21	B	B	Epson EpiqVision Mini EF22	Imágenes: galería o referencia visual	Epson EpiqVision Mini EF22	https://epson.com/For-Home/Projectors/Home-Cinema/Epson-EpiqVision-Mini-EF22-Portable-Smart-Laser-Projector-%E2%80%93-Stone-Blue/p/V11HB38420
+B22	B			técnicas	ficha/documento de Shure SM58-LC	https://www.shure.com/en-US/docs/guide/SM58
+B22	B			técnicas	ficha/documento de Sennheiser e 835, sin interruptor	https://www.sennheiser.com/es-mx/catalog/products/microfono/e-835/e-835-004513
+B22	B	A	Shure SM58-LC	de precio	Shure SM58-LC	https://www.sweetwater.com/store/detail/SM58--shure-sm58-cardioid-dynamic-vocal-microphone
+B22	B	B	Sennheiser e 835, sin interruptor	de precio	Sennheiser e 835, sin interruptor	https://newsroom.sennheiser.com/unwrap-the-joy-of-music-with-sennheiser
+B22	B	A	Shure SM58-LC	Imágenes: galería o referencia visual	Shure SM58-LC	https://www.shure.com/en-US/docs/guide/SM58
+B22	B	B	Sennheiser e 835, sin interruptor	Imágenes: galería o referencia visual	Sennheiser e 835, sin interruptor	https://www.sennheiser.com/es-mx/catalog/products/microfono/e-835/e-835-004513
+B23	B			técnicas	ficha/documento de Audio-Technica AT2020, XLR	https://docs.audio-technica.com/us/Vol2.Microfonos-Pro_2024_abril.pdf
+B23	B			técnicas	ficha/documento de RØDE NT1 Signature Series, negro	https://rode.com/en-us/products/nt1-signature-series
+B23	B	A	Audio-Technica AT2020, XLR	de precio	Audio-Technica AT2020, XLR	https://docs.audio-technica.com/us/Vol2.Microfonos-Pro_2024_abril.pdf
+B23	B	B	RØDE NT1 Signature Series, negro	de precio	RØDE NT1 Signature Series, negro	https://www.guitarcenter.com/RODE/NT1-Signature-Series-Black-1500000415512.gc
+B23	B	A	Audio-Technica AT2020, XLR	Imágenes: galería o referencia visual	Audio-Technica AT2020, XLR	https://docs.audio-technica.com/us/Vol2.Microfonos-Pro_2024_abril.pdf
+B23	B	B	RØDE NT1 Signature Series, negro	Imágenes: galería o referencia visual	RØDE NT1 Signature Series, negro	https://rode.com/en-us/products/nt1-signature-series
+B24	B			técnicas	ficha/documento de RØDE Lavalier GO	https://rode.com/index.php/en-us/products/lavalier-go
+B24	B			técnicas	ficha/documento de Sennheiser XS Lav Mobile, 509260	https://www.sennheiser.com/en-us/catalog/products/microfono/xs-lav/xs-lav-mobile-509260
+B24	B	A	RØDE Lavalier GO	de precio	RØDE Lavalier GO	https://www.bestbuy.com/product/rde-lavalier-go-professional-wearable-microphone/JXR9LSGP82
+B24	B	B	Sennheiser XS Lav Mobile, 509260	de precio	Sennheiser XS Lav Mobile, 509260	https://www.empirepro.com/collections/pro-audio/products/sennheiser-xs-lav-mobile
+B24	B	A	RØDE Lavalier GO	Imágenes: galería o referencia visual	RØDE Lavalier GO	https://rode.com/index.php/en-us/products/lavalier-go
+B24	B	B	Sennheiser XS Lav Mobile, 509260	Imágenes: galería o referencia visual	Sennheiser XS Lav Mobile, 509260	https://www.sennheiser.com/en-us/catalog/products/microfono/xs-lav/xs-lav-mobile-509260
+B25	B			técnicas	ficha/documento de Edifier MR4, par	https://us.edifier.com/products/mr4
+B25	B			técnicas	ficha/documento de PreSonus Eris 3.5, segunda generación, par	https://www.presonus.com/products/eris-35-2nd-gen-pair
+B25	B	A	Edifier MR4, par	de precio	Edifier MR4, par	https://us.edifier.com/products/mr4
+B25	B	B	PreSonus Eris 3.5, segunda generación, par	de precio	PreSonus Eris 3.5, segunda generación, par	https://www.presonus.com/products/eris-35-2nd-gen-pair
+B25	B	A	Edifier MR4, par	Imágenes: galería o referencia visual	Edifier MR4, par	https://us.edifier.com/products/mr4
+B25	B	B	PreSonus Eris 3.5, segunda generación, par	Imágenes: galería o referencia visual	PreSonus Eris 3.5, segunda generación, par	https://www.presonus.com/products/eris-35-2nd-gen-pair
+B26	B			técnicas	ficha/documento de Logitech Z623	https://www.logitech.com/en-ae/shop/p/z623-speaker-system-thx
+B26	B			técnicas	ficha/documento de Creative Pebble Plus	https://us.creative.com/p/speakers/creative-pebble-plus
+B26	B	A	Logitech Z623	de precio	Logitech Z623	https://www.bestbuy.com/product/logitech-z623-2-1-speaker-system-3-piece-black/J7H7ZLV8LH/sku/1231979
+B26	B	B	Creative Pebble Plus	de precio	Creative Pebble Plus	https://us.creative.com/p/speakers/creative-pebble-plus
+B26	B	A	Logitech Z623	Imágenes: galería o referencia visual	Logitech Z623	https://www.logitech.com/en-ae/shop/p/z623-speaker-system-thx
+B26	B	B	Creative Pebble Plus	Imágenes: galería o referencia visual	Creative Pebble Plus	https://us.creative.com/p/speakers/creative-pebble-plus
+B27	B			técnicas	ficha/documento de JBL Flip 6	https://global.jbl.com/bluetooth-speakers/FLIP-6-.html
+B27	B			técnicas	ficha/documento de Sony ULT FIELD 1, SRS-ULT10, blanco	https://www.sony.com/electronics/support/speakers-wireless-speakers/srs-ult10
+B27	B	A	JBL Flip 6	de precio	JBL Flip 6	https://www.jbl.com/FLIP-6-.html?bvstate=pg%3A4%2Fct%3Ar&dwvar_FLIP-6-_color=Black-AM-Current
+B27	B	B	Sony ULT FIELD 1, SRS-ULT10, blanco	de precio	Sony ULT FIELD 1, SRS-ULT10, blanco	https://electronics.sony.com/audio/speakers/all-speakers/p/srsult10-w
+B27	B	A	JBL Flip 6	Imágenes: galería o referencia visual	JBL Flip 6	https://global.jbl.com/bluetooth-speakers/FLIP-6-.html
+B27	B	B	Sony ULT FIELD 1, SRS-ULT10, blanco	Imágenes: galería o referencia visual	Sony ULT FIELD 1, SRS-ULT10, blanco	https://www.sony.com/electronics/support/speakers-wireless-speakers/srs-ult10
+B28	B			técnicas	ficha/documento de HyperX Cloud III	https://hyperx.com/products/hyperx-cloud-iii-Wired-gaming-headset
+B28	B			técnicas	ficha/documento de SteelSeries Arctis Nova 1P, negro	https://steelseries.com/gaming-headsets/arctis-nova-1?color=black&primaryPlatform=ps5
+B28	B	A	HyperX Cloud III	de precio	HyperX Cloud III	https://hyperx.com/products/hyperx-cloud-iii-Wired-gaming-headset
+B28	B	B	SteelSeries Arctis Nova 1P, negro	de precio	SteelSeries Arctis Nova 1P, negro	https://www.lenovo.com/buy/us/en/arctis-nova-1-1abz01c
+B28	B	A	HyperX Cloud III	Imágenes: galería o referencia visual	HyperX Cloud III	https://hyperx.com/products/hyperx-cloud-iii-Wired-gaming-headset
+B28	B	B	SteelSeries Arctis Nova 1P, negro	Imágenes: galería o referencia visual	SteelSeries Arctis Nova 1P, negro	https://steelseries.com/gaming-headsets/arctis-nova-1?color=black&primaryPlatform=ps5
+B29	B			técnicas	ficha/documento de Sony WH-1000XM5, negro	https://electronics.sony.com/audio/headphones/headband/p/wh1000xm5-b
+B29	B			técnicas	ficha/documento de Bose QuietComfort Headphones, versión de 2023	https://www.bose.com/p/headphones/quietcomfort-acoustic-noise-cancelling-headphones/QC-HEADPHONEARN.html
+B29	B	A	Sony WH-1000XM5, negro	de precio	Sony WH-1000XM5, negro	https://electronics.sony.com/audio/headphones/headband/p/wh1000xm5-b
+B29	B	B	Bose QuietComfort Headphones, versión de 2023	de precio	Bose QuietComfort Headphones, versión de 2023	https://www.bose.com/p/headphones/quietcomfort-acoustic-noise-cancelling-headphones/QC-HEADPHONEARN.html
+B29	B	A	Sony WH-1000XM5, negro	Imágenes: galería o referencia visual	Sony WH-1000XM5, negro	https://electronics.sony.com/audio/headphones/headband/p/wh1000xm5-b
+B29	B	B	Bose QuietComfort Headphones, versión de 2023	Imágenes: galería o referencia visual	Bose QuietComfort Headphones, versión de 2023	https://www.bose.com/p/headphones/quietcomfort-acoustic-noise-cancelling-headphones/QC-HEADPHONEARN.html
+B30	B			técnicas	ficha/documento de Audio-Technica ATH-M50x	https://docs.audio-technica.com/all/Vol1.Auriculares-Pro_2026-marzo.pdf
+B30	B			técnicas	ficha/documento de Beyerdynamic DT 770 PRO, 80 Ω	https://north-america.beyerdynamic.com/p/dt-770-pro-80-ohm
+B30	B	A	Audio-Technica ATH-M50x	de precio	Audio-Technica ATH-M50x	https://docs.audio-technica.com/all/Vol1.Auriculares-Pro_2026-marzo.pdf
+B30	B	B	Beyerdynamic DT 770 PRO, 80 Ω	de precio	Beyerdynamic DT 770 PRO, 80 Ω	https://north-america.beyerdynamic.com/p/dt-770-pro-80-ohm
+B30	B	A	Audio-Technica ATH-M50x	Imágenes: galería o referencia visual	Audio-Technica ATH-M50x	https://docs.audio-technica.com/all/Vol1.Auriculares-Pro_2026-marzo.pdf
+B30	B	B	Beyerdynamic DT 770 PRO, 80 Ω	Imágenes: galería o referencia visual	Beyerdynamic DT 770 PRO, 80 Ω	https://north-america.beyerdynamic.com/p/dt-770-pro-80-ohm
+B31	B			técnicas	ficha/documento de Logitech C920s Pro HD	https://www.logitech.com/es-es/shop/p/c920s-pro-hd-webcam.960-001252
+B31	B			técnicas	ficha/documento de Razer Kiyo original	https://dl.razerzone.com/master-guides/Kiyo/Kiyo-en.pdf
+B31	B	A	Logitech C920s Pro HD	de precio	Logitech C920s Pro HD	https://www.logitech.com/en-us/shop/p/c920s-pro-hd-webcam.960-001257?searchclick=Logitech&sp=2
+B31	B	B	Razer Kiyo original	de precio	Razer Kiyo original	https://www.walmart.com/ip/221056211
+B31	B	A	Logitech C920s Pro HD	Imágenes: galería o referencia visual	Logitech C920s Pro HD	https://www.logitech.com/es-es/shop/p/c920s-pro-hd-webcam.960-001252
+B31	B	B	Razer Kiyo original	Imágenes: galería o referencia visual	Razer Kiyo original	https://www.razer.com/latam-es/streaming-cameras/razer-kiyo
+B32	B			técnicas	ficha/documento de Logitech Brio 4K	https://www.logitech.com/en-us/shop/p/brio-4k
+B32	B			técnicas	ficha/documento de Dell UltraSharp Webcam WB7022	https://www.dell.com/support/kbdoc/es-gt/000189066/gu-iacute-a-de-uso-y-soluci-oacute-n-de-problemas-de-la-c-aacute-mara-web-dell-wb7022-ultrasharp
+B32	B	A	Logitech Brio 4K	de precio	Logitech Brio 4K	https://www.logitech.com/en-us/shop/p/brio-4k
+B32	B	B	Dell UltraSharp Webcam WB7022	de precio	Dell UltraSharp Webcam WB7022	https://investors.delltechnologies.com/news-releases/news-release-details/look-your-best-worlds-most-intelligent-4k-webcam-its-class
+B32	B	A	Logitech Brio 4K	Imágenes: galería o referencia visual	Logitech Brio 4K	https://www.logitech.com/en-us/shop/p/brio-4k
+B32	B	B	Dell UltraSharp Webcam WB7022	Imágenes: galería o referencia visual	Dell UltraSharp Webcam WB7022	https://investors.delltechnologies.com/news-releases/news-release-details/look-your-best-worlds-most-intelligent-4k-webcam-its-class
+B33	B			técnicas	ficha/documento de Insta360 Link 2, Graphite Black Standard Bundle	https://www.insta360.com/us/product/insta360-link2?from=nav
+B33	B			técnicas	ficha/documento de OBSBOT Tiny 2, cámara individual	https://www.obsbot.com/obsbot-tiny-2-4k-webcam/specs
+B33	B	A	Insta360 Link 2, Graphite Black Standard Bundle	de precio	Insta360 Link 2, Graphite Black Standard Bundle	https://store.insta360.com/in/product/link-2
+B33	B	B	OBSBOT Tiny 2, cámara individual	de precio	OBSBOT Tiny 2, cámara individual	https://www.obsbot.com/store/products/tiny-2?product_id=da66820c024b4
+B33	B	A	Insta360 Link 2, Graphite Black Standard Bundle	Imágenes: galería o referencia visual	Insta360 Link 2, Graphite Black Standard Bundle	https://www.insta360.com/us/product/insta360-link2?from=nav
+B33	B	B	OBSBOT Tiny 2, cámara individual	Imágenes: galería o referencia visual	OBSBOT Tiny 2, cámara individual	https://www.obsbot.com/obsbot-tiny-2-4k-webcam/specs
+B34	B			técnicas	ficha/documento de Microsoft Xbox Wireless Controller, Carbon Black	https://www.xbox.com/es-mx/accessories/controllers/xbox-wireless-controller
+B34	B			técnicas	ficha/documento de Sony DualSense, Midnight Black	https://direct.playstation.com/en-us/buy-accessories/dualsense-wireless-controller-midnight-black-for-ps5-pc-mac-mobile
+B34	B	A	Microsoft Xbox Wireless Controller, Carbon Black	de precio	Microsoft Xbox Wireless Controller, Carbon Black	https://www.microsoft.com/en-us/d/xbox-wireless-controller/8mzbmmcjzpb2
+B34	B	B	Sony DualSense, Midnight Black	de precio	Sony DualSense, Midnight Black	https://www.bestbuy.com/product/sony-interactive-entertainment-dualsense-wireless-controller-for-ps5-pc-mac-mobile-midnight-black/JXHQ37T9XC
+B34	B	A	Microsoft Xbox Wireless Controller, Carbon Black	Imágenes: galería o referencia visual	Microsoft Xbox Wireless Controller, Carbon Black	https://www.xbox.com/es-mx/accessories/controllers/xbox-wireless-controller
+B34	B	B	Sony DualSense, Midnight Black	Imágenes: galería o referencia visual	Sony DualSense, Midnight Black	https://direct.playstation.com/en-us/buy-accessories/dualsense-wireless-controller-midnight-black-for-ps5-pc-mac-mobile
+B35	B			técnicas	ficha/documento de Logitech G923, versión Xbox/PC	https://www.logitechg.com/en-us/shop/c/racing-wheels-pedals
+B35	B			técnicas	ficha/documento de Thrustmaster T300RS GT Edition	https://www.thrustmaster.com/en-us/products/t300rs-gt-edition/
+B35	B	A	Logitech G923, versión Xbox/PC	de precio	Logitech G923, versión Xbox/PC	https://www.logitechg.com/en-us/shop/c/racing-wheels-pedals
+B35	B	B	Thrustmaster T300RS GT Edition	de precio	Thrustmaster T300RS GT Edition	https://www.thrustmaster.com/en-us/products/t300rs-gt-edition/
+B35	B	A	Logitech G923, versión Xbox/PC	Imágenes: galería o referencia visual	Logitech G923, versión Xbox/PC	https://www.logitechg.com/en-us/shop/c/racing-wheels-pedals
+B35	B	B	Thrustmaster T300RS GT Edition	Imágenes: galería o referencia visual	Thrustmaster T300RS GT Edition	https://www.thrustmaster.com/en-us/products/t300rs-gt-edition/
+B36	B			técnicas	ficha/documento de Logitech X56 HOTAS	https://www.logitechg.com/en-us/shop/p/x56-space-flight-vr-simulator-controller
+B36	B			técnicas	ficha/documento de Thrustmaster T.16000M FCS HOTAS	https://www.thrustmaster.com/en-us/products/t-16000m-fcs-hotas/
+B36	B	A	Logitech X56 HOTAS	de precio	Logitech X56 HOTAS	https://www.logitechg.com/en-us/shop/p/x56-space-flight-vr-simulator-controller
+B36	B	B	Thrustmaster T.16000M FCS HOTAS	de precio	Thrustmaster T.16000M FCS HOTAS	https://eshop.thrustmaster.com/en_us/t-16000m-fcs-hotas.html
+B36	B	A	Logitech X56 HOTAS	Imágenes: galería o referencia visual	Logitech X56 HOTAS	https://www.logitechg.com/en-us/shop/p/x56-space-flight-vr-simulator-controller
+B36	B	B	Thrustmaster T.16000M FCS HOTAS	Imágenes: galería o referencia visual	Thrustmaster T.16000M FCS HOTAS	https://www.thrustmaster.com/en-us/products/t-16000m-fcs-hotas/
+B37	B			técnicas	ficha/documento de Seagate Expansion Portable, STKM2000400	https://www.seagate.com/support/external-hard-drives/portable-hard-drives/expansion-portable/
+B37	B			técnicas	ficha/documento de WD My Passport, WDBYVG0020BBK-WESN	https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/wd/product/external-storage/my_passport/my-passport-new/product-overview-wd-my-passport.pdf
+B37	B	A	Seagate Expansion Portable, STKM2000400	de precio	Seagate Expansion Portable, STKM2000400	https://www.bestbuy.com/product/seagate-expansion-2tb-external-usb-3-0-portable-hard-drive-with-rescue-data-recovery-services-black/J37C5H48WF?source=Optiversal
+B37	B	B	WD My Passport, WDBYVG0020BBK-WESN	de precio	WD My Passport, WDBYVG0020BBK-WESN	https://www.bestbuy.com/product/wd-my-passport-2tb-external-usb-3-0-portable-hard-drive-black/JXTHCJFHXJ
+B37	B	A	Seagate Expansion Portable, STKM2000400	Imágenes: galería o referencia visual	Seagate Expansion Portable, STKM2000400	https://www.seagate.com/support/external-hard-drives/portable-hard-drives/expansion-portable/
+B37	B	B	WD My Passport, WDBYVG0020BBK-WESN	Imágenes: galería o referencia visual	WD My Passport, WDBYVG0020BBK-WESN	https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/wd/product/external-storage/my_passport/my-passport-new/product-overview-wd-my-passport.pdf
+B38	B			técnicas	ficha/documento de Samsung T7 Shield, MU-PE1T0K/AM, beige	https://www.samsung.com/us/memory-storage/portable-ssd/portable-ssd-t7-shield-usb-3-2-1tb-beige-sku-mu-pe1t0k-am/
+B38	B			técnicas	ficha/documento de Crucial X9 Pro, CT1000X9PROSSD9	https://assets.micron.com/adobe/assets/urn%3Aaaid%3Aaem%3Adfdc6c12-168d-4acb-9014-b9f98015f0e0/renditions/original/as/crucial-X9-productflyer.pdf
+B38	B	A	Samsung T7 Shield, MU-PE1T0K/AM, beige	de precio	Samsung T7 Shield, MU-PE1T0K/AM, beige	https://www.samsung.com/us/memory-storage/portable-ssd/portable-ssd-t7-shield-usb-3-2-1tb-beige-sku-mu-pe1t0k-am/
+B38	B	B	Crucial X9 Pro, CT1000X9PROSSD9	de precio	Crucial X9 Pro, CT1000X9PROSSD9	https://www.bestbuy.com/site/reviews/crucial-x9-pro-1tb-external-usb-c-ssd-space-gray/6551157
+B38	B	A	Samsung T7 Shield, MU-PE1T0K/AM, beige	Imágenes: galería o referencia visual	Samsung T7 Shield, MU-PE1T0K/AM, beige	https://www.samsung.com/us/memory-storage/portable-ssd/portable-ssd-t7-shield-usb-3-2-1tb-beige-sku-mu-pe1t0k-am/
+B38	B	B	Crucial X9 Pro, CT1000X9PROSSD9	Imágenes: galería o referencia visual	Crucial X9 Pro, CT1000X9PROSSD9	https://www.crucial.in/ssd/x9-pro/CT1000X9PROSSD9?cm_mmc=google-_-in-_-brand-_-x9-pro&gad_campaignid=22017423818&gad_source=1&gbraid=0AAAAAC7q9_lSa2x0F8K6Mh5jNlPbKW7GB
+B39	B			técnicas	ficha/documento de SanDisk Ultra Flair, SDCZ73-128G-G46	https://www.sandisk.com/es-es/products/usb-flash-drives/sandisk-ultra-flair-usb-3-0?sku=SDCZ73-128G-G46
+B39	B			técnicas	ficha/documento de Kingston DataTraveler Kyson, DTKN/128GB	https://www.kingston.com/es/usb-flash-drives/datatraveler-kyson-high-performance-usb-flash-drive?capacity=128gb
+B39	B	A	SanDisk Ultra Flair, SDCZ73-128G-G46	de precio	SanDisk Ultra Flair, SDCZ73-128G-G46	https://www.newegg.com/p/pl?d=sandisk+128gb+ultra+flair
+B39	B	B	Kingston DataTraveler Kyson, DTKN/128GB	de precio	Kingston DataTraveler Kyson, DTKN/128GB	https://www.bestbuy.com/product/kingston-datatraveler-kyson-128gb-high-performance-usb-3-2-gen-1-metal-usb-flash-drive-dtkn-128gb/JX4LR3GKRK/sku/10749596/reviews
+B39	B	A	SanDisk Ultra Flair, SDCZ73-128G-G46	Imágenes: galería o referencia visual	SanDisk Ultra Flair, SDCZ73-128G-G46	https://www.sandisk.com/es-es/products/usb-flash-drives/sandisk-ultra-flair-usb-3-0?sku=SDCZ73-128G-G46
+B39	B	B	Kingston DataTraveler Kyson, DTKN/128GB	Imágenes: galería o referencia visual	Kingston DataTraveler Kyson, DTKN/128GB	https://www.kingston.com/es/usb-flash-drives/datatraveler-kyson-high-performance-usb-flash-drive?capacity=128gb
+B40	B			técnicas	ficha/documento de SanDisk Extreme PRO UHS-I, SDSDXXJ-128G-GSCIN	https://www.sandisk.com/es-es/products/memory-cards/sd-cards/sandisk-extreme-pro-sd-uhs-i?sku=SDSDXXJ-128G-GSCIN
+B40	B			técnicas	ficha/documento de Lexar Professional 1667x SILVER UHS-II, LSD128CBNA1667	https://americas.lexar.com/es/product/lexar-professional-1667x-sdxc-uhs-ii-card-silver-series/?add-to-cart=26
+B40	B	A	SanDisk Extreme PRO UHS-I, SDSDXXJ-128G-GSCIN	de precio	SanDisk Extreme PRO UHS-I, SDSDXXJ-128G-GSCIN	https://www.bhphotovideo.com/c/product/1948568-REG/sandisk_sdsdxxj_128g_gscin_128gb_extreme_pro_uhs_i.html/overview
+B40	B	B	Lexar Professional 1667x SILVER UHS-II, LSD128CBNA1667	de precio	Lexar Professional 1667x SILVER UHS-II, LSD128CBNA1667	https://americas.lexar.com/es/product/lexar-professional-1667x-sdxc-uhs-ii-card-silver-series/?add-to-cart=26
+B40	B	A	SanDisk Extreme PRO UHS-I, SDSDXXJ-128G-GSCIN	Imágenes: galería o referencia visual	SanDisk Extreme PRO UHS-I, SDSDXXJ-128G-GSCIN	https://www.sandisk.com/es-es/products/memory-cards/sd-cards/sandisk-extreme-pro-sd-uhs-i?sku=SDSDXXJ-128G-GSCIN
+B40	B	B	Lexar Professional 1667x SILVER UHS-II, LSD128CBNA1667	Imágenes: galería o referencia visual	Lexar Professional 1667x SILVER UHS-II, LSD128CBNA1667	https://americas.lexar.com/es/product/lexar-professional-1667x-sdxc-uhs-ii-card-silver-series/?add-to-cart=26
+B41	B			técnicas	ficha/documento de Samsung PRO Plus + lector, MB-MD256SB/AM	https://www.samsung.com/us/memory-storage/memory-card/pro-plus-reader-microsdxc-256gb-sku-mb-md256sb-am/
+B41	B			técnicas	ficha/documento de SanDisk Extreme, SDSQXAV-256G-GN6MA	https://www.sandisk.com/es-la/products/memory-cards/microsd-cards/sandisk-extreme-uhs-i-microsd?sku=SDSQXAV-256G-GN6MA
+B41	B	A	Samsung PRO Plus + lector, MB-MD256SB/AM	de precio	Samsung PRO Plus + lector, MB-MD256SB/AM	https://www.samsung.com/us/memory-storage/memory-card/pro-plus-reader-microsdxc-256gb-sku-mb-md256sb-am/
+B41	B	B	SanDisk Extreme, SDSQXAV-256G-GN6MA	de precio	SanDisk Extreme, SDSQXAV-256G-GN6MA	https://business.walmart.com/ip/SanDisk-256GB-Extreme-microSDXC-UHS-I-Card-Up-to-160-MBPs-SDSQXAV-256G-GN6MA/1322034974
+B41	B	A	Samsung PRO Plus + lector, MB-MD256SB/AM	Imágenes: galería o referencia visual	Samsung PRO Plus + lector, MB-MD256SB/AM	https://www.samsung.com/us/memory-storage/memory-card/pro-plus-reader-microsdxc-256gb-sku-mb-md256sb-am/
+B41	B	B	SanDisk Extreme, SDSQXAV-256G-GN6MA	Imágenes: galería o referencia visual	SanDisk Extreme, SDSQXAV-256G-GN6MA	https://www.sandisk.com/es-la/products/memory-cards/microsd-cards/sandisk-extreme-uhs-i-microsd?sku=SDSQXAV-256G-GN6MA
+B42	B			técnicas	ficha/documento de SanDisk Extreme PRO CFexpress 4.0 Type B, SDCFEB-128G-GN4NN	https://www.sandisk.com/products/memory-cards/cfast-cfexpress-compactflash/sandisk-extreme-pro-cfexpress-4-0-type-b
+B42	B			técnicas	ficha/documento de Lexar Professional GOLD CFexpress 4.0 Type B, LCXEXP4128G-RNENG	https://americas.lexar.com/es/product/lexar-professional-gold-cfexpress-4-0-type-b-card/
+B42	B	A	SanDisk Extreme PRO CFexpress 4.0 Type B, SDCFEB-128G-GN4NN	de precio	SanDisk Extreme PRO CFexpress 4.0 Type B, SDCFEB-128G-GN4NN	https://www.walmart.com/ip/20534622924
+B42	B	B	Lexar Professional GOLD CFexpress 4.0 Type B, LCXEXP4128G-RNENG	de precio	Lexar Professional GOLD CFexpress 4.0 Type B, LCXEXP4128G-RNENG	https://www.bhphotovideo.com/c/product/1970462-REG/lexar_lcxexp4128g_rneng_128gb_cfexpress_type_b.html
+B42	B	A	SanDisk Extreme PRO CFexpress 4.0 Type B, SDCFEB-128G-GN4NN	Imágenes: galería o referencia visual	SanDisk Extreme PRO CFexpress 4.0 Type B, SDCFEB-128G-GN4NN	https://www.sandisk.com/products/memory-cards/cfast-cfexpress-compactflash/sandisk-extreme-pro-cfexpress-4-0-type-b
+B42	B	B	Lexar Professional GOLD CFexpress 4.0 Type B, LCXEXP4128G-RNENG	Imágenes: galería o referencia visual	Lexar Professional GOLD CFexpress 4.0 Type B, LCXEXP4128G-RNENG	https://americas.lexar.com/es/product/lexar-professional-gold-cfexpress-4-0-type-b-card/
+B43	B			técnicas	ficha/documento de SanDisk Extreme PRO SD USB-C, SDDR-409-G46	https://www.sandisk.com/products/accessories/memory-card-readers/sandisk-extreme-pro-uhs-ii-usb-3-0-type-c-sd-card-reader-writer
+B43	B			técnicas	ficha/documento de Sony MRW-S1	https://electronics.sony.com/imaging/imaging-accessories/media/p/mrws1-t
+B43	B	A	SanDisk Extreme PRO SD USB-C, SDDR-409-G46	de precio	SanDisk Extreme PRO SD USB-C, SDDR-409-G46	https://www.walmart.com/ip/450427621
+B43	B	B	Sony MRW-S1	de precio	Sony MRW-S1	https://electronics.sony.com/imaging/imaging-accessories/media/p/mrws1-t
+B43	B	A	SanDisk Extreme PRO SD USB-C, SDDR-409-G46	Imágenes: galería o referencia visual	SanDisk Extreme PRO SD USB-C, SDDR-409-G46	https://www.sandisk.com/products/accessories/memory-card-readers/sandisk-extreme-pro-uhs-ii-usb-3-0-type-c-sd-card-reader-writer
+B43	B	B	Sony MRW-S1	Imágenes: galería o referencia visual	Sony MRW-S1	https://electronics.sony.com/imaging/imaging-accessories/media/p/mrws1-t
+B44	B			técnicas	ficha/documento de Anker 2-in-1 USB 3.0, A7612	https://www.anker.com/ca/products/a7612-1
+B44	B			técnicas	ficha/documento de Transcend RDF5, TS-RDF5K	https://es.transcend-info.com/support/product/card-reader-accessory/rdf5
+B44	B	A	Anker 2-in-1 USB 3.0, A7612	de precio	Anker 2-in-1 USB 3.0, A7612	https://www.bestbuy.com/product/anker-usb-3-0-micro-sd-card-reader-5gbps-2-in-1-sd-card-reader-to-usb-adapter-black/JJ8586FRY5
+B44	B	B	Transcend RDF5, TS-RDF5K	de precio	Transcend RDF5, TS-RDF5K	https://www.walmart.com/ip/999341936
+B44	B	A	Anker 2-in-1 USB 3.0, A7612	Imágenes: galería o referencia visual	Anker 2-in-1 USB 3.0, A7612	https://www.anker.com/ca/products/a7612-1
+B44	B	B	Transcend RDF5, TS-RDF5K	Imágenes: galería o referencia visual	Transcend RDF5, TS-RDF5K	https://es.transcend-info.com/support/product/card-reader-accessory/rdf5
+B45	B			técnicas	ficha/documento de Angelbird Performance Card Reader CFexpress B	https://www.angelbird.com/prod/performance-card-reader-cfexpress-b-3458/?campaign=89
+B45	B			técnicas	ficha/documento de ProGrade Digital PG05.5 CFexpress B / SD	https://shop.progradedigital.com/products/prograde-digital-usb-3-1-gen-2-single-slot-cfx-card-reader-pg-05-5
+B45	B	A	Angelbird Performance Card Reader CFexpress B	de precio	Angelbird Performance Card Reader CFexpress B	https://www.angelbird.com/prod/performance-card-reader-cfexpress-b-3458/?campaign=89
+B45	B	B	ProGrade Digital PG05.5 CFexpress B / SD	de precio	ProGrade Digital PG05.5 CFexpress B / SD	https://shop.progradedigital.com/products/prograde-digital-usb-3-1-gen-2-single-slot-cfx-card-reader-pg-05-5
+B45	B	A	Angelbird Performance Card Reader CFexpress B	Imágenes: galería o referencia visual	Angelbird Performance Card Reader CFexpress B	https://www.angelbird.com/prod/performance-card-reader-cfexpress-b-3458/?campaign=89
+B45	B	B	ProGrade Digital PG05.5 CFexpress B / SD	Imágenes: galería o referencia visual	ProGrade Digital PG05.5 CFexpress B / SD	https://shop.progradedigital.com/products/prograde-digital-usb-3-1-gen-2-single-slot-cfx-card-reader-pg-05-5
+B46	B			técnicas	ficha/documento de APC Back-UPS BE600M1	https://www.se.com/us/en/product/BE600M1/apc-backups-600va-120v-1-usb-charging-port-7-nema-outlets-2-surge/?bvstate=pg%3A2%2Fct%3Ar&parent-subcategory-id=88975&selected-node-id=27590290410
+B46	B			técnicas	ficha/documento de CyberPower ST625U	https://www.cyberpowersystems.com/product/ups/standby/st625u/
+B46	B	A	APC Back-UPS BE600M1	de precio	APC Back-UPS BE600M1	https://www.walmart.com/ip/52774150
+B46	B	B	CyberPower ST625U	de precio	CyberPower ST625U	https://www.cyberpowersystems.com/product/ups/standby/st625u/
+B46	B	A	APC Back-UPS BE600M1	Imágenes: galería o referencia visual	APC Back-UPS BE600M1	https://www.se.com/us/en/product/BE600M1/apc-backups-600va-120v-1-usb-charging-port-7-nema-outlets-2-surge/?bvstate=pg%3A2%2Fct%3Ar&parent-subcategory-id=88975&selected-node-id=27590290410
+B46	B	B	CyberPower ST625U	Imágenes: galería o referencia visual	CyberPower ST625U	https://www.cyberpowersystems.com/product/ups/standby/st625u/
+B47	B			técnicas	ficha/documento de APC Back-UPS Pro BR1000MS	https://www.se.com/us/en/product/BR1000MS/apc-backups-pro-1000va-600w-tower-120v-10x-nema-515r-outlets-sine-wave-avr-usb-type-a-%2B-c-ports-lcd-user-replaceable-battery/?Chat_CSC_ID=a3080010
+B47	B			técnicas	ficha/documento de CyberPower CP1000PFCLCD	https://www.cyberpowersystems.com/product/ups/pfc-sinewave/cp1000pfclcd/
+B47	B	A	APC Back-UPS Pro BR1000MS	de precio	APC Back-UPS Pro BR1000MS	https://www.sweetwater.com/store/detail/BackUp1000MS--apc-br1000ms
+B47	B	B	CyberPower CP1000PFCLCD	de precio	CyberPower CP1000PFCLCD	https://www.cyberpowersystems.com/product/ups/pfc-sinewave/cp1000pfclcd/
+B47	B	A	APC Back-UPS Pro BR1000MS	Imágenes: galería o referencia visual	APC Back-UPS Pro BR1000MS	https://www.se.com/us/en/product/BR1000MS/apc-backups-pro-1000va-600w-tower-120v-10x-nema-515r-outlets-sine-wave-avr-usb-type-a-%2B-c-ports-lcd-user-replaceable-battery/?Chat_CSC_ID=a3080010
+B47	B	B	CyberPower CP1000PFCLCD	Imágenes: galería o referencia visual	CyberPower CP1000PFCLCD	https://www.cyberpowersystems.com/product/ups/pfc-sinewave/cp1000pfclcd/
+B48	B			técnicas	ficha/documento de APC Smart-UPS SRT1000XLA	https://www.se.com/us/en/product/SRT1000XLA/apc-smartups-online-1000va-tower-120v-6x-515r-nema-outlets-smartslot-extended-runtime-w-o-rail-kit/
+B48	B			técnicas	ficha/documento de Eaton 9SX1000	https://www.eaton.com/us/en-us/skuPage.9SX1000.html
+B48	B	A	APC Smart-UPS SRT1000XLA	de precio	APC Smart-UPS SRT1000XLA	https://www.apcguard.com/srt1000xla.asp
+B48	B	B	Eaton 9SX1000	de precio	Eaton 9SX1000	https://www.eaton.com/us/en-us/skuPage.9SX1000.html
+B48	B	A	APC Smart-UPS SRT1000XLA	Imágenes: galería o referencia visual	APC Smart-UPS SRT1000XLA	https://www.se.com/us/en/product/SRT1000XLA/apc-smartups-online-1000va-tower-120v-6x-515r-nema-outlets-smartslot-extended-runtime-w-o-rail-kit/
+B48	B	B	Eaton 9SX1000	Imágenes: galería o referencia visual	Eaton 9SX1000	https://www.eaton.com/us/en-us/skuPage.9SX1000.html
+B49	B			técnicas	ficha/documento de Anker Ultra Slim 4-Port USB 3.0, A7516	https://www.anker.com/products/a7516?Sort_by=Recommended&collections_gifts-for-professionals=&variant=40237697171606
+B49	B			técnicas	ficha/documento de Sabrent HB-UM43	https://sabrent.com/products/hb-um43
+B49	B	A	Anker Ultra Slim 4-Port USB 3.0, A7516	de precio	Anker Ultra Slim 4-Port USB 3.0, A7516	https://www.anker.com/products/a7516?Sort_by=Recommended&collections_gifts-for-professionals=&variant=40237697171606
+B49	B	B	Sabrent HB-UM43	de precio	Sabrent HB-UM43	https://sabrent.com/products/hb-um43
+B49	B	A	Anker Ultra Slim 4-Port USB 3.0, A7516	Imágenes: galería o referencia visual	Anker Ultra Slim 4-Port USB 3.0, A7516	https://www.anker.com/products/a7516?Sort_by=Recommended&collections_gifts-for-professionals=&variant=40237697171606
+B49	B	B	Sabrent HB-UM43	Imágenes: galería o referencia visual	Sabrent HB-UM43	https://sabrent.com/products/hb-um43
+B50	B			técnicas	ficha/documento de Anker 555 USB-C Hub 8-in-1, A8383	https://www.anker.com/products/a8383
+B50	B			técnicas	ficha/documento de UGREEN Revodok 107 7-in-1, 60515	https://us.ugreen.com/products/7-in-1-multiport-adapter-with-4k-60hz?variant=39915659919422
+B50	B	A	Anker 555 USB-C Hub 8-in-1, A8383	de precio	Anker 555 USB-C Hub 8-in-1, A8383	https://www.anker.com/products/a8383
+B50	B	B	UGREEN Revodok 107 7-in-1, 60515	de precio	UGREEN Revodok 107 7-in-1, 60515	https://us.ugreen.com/products/7-in-1-multiport-adapter-with-4k-60hz?variant=39915659919422
+B50	B	A	Anker 555 USB-C Hub 8-in-1, A8383	Imágenes: galería o referencia visual	Anker 555 USB-C Hub 8-in-1, A8383	https://www.anker.com/products/a8383
+B50	B	B	UGREEN Revodok 107 7-in-1, 60515	Imágenes: galería o referencia visual	UGREEN Revodok 107 7-in-1, 60515	https://us.ugreen.com/products/7-in-1-multiport-adapter-with-4k-60hz?variant=39915659919422
+B51	B			técnicas	ficha/documento de CalDigit TS4	https://www.caldigit.com/thunderbolt-station-4/
+B51	B			técnicas	ficha/documento de OWC 11-Port Thunderbolt Dock	https://www.owc.com/solutions/thunderbolt-dock
+B51	B	A	CalDigit TS4	de precio	CalDigit TS4	https://us.caldigit.com/products/ts4
+B51	B	B	OWC 11-Port Thunderbolt Dock	de precio	OWC 11-Port Thunderbolt Dock	https://eshop.macsales.com/shop/owc-thunderbolt-dock
+B51	B	A	CalDigit TS4	Imágenes: galería o referencia visual	CalDigit TS4	https://www.caldigit.com/thunderbolt-station-4/
+B51	B	B	OWC 11-Port Thunderbolt Dock	Imágenes: galería o referencia visual	OWC 11-Port Thunderbolt Dock	https://www.owc.com/solutions/thunderbolt-dock
+C01	C	A	Alienware Aurora ACT1250, Ultra 7 / RTX 5070	técnicas	Alienware Aurora ACT1250, Ultra 7 / RTX 5070	https://www.dell.com/en-us/shop/desktop-computers/alienware-aurora-gaming-desktop/spd/alienware-aurora-act1250-gaming-desktop/useact1250hbtshqbl?tblci=Gids+lezen
+C01	C	B	Lenovo Legion Tower 5i Gen 10, 90YA0014US	técnicas	Lenovo Legion Tower 5i Gen 10, 90YA0014US	https://www.lenovo.com/us/en/p/desktops/legion-desktops/legion-t-series-towers/lenovo-legion-tower-5i-gen-10-intel/90ya0014us
+C01	C	A	Alienware Aurora ACT1250, Ultra 7 / RTX 5070	de precio	Alienware Aurora ACT1250, Ultra 7 / RTX 5070	https://www.dell.com/en-us/shop/desktop-computers/alienware-aurora-gaming-desktop/spd/alienware-aurora-act1250-gaming-desktop/useact1250hbtshqbl?tblci=Gids+lezen
+C01	C	B	Lenovo Legion Tower 5i Gen 10, 90YA0014US	de precio	Lenovo Legion Tower 5i Gen 10, 90YA0014US	https://www.lenovo.com/buy/us/en/intel/our-best-easter-deals-on-expandable-tower-pc-0ajz00a
+C01	C	A	Alienware Aurora ACT1250, Ultra 7 / RTX 5070	Imágenes: galería o referencia visual	Alienware Aurora ACT1250, Ultra 7 / RTX 5070	https://www.dell.com/en-us/shop/desktop-computers/alienware-aurora-gaming-desktop/spd/alienware-aurora-act1250-gaming-desktop/useact1250hbtshqbl?tblci=Gids+lezen
+C01	C	B	Lenovo Legion Tower 5i Gen 10, 90YA0014US	Imágenes: galería o referencia visual	Lenovo Legion Tower 5i Gen 10, 90YA0014US	https://www.lenovo.com/us/en/p/desktops/legion-desktops/legion-t-series-towers/lenovo-legion-tower-5i-gen-10-intel/90ya0014us
+C02	C	A	HP Z2 SFF G1i, Ultra 7 / RTX 2000 Ada	técnicas	HP Z2 SFF G1i, Ultra 7 / RTX 2000 Ada	https://support.hp.com/pl-pl/document/ish_12269583-12286682-16?fallbackLocale=us-en&validated=true
+C02	C	B	Lenovo ThinkStation P3 Tower Gen 2, 30HS000MUS	técnicas	Lenovo ThinkStation P3 Tower Gen 2, 30HS000MUS	https://www.lenovo.com/us/en/p/workstations/thinkstation-p-series/len102s0019/30hs000mus
+C02	C	A	HP Z2 SFF G1i, Ultra 7 / RTX 2000 Ada	de precio	HP Z2 SFF G1i, Ultra 7 / RTX 2000 Ada	https://www.walmart.com/ip/16815667070?classType=REGULAR
+C02	C	B	Lenovo ThinkStation P3 Tower Gen 2, 30HS000MUS	de precio	Lenovo ThinkStation P3 Tower Gen 2, 30HS000MUS	https://www.lenovo.com/buy/us/en/thinkstation-pricing-p3-gen-2-0avz00a
+C02	C	A	HP Z2 SFF G1i, Ultra 7 / RTX 2000 Ada	Imágenes: galería o referencia visual	HP Z2 SFF G1i, Ultra 7 / RTX 2000 Ada	https://www.walmart.com/ip/16815667070?classType=REGULAR
+C02	C	B	Lenovo ThinkStation P3 Tower Gen 2, 30HS000MUS	Imágenes: galería o referencia visual	Lenovo ThinkStation P3 Tower Gen 2, 30HS000MUS	https://www.lenovo.com/us/en/p/workstations/thinkstation-p-series/len102s0019/30hs000mus
+C03	C	A	Dell OptiPlex 7020 SFF, i5 / 8 GB / 256 GB	técnicas	Dell OptiPlex 7020 SFF, i5 / 8 GB / 256 GB	https://www.dell.com/en-us/shop/desktop-computers/optiplex-small-form-factor/spd/optiplex-7020-small-ff/gctoo7020sffus_vp?redirectTo=SOC
+C03	C	B	Lenovo ThinkCentre neo 50s Gen 5, 12XF000NUS	técnicas	Lenovo ThinkCentre neo 50s Gen 5, 12XF000NUS	https://psref.lenovo.com/Product/ThinkCentre/ThinkCentre_neo_50s_Gen_5
+C03	C	A	Dell OptiPlex 7020 SFF, i5 / 8 GB / 256 GB	de precio	Dell OptiPlex 7020 SFF, i5 / 8 GB / 256 GB	https://www.dell.com/en-us/shop/desktop-computers/optiplex-small-form-factor/spd/optiplex-7020-small-ff/gctoo7020sffus_vp?redirectTo=SOC
+C03	C	B	Lenovo ThinkCentre neo 50s Gen 5, 12XF000NUS	de precio	Lenovo ThinkCentre neo 50s Gen 5, 12XF000NUS	https://www.walmart.com/ip/17377558789
+C03	C	A	Dell OptiPlex 7020 SFF, i5 / 8 GB / 256 GB	Imágenes: galería o referencia visual	Dell OptiPlex 7020 SFF, i5 / 8 GB / 256 GB	https://www.dell.com/en-us/shop/desktop-computers/optiplex-small-form-factor/spd/optiplex-7020-small-ff/gctoo7020sffus_vp?redirectTo=SOC
+C03	C	B	Lenovo ThinkCentre neo 50s Gen 5, 12XF000NUS	Imágenes: galería o referencia visual	Lenovo ThinkCentre neo 50s Gen 5, 12XF000NUS	https://www.walmart.com/ip/17377558789
+C04	C	A	ASUS TUF Gaming A15, FA507NV-EH74	técnicas	ASUS TUF Gaming A15, FA507NV-EH74	https://www.asus.com/us/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-a15-2023/techspec/
+C04	C	B	Lenovo LOQ 15IRX9, 83DV00FXUS	técnicas	Lenovo LOQ 15IRX9, 83DV00FXUS	https://pcsupport.lenovo.com/sg/en/products/laptops-and-netbooks/gaming-series/loq-15irx9/83dv/document-userguide
+C04	C	A	ASUS TUF Gaming A15, FA507NV-EH74	de precio	ASUS TUF Gaming A15, FA507NV-EH74	https://pangoly.com/en/price-history/asus-tuf-a15-fa507nv-eh74
+C04	C	B	Lenovo LOQ 15IRX9, 83DV00FXUS	de precio	Lenovo LOQ 15IRX9, 83DV00FXUS	https://www.walmart.com/ip/5573142518
+C04	C	A	ASUS TUF Gaming A15, FA507NV-EH74	Imágenes: galería o referencia visual	ASUS TUF Gaming A15, FA507NV-EH74	https://www.asus.com/us/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-a15-2023/techspec/
+C04	C	B	Lenovo LOQ 15IRX9, 83DV00FXUS	Imágenes: galería o referencia visual	Lenovo LOQ 15IRX9, 83DV00FXUS	https://www.walmart.com/ip/5573142518
+C05	C	A	Apple MacBook Pro 14, M4 (2024), 16/512 GB	técnicas	Apple MacBook Pro 14, M4 (2024), 16/512 GB	https://support.apple.com/es-es/121552
+C05	C	B	ASUS ProArt P16, H7606WI-P16.R3704070	técnicas	ASUS ProArt P16, H7606WI-P16.R3704070	https://www.asus.com/us/laptops/for-creators/proart/proart-p16-h7606/techspec/
+C05	C	A	Apple MacBook Pro 14, M4 (2024), 16/512 GB	de precio	Apple MacBook Pro 14, M4 (2024), 16/512 GB	https://www.bestbuy.com/product/apple-macbook-pro-14-inch-laptop-apple-m4-chip-built-for-apple-intelligence-16gb-memory-512gb-ssd-space-black/JJGCQ3W9SS/sku/10772196/reviews?ratings=1
+C05	C	B	ASUS ProArt P16, H7606WI-P16.R3704070	de precio	ASUS ProArt P16, H7606WI-P16.R3704070	https://www.bestbuy.com/site/reviews/asus-proart-p16-16-4k-oled-touch-screen-laptop-copilot-pc-amd-ryzen-ai-9-hx-370-32gb-memory-rtx-4070-2tb-ssd-nano-black/6584434
+C05	C	A	Apple MacBook Pro 14, M4 (2024), 16/512 GB	Imágenes: galería o referencia visual	Apple MacBook Pro 14, M4 (2024), 16/512 GB	https://support.apple.com/es-es/121552
+C05	C	B	ASUS ProArt P16, H7606WI-P16.R3704070	Imágenes: galería o referencia visual	ASUS ProArt P16, H7606WI-P16.R3704070	https://www.bestbuy.com/site/reviews/asus-proart-p16-16-4k-oled-touch-screen-laptop-copilot-pc-amd-ryzen-ai-9-hx-370-32gb-memory-rtx-4070-2tb-ssd-nano-black/6584434
+C06	C	A	Acer Aspire Go 15, AG15-31P-P5TG	técnicas	Acer Aspire Go 15, AG15-31P-P5TG	https://store.acer.com/en-us/aspire-go-15-laptop-ag15-31p-p5tg
+C06	C	B	HP 15-fc0093dx, 16 GB / 256 GB	técnicas	HP 15-fc0093dx, 16 GB / 256 GB	https://files.bbystatic.com/0931xYAJPM4%2BpiOj0NoOVQ%3D%3D/Datasheet
+C06	C	A	Acer Aspire Go 15, AG15-31P-P5TG	de precio	Acer Aspire Go 15, AG15-31P-P5TG	https://store.acer.com/en-us/aspire-go-15-laptop-ag15-31p-p5tg
+C06	C	B	HP 15-fc0093dx, 16 GB / 256 GB	de precio	HP 15-fc0093dx, 16 GB / 256 GB	https://www.bestbuy.com/site/reviews/hp-15-6-full-hd-laptop-amd-ryzen-5-7520u-16gb-memory-256gb-ssd-natural-silver/6554442?page=8
+C06	C	A	Acer Aspire Go 15, AG15-31P-P5TG	Imágenes: galería o referencia visual	Acer Aspire Go 15, AG15-31P-P5TG	https://store.acer.com/en-us/aspire-go-15-laptop-ag15-31p-p5tg
+C06	C	B	HP 15-fc0093dx, 16 GB / 256 GB	Imágenes: galería o referencia visual	HP 15-fc0093dx, 16 GB / 256 GB	https://www.bestbuy.com/site/reviews/hp-15-6-full-hd-laptop-amd-ryzen-5-7520u-16gb-memory-256gb-ssd-natural-silver/6554442?page=8
+C07	C	A	Apple iPad Pro 11, M5, Wi-Fi / 256 GB	técnicas	Apple iPad Pro 11, M5, Wi-Fi / 256 GB	https://support.apple.com/en-ca/125406
+C07	C	B	Samsung Galaxy Tab S11, Wi-Fi / 128 GB	técnicas	Samsung Galaxy Tab S11, Wi-Fi / 128 GB	https://news.samsung.com/latin/conoce-la-serie-samsung-galaxy-tab-s11-todo-lo-que-esperas-de-una-tablet-premium
+C07	C	A	Apple iPad Pro 11, M5, Wi-Fi / 256 GB	de precio	Apple iPad Pro 11, M5, Wi-Fi / 256 GB	https://www.apple.com/shop/buy-ipad/ipad-pro/11-inch-display-256gb-space-black-wifi-standard-glass
+C07	C	B	Samsung Galaxy Tab S11, Wi-Fi / 128 GB	de precio	Samsung Galaxy Tab S11, Wi-Fi / 128 GB	https://www.samsung.com/us/tablets/galaxy-tab-s11/buy/galaxy-tab-s11-128gb-gray-wi-fi-sku-sm-x730nzaaxar/?slpfid=3
+C07	C	A	Apple iPad Pro 11, M5, Wi-Fi / 256 GB	Imágenes: galería o referencia visual	Apple iPad Pro 11, M5, Wi-Fi / 256 GB	https://support.apple.com/en-ca/125406
+C07	C	B	Samsung Galaxy Tab S11, Wi-Fi / 128 GB	Imágenes: galería o referencia visual	Samsung Galaxy Tab S11, Wi-Fi / 128 GB	https://news.samsung.com/latin/conoce-la-serie-samsung-galaxy-tab-s11-todo-lo-que-esperas-de-una-tablet-premium
+C08	C	A	Apple iPad (A16), Wi-Fi / 128 GB	técnicas	Apple iPad (A16), Wi-Fi / 128 GB	https://support.apple.com/es-la/122240
+C08	C	B	Samsung Galaxy Tab S10 FE, Wi-Fi / 128 GB	técnicas	Samsung Galaxy Tab S10 FE, Wi-Fi / 128 GB	https://www.samsung.com/latin/tablets/galaxy-tab-s/galaxy-tab-s10-fe-gray-128gb-sm-x520nzaatpa/
+C08	C	A	Apple iPad (A16), Wi-Fi / 128 GB	de precio	Apple iPad (A16), Wi-Fi / 128 GB	https://www.apple.com/shop/buy-ipad/ipad
+C08	C	B	Samsung Galaxy Tab S10 FE, Wi-Fi / 128 GB	de precio	Samsung Galaxy Tab S10 FE, Wi-Fi / 128 GB	https://www.samsung.com/us/tablets/galaxy-tab-s10-fe/buy/?modelCode=SM-X510NZAAXAR
+C08	C	A	Apple iPad (A16), Wi-Fi / 128 GB	Imágenes: galería o referencia visual	Apple iPad (A16), Wi-Fi / 128 GB	https://support.apple.com/es-la/122240
+C08	C	B	Samsung Galaxy Tab S10 FE, Wi-Fi / 128 GB	Imágenes: galería o referencia visual	Samsung Galaxy Tab S10 FE, Wi-Fi / 128 GB	https://www.samsung.com/latin/tablets/galaxy-tab-s/galaxy-tab-s10-fe-gray-128gb-sm-x520nzaatpa/
+C09	C	A	Lenovo Tab M11, ZADA0047US, 4/64 GB	técnicas	Lenovo Tab M11, ZADA0047US, 4/64 GB	https://www.lenovo.com/us/en/p/tablets/android-tablets/lenovo-tab-series/lenovo-tab-m11-11-inch-mtk/zada0047us
+C09	C	B	Samsung Galaxy Tab A9+, Wi-Fi, 4/64 GB	técnicas	Samsung Galaxy Tab A9+, Wi-Fi, 4/64 GB	https://www.samsung.com/us/app/tablets/galaxy-tab-a9-plus/
+C09	C	A	Lenovo Tab M11, ZADA0047US, 4/64 GB	de precio	Lenovo Tab M11, ZADA0047US, 4/64 GB	https://www.bestbuy.com/product/lenovo-tab-m11-11-fhd-tablet-4gb-ram-64gb-emmc-storm-grey/JJGYCLHFQV
+C09	C	B	Samsung Galaxy Tab A9+, Wi-Fi, 4/64 GB	de precio	Samsung Galaxy Tab A9+, Wi-Fi, 4/64 GB	https://www.bestbuy.com/site/samsung-galaxy-tab-a9-11-64gb-wi-fi-graphite/6566195.p?extStoreId=21
+C09	C	A	Lenovo Tab M11, ZADA0047US, 4/64 GB	Imágenes: galería o referencia visual	Lenovo Tab M11, ZADA0047US, 4/64 GB	https://www.bestbuy.com/product/lenovo-tab-m11-11-fhd-tablet-4gb-ram-64gb-emmc-storm-grey/JJGYCLHFQV
+C09	C	B	Samsung Galaxy Tab A9+, Wi-Fi, 4/64 GB	Imágenes: galería o referencia visual	Samsung Galaxy Tab A9+, Wi-Fi, 4/64 GB	https://www.bestbuy.com/site/samsung-galaxy-tab-a9-11-64gb-wi-fi-graphite/6566195.p?extStoreId=21
+C10	C	A	Apple iPhone 17, 256 GB	técnicas	Apple iPhone 17, 256 GB	https://www.apple.com/iphone-17/specs/
+C10	C	B	Samsung Galaxy S26, 256 GB, desbloqueado	técnicas	Samsung Galaxy S26, 256 GB, desbloqueado	https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai
+C10	C	A	Apple iPhone 17, 256 GB	de precio	Apple iPhone 17, 256 GB	https://www.apple.com/shop/buy-iphone/iphone-17?pubDate=20250910
+C10	C	B	Samsung Galaxy S26, 256 GB, desbloqueado	de precio	Samsung Galaxy S26, 256 GB, desbloqueado	https://www.samsung.com/us/smartphones/galaxy-s26/buy/galaxy-s26-256gb-unlocked-sku-sm-s942uzkexaa/
+C10	C	A	Apple iPhone 17, 256 GB	Imágenes: galería o referencia visual	Apple iPhone 17, 256 GB	https://www.apple.com/iphone-17/specs/
+C10	C	B	Samsung Galaxy S26, 256 GB, desbloqueado	Imágenes: galería o referencia visual	Samsung Galaxy S26, 256 GB, desbloqueado	https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai
+C11	C	A	Google Pixel 9a, 128 GB	técnicas	Google Pixel 9a, 128 GB	https://store.google.com/product/pixel_9a_specs?hl=en-US
+C11	C	B	Samsung Galaxy A56 5G, 128 GB	técnicas	Samsung Galaxy A56 5G, 128 GB	https://news.samsung.com/us/samsung-new-galaxy-a56-a36-a26-5g-marks-step-forward-with-ai-for-everyone/
+C11	C	A	Google Pixel 9a, 128 GB	de precio	Google Pixel 9a, 128 GB	https://store.google.com/product/pixel_9a_specs?hl=en-US
+C11	C	B	Samsung Galaxy A56 5G, 128 GB	de precio	Samsung Galaxy A56 5G, 128 GB	https://news.samsung.com/us/samsung-new-galaxy-a56-a36-a26-5g-marks-step-forward-with-ai-for-everyone/
+C11	C	A	Google Pixel 9a, 128 GB	Imágenes: galería o referencia visual	Google Pixel 9a, 128 GB	https://store.google.com/product/pixel_9a_specs?hl=en-US
+C11	C	B	Samsung Galaxy A56 5G, 128 GB	Imágenes: galería o referencia visual	Samsung Galaxy A56 5G, 128 GB	https://news.samsung.com/us/samsung-new-galaxy-a56-a36-a26-5g-marks-step-forward-with-ai-for-everyone/
+C12	C	A	Motorola moto g (2025), 128 GB	técnicas	Motorola moto g (2025), 128 GB	https://en-us.support.motorola.com/app/answers/detail/a_id/184288/~/specifications---moto-g---2025
+C12	C	B	Samsung Galaxy A16 5G, 128 GB, EE. UU.	técnicas	Samsung Galaxy A16 5G, 128 GB, EE. UU.	https://news.samsung.com/latin/samsung-presenta-los-galaxy-a16-y-a16-5g-con-hasta-seis-actualizaciones-del-sistema-android-y-seguridad
+C12	C	A	Motorola moto g (2025), 128 GB	de precio	Motorola moto g (2025), 128 GB	https://www.motorola.com/us/en/p/phones/moto-g/moto-g-2025/pmipmhh39mq?bvstate=pg%3A6%2Fct%3Ar&pn=PB5X0002US
+C12	C	B	Samsung Galaxy A16 5G, 128 GB, EE. UU.	de precio	Samsung Galaxy A16 5G, 128 GB, EE. UU.	https://image-us.samsung.com/SamsungUS/business/solutions/industries/government/msrp-price-sheets/04072026/Samsung_HHP_MSRP_Price_File_%28March_2026%29.pdf
+C12	C	A	Motorola moto g (2025), 128 GB	Imágenes: galería o referencia visual	Motorola moto g (2025), 128 GB	https://en-us.support.motorola.com/app/answers/detail/a_id/184288/~/specifications---moto-g---2025
+C12	C	B	Samsung Galaxy A16 5G, 128 GB, EE. UU.	Imágenes: galería o referencia visual	Samsung Galaxy A16 5G, 128 GB, EE. UU.	https://news.samsung.com/latin/samsung-presenta-los-galaxy-a16-y-a16-5g-con-hasta-seis-actualizaciones-del-sistema-android-y-seguridad
+C13	C	A	Apple Watch Series 11, GPS, aluminio de 42 mm	técnicas	Apple Watch Series 11, GPS, aluminio de 42 mm	https://support.apple.com/en-la/125093
+C13	C	B	Samsung Galaxy Watch8, Bluetooth, 40 mm	técnicas	Samsung Galaxy Watch8, Bluetooth, 40 mm	https://www.samsung.com/ar/watches/galaxy-watch/galaxy-watch8-40mm-graphite-bluetooth-sm-l320ndaaaro/
+C13	C	A	Apple Watch Series 11, GPS, aluminio de 42 mm	de precio	Apple Watch Series 11, GPS, aluminio de 42 mm	https://www.apple.com/shop/buy-watch/apple-watch/42mm-gps-space-gray-aluminum-anchor-blue-sport-band
+C13	C	B	Samsung Galaxy Watch8, Bluetooth, 40 mm	de precio	Samsung Galaxy Watch8, Bluetooth, 40 mm	https://www.samsung.com/us/watches/galaxy-watch8/buy/galaxy-watch8-40mm-graphite-wi-fi-bluetooth-sku-sm-l320ndadxaa/
+C13	C	A	Apple Watch Series 11, GPS, aluminio de 42 mm	Imágenes: galería o referencia visual	Apple Watch Series 11, GPS, aluminio de 42 mm	https://support.apple.com/en-la/125093
+C13	C	B	Samsung Galaxy Watch8, Bluetooth, 40 mm	Imágenes: galería o referencia visual	Samsung Galaxy Watch8, Bluetooth, 40 mm	https://www.samsung.com/ar/watches/galaxy-watch/galaxy-watch8-40mm-graphite-bluetooth-sm-l320ndaaaro/
+C14	C	A	Garmin Forerunner 265, 46 mm	técnicas	Garmin Forerunner 265, 46 mm	https://www.garmin.com.sg/products/intosports/forerunner-265-black/
+C14	C	B	COROS PACE 3	técnicas	COROS PACE 3	https://coros.com/pace3/specs
+C14	C			técnicas	Documento complementario	https://support.coros.com/hc/en-us/articles/23476623096980-Battery-Specifications
+C14	C	A	Garmin Forerunner 265, 46 mm	de precio	Garmin Forerunner 265, 46 mm	https://www.bestbuy.com/product/garmin-forerunner-265-gps-smartwatch-46-mm-fiber-reinforced-polymer-black-2023/6544440
+C14	C	B	COROS PACE 3	de precio	COROS PACE 3	https://support.coros.com/hc/en-us/articles/43098786272532-COROS-PACE-3-and-PACE-Pro-Price-Adjustment
+C14	C	A	Garmin Forerunner 265, 46 mm	Imágenes: galería o referencia visual	Garmin Forerunner 265, 46 mm	https://www.garmin.com.sg/products/intosports/forerunner-265-black/
+C14	C	B	COROS PACE 3	Imágenes: galería o referencia visual	COROS PACE 3	https://coros.com/pace3/specs
+C15	C	A	Amazfit Bip 6	técnicas	Amazfit Bip 6	https://us.amazfit.com/products/bip-6
+C15	C	B	CMF Watch 3 Pro	técnicas	CMF Watch 3 Pro	https://us.nothing.tech/products/cmf-watch-3-pro
+C15	C	A	Amazfit Bip 6	de precio	Amazfit Bip 6	https://us.amazfit.com/products/bip-6
+C15	C	B	CMF Watch 3 Pro	de precio	CMF Watch 3 Pro	https://us.nothing.tech/products/cmf-watch-3-pro
+C15	C	A	Amazfit Bip 6	Imágenes: galería o referencia visual	Amazfit Bip 6	https://us.amazfit.com/products/bip-6
+C15	C	B	CMF Watch 3 Pro	Imágenes: galería o referencia visual	CMF Watch 3 Pro	https://us.nothing.tech/products/cmf-watch-3-pro
+C16	C	A	Sony PlayStation 5, modelo compacto, disco / 1 TB	técnicas	Sony PlayStation 5, modelo compacto, disco / 1 TB	https://direct.playstation.com/en-us/buy-consoles/playstation5-console-1-tb
+C16	C	B	Microsoft Xbox Series X, negra, disco / 1 TB	técnicas	Microsoft Xbox Series X, negra, disco / 1 TB	https://www.xbox.com/en-us/consoles/xbox-series-x
+C16	C	A	Sony PlayStation 5, modelo compacto, disco / 1 TB	de precio	Sony PlayStation 5, modelo compacto, disco / 1 TB	https://blog.playstation.com/2026/03/27/new-price-changes-for-ps5-ps5-pro-and-playstation-portal-remote-player
+C16	C	B	Microsoft Xbox Series X, negra, disco / 1 TB	de precio	Microsoft Xbox Series X, negra, disco / 1 TB	https://www.xbox.com/en-us/consoles/xbox-series-x
+C16	C	A	Sony PlayStation 5, modelo compacto, disco / 1 TB	Imágenes: galería o referencia visual	Sony PlayStation 5, modelo compacto, disco / 1 TB	https://direct.playstation.com/en-us/buy-consoles/playstation5-console-1-tb
+C16	C	B	Microsoft Xbox Series X, negra, disco / 1 TB	Imágenes: galería o referencia visual	Microsoft Xbox Series X, negra, disco / 1 TB	https://www.xbox.com/en-us/consoles/xbox-series-x
+C17	C	A	Nintendo Switch 2, paquete base de 256 GB	técnicas	Nintendo Switch 2, paquete base de 256 GB	https://www.nintendo.com/sg/hardware/switch2/specs/index.html
+C17	C	B	Valve Steam Deck OLED, 512 GB	técnicas	Valve Steam Deck OLED, 512 GB	https://www.steamdeck.com/es/es-419/tech/oled
+C17	C	A	Nintendo Switch 2, paquete base de 256 GB	de precio	Nintendo Switch 2, paquete base de 256 GB	https://www.nintendo.co.jp/ir/pdf/2026/260508_4e.pdf
+C17	C	B	Valve Steam Deck OLED, 512 GB	de precio	Valve Steam Deck OLED, 512 GB	https://www.steamdeck.com/es/
+C17	C	A	Nintendo Switch 2, paquete base de 256 GB	Imágenes: galería o referencia visual	Nintendo Switch 2, paquete base de 256 GB	https://www.nintendo.com/sg/hardware/switch2/specs/index.html
+C17	C	B	Valve Steam Deck OLED, 512 GB	Imágenes: galería o referencia visual	Valve Steam Deck OLED, 512 GB	https://www.steamdeck.com/es/es-419/tech/oled
+C18	C	A	My Arcade Atari Gamestation Pro, DGUNL-7012	técnicas	My Arcade Atari Gamestation Pro, DGUNL-7012	https://myarcade.com/products/atari-gamestation-pro
+C18	C	B	Analogue Pocket, negra	técnicas	Analogue Pocket, negra	https://www.analogue.co/pocket?pubDate=20250501
+C18	C	A	My Arcade Atari Gamestation Pro, DGUNL-7012	de precio	My Arcade Atari Gamestation Pro, DGUNL-7012	https://myarcade.com/products/atari-gamestation-pro
+C18	C	B	Analogue Pocket, negra	de precio	Analogue Pocket, negra	https://store.analogue.co/products/analogue-pocket-black
+C18	C	A	My Arcade Atari Gamestation Pro, DGUNL-7012	Imágenes: galería o referencia visual	My Arcade Atari Gamestation Pro, DGUNL-7012	https://myarcade.com/products/atari-gamestation-pro
+C18	C	B	Analogue Pocket, negra	Imágenes: galería o referencia visual	Analogue Pocket, negra	https://www.analogue.co/pocket?pubDate=20250501
+C19	C	A	Epson SureColor P7570, 24 pulgadas	técnicas	Epson SureColor P7570, 24 pulgadas	https://epson.com/For-Work/Printers/Large-Format/SureColor-P7570-24%22-Wide-Format-Inkjet-Printer/p/SCP7570SE?msockid=3626cf88b67061f305e8d94cb7e3606e
+C19	C	B	Canon imagePROGRAF PRO-2600, 24 pulgadas	técnicas	Canon imagePROGRAF PRO-2600, 24 pulgadas	https://www.usa.canon.com/shop/p/imageprograf-pro-2600
+C19	C	A	Epson SureColor P7570, 24 pulgadas	de precio	Epson SureColor P7570, 24 pulgadas	https://epson.com/For-Work/Printers/Large-Format/SureColor-P7570-24%22-Wide-Format-Inkjet-Printer/p/SCP7570SE?msockid=3626cf88b67061f305e8d94cb7e3606e
+C19	C	B	Canon imagePROGRAF PRO-2600, 24 pulgadas	de precio	Canon imagePROGRAF PRO-2600, 24 pulgadas	https://www.bhphotovideo.com/c/product/1952608-REG/canon_imageprograf_pro_2600_24_large.html
+C19	C	A	Epson SureColor P7570, 24 pulgadas	Imágenes: galería o referencia visual	Epson SureColor P7570, 24 pulgadas	https://epson.com/For-Work/Printers/Large-Format/SureColor-P7570-24%22-Wide-Format-Inkjet-Printer/p/SCP7570SE?msockid=3626cf88b67061f305e8d94cb7e3606e
+C19	C	B	Canon imagePROGRAF PRO-2600, 24 pulgadas	Imágenes: galería o referencia visual	Canon imagePROGRAF PRO-2600, 24 pulgadas	https://www.usa.canon.com/shop/p/imageprograf-pro-2600
+C20	C	A	Cricut Maker 4, máquina sin paquete ampliado	técnicas	Cricut Maker 4, máquina sin paquete ampliado	https://cricut.com/en-us/cutting-machines/cricut-maker/cricut-maker-4/cricut-maker-4/2011084.html
+C20	C	B	Silhouette CAMEO 5α / Alpha	técnicas	Silhouette CAMEO 5α / Alpha	https://www.silhouetteamerica.com/silhouette-cameo5-design-press-zw7-1
+C20	C	A	Cricut Maker 4, máquina sin paquete ampliado	de precio	Cricut Maker 4, máquina sin paquete ampliado	https://cricut.com/en-us/cutting-machines/cricut-maker/cricut-maker-4/cricut-maker-4/2011084.html
+C20	C	B	Silhouette CAMEO 5α / Alpha	de precio	Silhouette CAMEO 5α / Alpha	https://www.silhouetteamerica.com/silhouette-cameo5-design-press-zw7-1
+C20	C	A	Cricut Maker 4, máquina sin paquete ampliado	Imágenes: galería o referencia visual	Cricut Maker 4, máquina sin paquete ampliado	https://cricut.com/en-us/cutting-machines/cricut-maker/cricut-maker-4/cricut-maker-4/2011084.html
+C20	C	B	Silhouette CAMEO 5α / Alpha	Imágenes: galería o referencia visual	Silhouette CAMEO 5α / Alpha	https://www.silhouetteamerica.com/silhouette-cameo5-design-press-zw7-1
+C21	C	A	HP DesignJet T230, 24 pulgadas, 5HB07T	técnicas	HP DesignJet T230, 24 pulgadas, 5HB07T	https://support.hp.com/us-en/product/product-specs/hp/model/33508832
+C21	C	B	Canon imagePROGRAF TC-20, 24 pulgadas	técnicas	Canon imagePROGRAF TC-20, 24 pulgadas	https://www.usa.canon.com/support/p/imageprograf-tc-20
+C21	C	A	HP DesignJet T230, 24 pulgadas, 5HB07T	de precio	HP DesignJet T230, 24 pulgadas, 5HB07T	https://www.bhphotovideo.com/c/product/1858770-REG/hp_5hb07t_b1k_designjet_t230_24_printer.html
+C21	C	B	Canon imagePROGRAF TC-20, 24 pulgadas	de precio	Canon imagePROGRAF TC-20, 24 pulgadas	https://www.bhphotovideo.com/c/product/1745403-REG/canon_5815c002ab_imageprograf_tc_20_printer.html/ask-question
+C21	C	A	HP DesignJet T230, 24 pulgadas, 5HB07T	Imágenes: galería o referencia visual	HP DesignJet T230, 24 pulgadas, 5HB07T	https://support.hp.com/us-en/product/product-specs/hp/model/33508832
+C21	C	B	Canon imagePROGRAF TC-20, 24 pulgadas	Imágenes: galería o referencia visual	Canon imagePROGRAF TC-20, 24 pulgadas	https://www.usa.canon.com/support/p/imageprograf-tc-20
+C22	C	A	Secretlab TITAN Evo Regular, NEO Hybrid Leatherette Classic	técnicas	Secretlab TITAN Evo Regular, NEO Hybrid Leatherette Classic	https://secretlab.co/products/titan-evo-2022-series?rfsn=1468030.7e998&sku=R22PU-Classic&subid=pcg-us-4624758388070690206
+C22	C	B	AndaSeat Kaiser 3 Large, PVC, Elegant Black	técnicas	AndaSeat Kaiser 3 Large, PVC, Elegant Black	https://www.andaseat.com/products/andaseat-kaiser-3-series-premium-gaming-chair
+C22	C	A	Secretlab TITAN Evo Regular, NEO Hybrid Leatherette Classic	de precio	Secretlab TITAN Evo Regular, NEO Hybrid Leatherette Classic	https://secretlab.co/products/titan-evo-2022-series?rfsn=1468030.7e998&sku=R22PU-Classic&subid=pcg-us-4624758388070690206
+C22	C	B	AndaSeat Kaiser 3 Large, PVC, Elegant Black	de precio	AndaSeat Kaiser 3 Large, PVC, Elegant Black	https://www.andaseat.com/products/andaseat-kaiser-3-series-premium-gaming-chair
+C22	C	A	Secretlab TITAN Evo Regular, NEO Hybrid Leatherette Classic	Imágenes: galería o referencia visual	Secretlab TITAN Evo Regular, NEO Hybrid Leatherette Classic	https://secretlab.co/products/titan-evo-2022-series?rfsn=1468030.7e998&sku=R22PU-Classic&subid=pcg-us-4624758388070690206
+C22	C	B	AndaSeat Kaiser 3 Large, PVC, Elegant Black	Imágenes: galería o referencia visual	AndaSeat Kaiser 3 Large, PVC, Elegant Black	https://www.andaseat.com/products/andaseat-kaiser-3-series-premium-gaming-chair
+C23	C	A	Herman Miller Vantum Gaming Chair, revisión actual	técnicas	Herman Miller Vantum Gaming Chair, revisión actual	https://store.hermanmiller.com/gaming-chairs/vantum-gaming-chair/2546179.html?lang=en_US
+C23	C	B	Razer Fujin Pro	técnicas	Razer Fujin Pro	https://www.razer.com/gaming-chairs/razer-fujin-pro
+C23	C	A	Herman Miller Vantum Gaming Chair, revisión actual	de precio	Herman Miller Vantum Gaming Chair, revisión actual	https://store.hermanmiller.com/gaming-chairs/vantum-gaming-chair/2546179.html?lang=en_US
+C23	C	B	Razer Fujin Pro	de precio	Razer Fujin Pro	https://www.razer.com/newsroom/product-news/razercon-2023-lights-up-the-global-gaming-community-with-groundbreaking-announcements-exclusive-partnerships
+C23	C	A	Herman Miller Vantum Gaming Chair, revisión actual	Imágenes: galería o referencia visual	Herman Miller Vantum Gaming Chair, revisión actual	https://store.hermanmiller.com/gaming-chairs/vantum-gaming-chair/2546179.html?lang=en_US
+C23	C	B	Razer Fujin Pro	Imágenes: galería o referencia visual	Razer Fujin Pro	https://www.razer.com/gaming-chairs/razer-fujin-pro
+C24	C	A	Next Level Racing GTLite Pro	técnicas	Next Level Racing GTLite Pro	https://nextlevelracing.com/products/gtlite-pro/
+C24	C	B	Playseat Challenge X, Logitech G Edition	técnicas	Playseat Challenge X, Logitech G Edition	https://www.logitechg.com/en-us/shop/p/playseat-challenge-x-sim-racing-seat
+C24	C	A	Next Level Racing GTLite Pro	de precio	Next Level Racing GTLite Pro	https://nextlevelracing.com/products/gtlite-pro/
+C24	C	B	Playseat Challenge X, Logitech G Edition	de precio	Playseat Challenge X, Logitech G Edition	https://www.logitechg.com/en-us/shop/p/playseat-challenge-x-sim-racing-seat
+C24	C	A	Next Level Racing GTLite Pro	Imágenes: galería o referencia visual	Next Level Racing GTLite Pro	https://nextlevelracing.com/products/gtlite-pro/
+C24	C	B	Playseat Challenge X, Logitech G Edition	Imágenes: galería o referencia visual	Playseat Challenge X, Logitech G Edition	https://www.logitechg.com/en-us/shop/p/playseat-challenge-x-sim-racing-seat
+D01	D	A	Arduino UNO Rev3, A000066	técnicas	Arduino UNO Rev3, A000066	https://store.arduino.cc/products/arduino-uno-rev3
+D01	D	B	Microchip ATmega4809 Curiosity Nano, DM320115	técnicas	Microchip ATmega4809 Curiosity Nano, DM320115	https://www.microchip.com/en-us/development-tool/DM320115
+D01	D			técnicas	Documento complementario	https://www.microchip.com/en-us/product/ATMEGA4809
+D01	D	A	Arduino UNO Rev3, A000066	de precio	Arduino UNO Rev3, A000066	https://store-usa.arduino.cc/products/arduino-uno-rev3?variant=40391997587663
+D01	D	B	Microchip ATmega4809 Curiosity Nano, DM320115	de precio	Microchip ATmega4809 Curiosity Nano, DM320115	https://www.digikey.com/es/products/detail/microchip-technology/DM320115/9657705
+D01	D	A	Arduino UNO Rev3, A000066	Imágenes: galería o referencia visual	Arduino UNO Rev3, A000066	https://store-usa.arduino.cc/products/arduino-uno-rev3?variant=40391997587663
+D01	D	B	Microchip ATmega4809 Curiosity Nano, DM320115	Imágenes: galería o referencia visual	Microchip ATmega4809 Curiosity Nano, DM320115	https://www.microchip.com/en-us/development-tool/DM320115
+D02	D	A	STMicroelectronics NUCLEO-F446RE	técnicas	STMicroelectronics NUCLEO-F446RE	https://www.st.com/en/evaluation-tools/nucleo-f446re.html?sp_mid=12113220
+D02	D	B	NXP FRDM-MCXN947	técnicas	NXP FRDM-MCXN947	https://www.nxp.com/design/design-center/development-boards-and-designs/FRDM-MCXN947?cid=soc_pro240034g_tac1574500_li_2
+D02	D			técnicas	Documento complementario	https://www.st.com/en/microcontrollers-microprocessors/stm32f446re.html
+D02	D	A	STMicroelectronics NUCLEO-F446RE	de precio	STMicroelectronics NUCLEO-F446RE	https://www.digikey.com.mx/es/products/detail/stmicroelectronics/NUCLEO-F446RE/5347712
+D02	D	B	NXP FRDM-MCXN947	de precio	NXP FRDM-MCXN947	https://www.nxp.com/design/design-center/development-boards-and-designs/FRDM-MCXN947?cid=soc_pro240034g_tac1574500_li_2
+D02	D	A	STMicroelectronics NUCLEO-F446RE	Imágenes: galería o referencia visual	STMicroelectronics NUCLEO-F446RE	https://www.st.com/en/evaluation-tools/nucleo-f446re.html
+D02	D	B	NXP FRDM-MCXN947	Imágenes: galería o referencia visual	NXP FRDM-MCXN947	https://www.nxp.com/design/design-center/development-boards-and-designs/FRDM-MCXN947?cid=soc_pro240034g_tac1574500_li_2
+D03	D	A	Espressif ESP32-C6-DevKitC-1-N8	técnicas	Espressif ESP32-C6-DevKitC-1-N8	https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32c6/esp32-c6-devkitc-1/
+D03	D	B	Arduino Nano ESP32 con headers, ABX00083	técnicas	Arduino Nano ESP32 con headers, ABX00083	https://store-usa.arduino.cc/products/nano-esp32-with-headers?gQT=2
+D03	D			técnicas	Documento complementario	https://docs.espressif.com/projects/esp-techpedia/en/latest/esp-friends/get-started/board-selection.html
+D03	D			técnicas	Documento complementario	https://docs-content.arduino.cc/resources/datasheets/ABX00083-datasheet.pdf
+D03	D	A	Espressif ESP32-C6-DevKitC-1-N8	de precio	Espressif ESP32-C6-DevKitC-1-N8	https://www.digikey.com/en/products/detail/espressif-systems/ESP32-C6-DEVKITC-1-N8/17728861
+D03	D	B	Arduino Nano ESP32 con headers, ABX00083	de precio	Arduino Nano ESP32 con headers, ABX00083	https://store-usa.arduino.cc/products/nano-esp32-with-headers?gQT=2
+D03	D	A	Espressif ESP32-C6-DevKitC-1-N8	Imágenes: galería o referencia visual	Espressif ESP32-C6-DevKitC-1-N8	https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32c6/esp32-c6-devkitc-1/
+D03	D	B	Arduino Nano ESP32 con headers, ABX00083	Imágenes: galería o referencia visual	Arduino Nano ESP32 con headers, ABX00083	https://store-usa.arduino.cc/products/nano-esp32-with-headers?gQT=2
+D04	D	A	Raspberry Pi 5, 8 GB	técnicas	Raspberry Pi 5, 8 GB	https://www.raspberrypi.com/products/raspberry-pi-5/?pubDate=20260608
+D04	D	B	Orange Pi 5 Plus, 8 GB	técnicas	Orange Pi 5 Plus, 8 GB	https://www.orangepi.org/orangepiwiki/index.php/Orange_Pi_5_Plus
+D04	D	A	Raspberry Pi 5, 8 GB	de precio	Raspberry Pi 5, 8 GB	https://www.adafruit.com/product/5813?c_correlation_id=d9f850d3382f4dca99b38e05693c4a4b&c_tenant_id=src_1kYsAcdpfzbZ8UlNLYht1RPg3m2
+D04	D	B	Orange Pi 5 Plus, 8 GB	de precio	Orange Pi 5 Plus, 8 GB	https://www.newegg.com/p/3C6-018V-03X76
+D04	D	A	Raspberry Pi 5, 8 GB	Imágenes: galería o referencia visual	Raspberry Pi 5, 8 GB	https://www.raspberrypi.com/products/raspberry-pi-5/?pubDate=20260608
+D04	D	B	Orange Pi 5 Plus, 8 GB	Imágenes: galería o referencia visual	Orange Pi 5 Plus, 8 GB	https://www.orangepi.org/orangepiwiki/index.php/Orange_Pi_5_Plus
+D05	D	A	NVIDIA Jetson Orin Nano Super Developer Kit, 8 GB	técnicas	NVIDIA Jetson Orin Nano Super Developer Kit, 8 GB	https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/?trk=article-ssr-frontend-pulse_little-text-block
+D05	D	B	Radxa ROCK 5B, 8 GB, referencia OKdo RS119-D8P1	técnicas	Radxa ROCK 5B, 8 GB, referencia OKdo RS119-D8P1	https://docs.radxa.com/en/rock5/rock5b/getting-started/introduction
+D05	D			técnicas	Documento complementario	https://developer.nvidia.com/blog/nvidia-jetson-orin-nano-developer-kit-gets-a-super-boost/
+D05	D	A	NVIDIA Jetson Orin Nano Super Developer Kit, 8 GB	de precio	NVIDIA Jetson Orin Nano Super Developer Kit, 8 GB	https://developer.nvidia.com/blog/nvidia-jetson-orin-nano-developer-kit-gets-a-super-boost/
+D05	D	B	Radxa ROCK 5B, 8 GB, referencia OKdo RS119-D8P1	de precio	Radxa ROCK 5B, 8 GB, referencia OKdo RS119-D8P1	https://us.rs-online.com/product/okdo/rs119-d8p1/73761293/
+D05	D	A	NVIDIA Jetson Orin Nano Super Developer Kit, 8 GB	Imágenes: galería o referencia visual	NVIDIA Jetson Orin Nano Super Developer Kit, 8 GB	https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/?trk=article-ssr-frontend-pulse_little-text-block
+D05	D	B	Radxa ROCK 5B, 8 GB, referencia OKdo RS119-D8P1	Imágenes: galería o referencia visual	Radxa ROCK 5B, 8 GB, referencia OKdo RS119-D8P1	https://radxa.com/products/rock5/5b/
+D06	D	A	BeagleBoard BeagleBone Black Industrial	técnicas	BeagleBoard BeagleBone Black Industrial	https://www.beagleboard.org/boards/beaglebone-black-industrial
+D06	D	B	Olimex A64-OLinuXino-2Ge16G-IND	técnicas	Olimex A64-OLinuXino-2Ge16G-IND	https://www.olimex.com/Products/OLinuXino/A64/A64-OLinuXino/
+D06	D			técnicas	Documento complementario	https://www.beagle.cc/black-industrial
+D06	D	A	BeagleBoard BeagleBone Black Industrial	de precio	BeagleBoard BeagleBone Black Industrial	https://www.mouser.hn/es/ProductDetail/BeagleBoard-by-Seeed-Studio/102110423?qs=7MVldsJ5UaytVtdWd4iNiQ%3D%3D
+D06	D	B	Olimex A64-OLinuXino-2Ge16G-IND	de precio	Olimex A64-OLinuXino-2Ge16G-IND	https://www.digikey.com/en/products/detail/olimex-ltd/A64-OLINUXINO-2GE16G-IND/22078267
+D06	D	A	BeagleBoard BeagleBone Black Industrial	Imágenes: galería o referencia visual	BeagleBoard BeagleBone Black Industrial	https://www.beagleboard.org/boards/beaglebone-black-industrial
+D06	D	B	Olimex A64-OLinuXino-2Ge16G-IND	Imágenes: galería o referencia visual	Olimex A64-OLinuXino-2Ge16G-IND	https://www.olimex.com/Products/OLinuXino/A64/A64-OLinuXino/open-source-hardware
+D07	D	A	Meta Quest 3, 512 GB	técnicas	Meta Quest 3, 512 GB	https://developers.meta.com/vr/resources/device-optimization-comparison/
+D07	D	B	HTC VIVE Focus Vision, 128 GB	técnicas	HTC VIVE Focus Vision, 128 GB	https://www.vive.com/uk/product/vive-focus-vision/specs/
+D07	D	A	Meta Quest 3, 512 GB	de precio	Meta Quest 3, 512 GB	https://www.bhphotovideo.com/c/replacement_for/1781297-REG/meta_quest_899_00583_01_3_advanced_all_in_one_vr.html
+D07	D	B	HTC VIVE Focus Vision, 128 GB	de precio	HTC VIVE Focus Vision, 128 GB	https://shop-us.vive.com/products/21071155
+D07	D	A	Meta Quest 3, 512 GB	Imágenes: galería o referencia visual	Meta Quest 3, 512 GB	https://www.bestbuy.com/site/quest-3-512gb-dive-into-mixed-reality-get-a-3-month-trial-of-meta-horizon-included-white/6554912.p
+D07	D	B	HTC VIVE Focus Vision, 128 GB	Imágenes: galería o referencia visual	HTC VIVE Focus Vision, 128 GB	https://shop-us.vive.com/products/21071155
+D08	D	A	Valve Index VR Kit completo	técnicas	Valve Index VR Kit completo	https://www.valvesoftware.com/en/index/headset
+D08	D	B	HTC VIVE Pro 2 Full Kit	técnicas	HTC VIVE Pro 2 Full Kit	https://www.vive.com/ca/product/vive-pro2-full-kit/specs/
+D08	D	A	Valve Index VR Kit completo	de precio	Valve Index VR Kit completo	https://store.steampowered.com/valveindex
+D08	D	B	HTC VIVE Pro 2 Full Kit	de precio	HTC VIVE Pro 2 Full Kit	https://myshop-us.vive.com/vive_us/2104224.html
+D08	D	A	Valve Index VR Kit completo	Imágenes: galería o referencia visual	Valve Index VR Kit completo	https://www.valvesoftware.com/en/index/headset
+D08	D	B	HTC VIVE Pro 2 Full Kit	Imágenes: galería o referencia visual	HTC VIVE Pro 2 Full Kit	https://www.vive.com/us/product/vive-pro2-full-kit/overview/?wpcn=Global%7CVIVE%7C2024Q1%7C45363%7Cvive%7CSales_Promotion%7CHardware&wpsnetn=Global+PR_Social&wpsrc=Twitter_organic
+D09	D	A	Apple Vision Pro con M5, 256 GB	técnicas	Apple Vision Pro con M5, 256 GB	https://www.apple.com/apple-vision-pro/specs/
+D09	D	B	Samsung Galaxy XR, 256 GB	técnicas	Samsung Galaxy XR, 256 GB	https://news.samsung.com/us/introducing-galaxy-xr-opening-new-worlds/
+D09	D	A	Apple Vision Pro con M5, 256 GB	de precio	Apple Vision Pro con M5, 256 GB	https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/
+D09	D	B	Samsung Galaxy XR, 256 GB	de precio	Samsung Galaxy XR, 256 GB	https://news.samsung.com/us/introducing-galaxy-xr-opening-new-worlds/
+D09	D	A	Apple Vision Pro con M5, 256 GB	Imágenes: galería o referencia visual	Apple Vision Pro con M5, 256 GB	https://www.apple.com/apple-vision-pro/specs/
+D09	D	B	Samsung Galaxy XR, 256 GB	Imágenes: galería o referencia visual	Samsung Galaxy XR, 256 GB	https://www.samsungmobilepress.com/media-assets/galaxy-xr
+D10	D	A	OpenAI ChatGPT Plus	técnicas	OpenAI ChatGPT Plus	https://learn.chatgpt.com/docs/use-chatgpt
+D10	D	B	Anthropic Claude Pro	técnicas	Anthropic Claude Pro	https://claude.com/pricing?content_language=English
+D10	D			técnicas	Documento complementario	https://learn.chatgpt.com/docs/pricing?site_variant=chatgpt&translationFallback=ja-JP
+D10	D			técnicas	Documento complementario	https://support.claude.com/en/articles/8325606-what-is-the-pro-plan?country=20
+D10	D	A	OpenAI ChatGPT Plus	de precio	OpenAI ChatGPT Plus	https://learn.chatgpt.com/docs/pricing?site_variant=chatgpt&translationFallback=ja-JP
+D10	D	B	Anthropic Claude Pro	de precio	Anthropic Claude Pro	https://support.claude.com/en/articles/11049762-choose-a-claude-plan
+D10	D	A	OpenAI ChatGPT Plus	Imágenes: galería o referencia visual	OpenAI ChatGPT Plus	https://learn.chatgpt.com/docs/use-chatgpt
+D10	D	B	Anthropic Claude Pro	Imágenes: galería o referencia visual	Anthropic Claude Pro	https://claude.com/pricing?content_language=English

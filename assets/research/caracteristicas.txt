@@ -1,0 +1,1305 @@
+ID comparativa	Bloque	Familia	Alternativa	Producto	Característica	Valor
+A01	A	Procesadores	A	AMD Ryzen 7 9700X	Núcleos / hilos	8 / 16, Zen 5
+A01	A	Procesadores	B	Intel Core Ultra 5 245K	Núcleos / hilos	14 / 14: 6 de rendimiento y 8 eficientes
+A01	A	Procesadores	A	AMD Ryzen 7 9700X	Frecuencia máxima	Hasta 5,5 GHz
+A01	A	Procesadores	B	Intel Core Ultra 5 245K	Frecuencia máxima	Hasta 5,2 GHz
+A01	A	Procesadores	A	AMD Ryzen 7 9700X	Potencia publicada	TDP predeterminado de 65 W
+A01	A	Procesadores	B	Intel Core Ultra 5 245K	Potencia publicada	125 W base; hasta 159 W turbo
+A01	A	Procesadores	A	AMD Ryzen 7 9700X	Plataforma	Socket AM5; DDR5
+A01	A	Procesadores	B	Intel Core Ultra 5 245K	Plataforma	Socket LGA1851; DDR5
+A01	A	Procesadores	A	AMD Ryzen 7 9700X	Precio aproximado / referencia USD	339,00 USD; registro de precio del 22/09/2026
+A01	A	Procesadores	B	Intel Core Ultra 5 245K	Precio aproximado / referencia USD	309–319 USD; precio recomendado de Intel, no oferta minorista
+A02	A	Procesadores	A	AMD Ryzen 7 8845HS	Núcleos / hilos	8 / 16, Zen 4
+A02	A	Procesadores	B	Intel Core Ultra 7 155H	Núcleos / hilos	16 / 22: 6 P, 8 E y 2 de bajo consumo
+A02	A	Procesadores	A	AMD Ryzen 7 8845HS	Frecuencia máxima	Hasta 5,1 GHz
+A02	A	Procesadores	B	Intel Core Ultra 7 155H	Frecuencia máxima	Hasta 4,8 GHz
+A02	A	Procesadores	A	AMD Ryzen 7 8845HS	Potencia publicada	45 W; configurable entre 35 y 54 W
+A02	A	Procesadores	B	Intel Core Ultra 7 155H	Potencia publicada	28 W de potencia base
+A02	A	Procesadores	A	AMD Ryzen 7 8845HS	Funciones integradas	Radeon 780M y NPU Ryzen AI
+A02	A	Procesadores	B	Intel Core Ultra 7 155H	Funciones integradas	Gráficos Intel Arc y NPU Intel AI Boost
+A02	A	Procesadores	A	AMD Ryzen 7 8845HS	Precio aproximado / referencia USD	N/D: integrado por el fabricante del portátil
+A02	A	Procesadores	B	Intel Core Ultra 7 155H	Precio aproximado / referencia USD	N/D: integrado por el fabricante del portátil
+A03	A	Procesadores	A	AMD EPYC 9124	Núcleos / hilos	16 / 32
+A03	A	Procesadores	B	Intel Xeon Silver 4510	Núcleos / hilos	12 / 24
+A03	A	Procesadores	A	AMD EPYC 9124	Frecuencia base / máxima	3,0 / 3,7 GHz
+A03	A	Procesadores	B	Intel Xeon Silver 4510	Frecuencia base / máxima	2,4 / 4,1 GHz
+A03	A	Procesadores	A	AMD EPYC 9124	Memoria e interconexión	12 canales DDR5; 128 líneas PCIe 5.0
+A03	A	Procesadores	B	Intel Xeon Silver 4510	Memoria e interconexión	8 canales DDR5; 80 líneas PCIe 5.0
+A03	A	Procesadores	A	AMD EPYC 9124	Socket y potencia	SP5; TDP de 200 W
+A03	A	Procesadores	B	Intel Xeon Silver 4510	Socket y potencia	LGA4677; potencia base de 150 W
+A03	A	Procesadores	A	AMD EPYC 9124	Precio aproximado / referencia USD	1.083 USD; precio por unidad de referencia en lotes de 1.000
+A03	A	Procesadores	B	Intel Xeon Silver 4510	Precio aproximado / referencia USD	676 USD; precio recomendado publicado por Intel
+A04	A	Placas madre	A	MSI MAG B650 TOMAHAWK WIFI	Socket y memoria	AM5; 4 ranuras DDR5
+A04	A	Placas madre	B	ASUS TUF GAMING B650-PLUS WIFI	Socket y memoria	AM5; 4 ranuras DDR5
+A04	A	Placas madre	A	MSI MAG B650 TOMAHAWK WIFI	Almacenamiento M.2	3 ranuras PCIe 4.0
+A04	A	Placas madre	B	ASUS TUF GAMING B650-PLUS WIFI	Almacenamiento M.2	3 ranuras; una PCIe 5.0 y dos PCIe 4.0
+A04	A	Placas madre	A	MSI MAG B650 TOMAHAWK WIFI	Red	Ethernet 2,5 Gb/s; Wi-Fi 6E
+A04	A	Placas madre	B	ASUS TUF GAMING B650-PLUS WIFI	Red	Ethernet 2,5 Gb/s; Wi-Fi 6
+A04	A	Placas madre	A	MSI MAG B650 TOMAHAWK WIFI	USB destacado	USB-C de hasta 20 Gb/s
+A04	A	Placas madre	B	ASUS TUF GAMING B650-PLUS WIFI	USB destacado	USB-C de hasta 20 Gb/s
+A04	A	Placas madre	A	MSI MAG B650 TOMAHAWK WIFI	Precio aproximado / referencia USD	254,99 USD; anuncio de Newegg, envío aparte
+A04	A	Placas madre	B	ASUS TUF GAMING B650-PLUS WIFI	Precio aproximado / referencia USD	169,00 USD; anuncio de Walmart
+A05	A	Placas madre	A	GIGABYTE B650M AORUS ELITE AX, rev. 1.0/1.1	Formato / memoria	Micro-ATX; 4 DDR5
+A05	A	Placas madre	B	ASRock B650M Pro RS WiFi	Formato / memoria	Micro-ATX; 4 DDR5
+A05	A	Placas madre	A	GIGABYTE B650M AORUS ELITE AX, rev. 1.0/1.1	Almacenamiento M.2	2 ranuras: PCIe 5.0 x4 y PCIe 4.0 x4
+A05	A	Placas madre	B	ASRock B650M Pro RS WiFi	Almacenamiento M.2	3 ranuras: PCIe 5.0 x4, 4.0 x4 y 4.0 x2
+A05	A	Placas madre	A	GIGABYTE B650M AORUS ELITE AX, rev. 1.0/1.1	Red	Ethernet 2,5 Gb/s; Wi-Fi 6E
+A05	A	Placas madre	B	ASRock B650M Pro RS WiFi	Red	Ethernet 2,5 Gb/s; Wi-Fi 6E
+A05	A	Placas madre	A	GIGABYTE B650M AORUS ELITE AX, rev. 1.0/1.1	Alimentación publicada	Diseño de 12+2+1 fases
+A05	A	Placas madre	B	ASRock B650M Pro RS WiFi	Alimentación publicada	Diseño de 8+2+1 fases
+A05	A	Placas madre	A	GIGABYTE B650M AORUS ELITE AX, rev. 1.0/1.1	Precio aproximado / referencia USD	153,98 USD; Walmart, confirmar revisión
+A05	A	Placas madre	B	ASRock B650M Pro RS WiFi	Precio aproximado / referencia USD	119,99 USD; oferta de Newegg
+A06	A	Placas madre	A	ASUS ROG STRIX B650E-I GAMING WIFI	Formato / memoria	Mini-ITX; 2 ranuras DDR5
+A06	A	Placas madre	B	ASRock B650I Lightning WiFi	Formato / memoria	Mini-ITX; 2 ranuras DDR5
+A06	A	Placas madre	A	ASUS ROG STRIX B650E-I GAMING WIFI	Ranura para GPU	PCIe 5.0 x16
+A06	A	Placas madre	B	ASRock B650I Lightning WiFi	Ranura para GPU	PCIe 4.0 x16
+A06	A	Placas madre	A	ASUS ROG STRIX B650E-I GAMING WIFI	Almacenamiento	2 M.2; incluye PCIe 5.0
+A06	A	Placas madre	B	ASRock B650I Lightning WiFi	Almacenamiento	2 M.2; incluye PCIe 5.0
+A06	A	Placas madre	A	ASUS ROG STRIX B650E-I GAMING WIFI	Red	Ethernet 2,5 Gb/s y Wi-Fi 6E
+A06	A	Placas madre	B	ASRock B650I Lightning WiFi	Red	Ethernet 2,5 Gb/s y Wi-Fi 6E
+A06	A	Placas madre	A	ASUS ROG STRIX B650E-I GAMING WIFI	Precio aproximado / referencia USD	179,99 USD; registro indexado de Newegg; ficha actual sin existencias ni precio
+A06	A	Placas madre	B	ASRock B650I Lightning WiFi	Precio aproximado / referencia USD	199,99 USD; anuncio de Newegg
+A07	A	Memoria RAM	A	Corsair VENGEANCE LPX CMK32GX4M2E3200C16	Capacidad / formato	2 × 16 GB; DIMM DDR4
+A07	A	Memoria RAM	B	Kingston FURY Beast KF432C16BBK2/32	Capacidad / formato	2 × 16 GB; DIMM DDR4
+A07	A	Memoria RAM	A	Corsair VENGEANCE LPX CMK32GX4M2E3200C16	Perfil nominal	3.200 MT/s, CL16
+A07	A	Memoria RAM	B	Kingston FURY Beast KF432C16BBK2/32	Perfil nominal	3.200 MT/s, CL16
+A07	A	Memoria RAM	A	Corsair VENGEANCE LPX CMK32GX4M2E3200C16	Voltaje del perfil	1,35 V
+A07	A	Memoria RAM	B	Kingston FURY Beast KF432C16BBK2/32	Voltaje del perfil	1,35 V
+A07	A	Memoria RAM	A	Corsair VENGEANCE LPX CMK32GX4M2E3200C16	Funciones	Intel XMP 2.0; disipador de perfil bajo
+A07	A	Memoria RAM	B	Kingston FURY Beast KF432C16BBK2/32	Funciones	Intel XMP 2.0; memoria no ECC
+A07	A	Memoria RAM	A	Corsair VENGEANCE LPX CMK32GX4M2E3200C16	Precio aproximado / referencia USD	259,99 USD; tienda oficial Corsair
+A07	A	Memoria RAM	B	Kingston FURY Beast KF432C16BBK2/32	Precio aproximado / referencia USD	329,99 USD; Newegg, vendedor de marketplace
+A08	A	Memoria RAM	A	Crucial Pro CP2K16G56C46U5	Capacidad / formato	2 × 16 GB; DIMM DDR5
+A08	A	Memoria RAM	B	Kingston FURY Beast KF556C40BBK2-32	Capacidad / formato	2 × 16 GB; DIMM DDR5
+A08	A	Memoria RAM	A	Crucial Pro CP2K16G56C46U5	Perfil nominal	5.600 MT/s, CL46
+A08	A	Memoria RAM	B	Kingston FURY Beast KF556C40BBK2-32	Perfil nominal	5.600 MT/s, CL40
+A08	A	Memoria RAM	A	Crucial Pro CP2K16G56C46U5	Perfiles de configuración	Intel XMP 3.0 y AMD EXPO
+A08	A	Memoria RAM	B	Kingston FURY Beast KF556C40BBK2-32	Perfiles de configuración	Intel XMP 3.0 en este SKU
+A08	A	Memoria RAM	A	Crucial Pro CP2K16G56C46U5	Uso	Memoria de escritorio no ECC de sistema
+A08	A	Memoria RAM	B	Kingston FURY Beast KF556C40BBK2-32	Uso	Memoria de escritorio no ECC de sistema
+A08	A	Memoria RAM	A	Crucial Pro CP2K16G56C46U5	Precio aproximado / referencia USD	469,99 USD; anuncio de Walmart Business
+A08	A	Memoria RAM	B	Kingston FURY Beast KF556C40BBK2-32	Precio aproximado / referencia USD	118,98 USD; anuncio de Walmart
+A09	A	Memoria RAM	A	Crucial CT2K16G4SFRA32A	Capacidad	2 × 16 GB
+A09	A	Memoria RAM	B	Corsair VENGEANCE CMSX32GX4M2A3200C22	Capacidad	2 × 16 GB
+A09	A	Memoria RAM	A	Crucial CT2K16G4SFRA32A	Formato	SO-DIMM DDR4 de 260 contactos
+A09	A	Memoria RAM	B	Corsair VENGEANCE CMSX32GX4M2A3200C22	Formato	SO-DIMM DDR4 de 260 contactos
+A09	A	Memoria RAM	A	Crucial CT2K16G4SFRA32A	Velocidad / latencia	3.200 MT/s, CL22
+A09	A	Memoria RAM	B	Corsair VENGEANCE CMSX32GX4M2A3200C22	Velocidad / latencia	3.200 MT/s, CL22
+A09	A	Memoria RAM	A	Crucial CT2K16G4SFRA32A	Voltaje	1,2 V
+A09	A	Memoria RAM	B	Corsair VENGEANCE CMSX32GX4M2A3200C22	Voltaje	1,2 V
+A09	A	Memoria RAM	A	Crucial CT2K16G4SFRA32A	Precio aproximado / referencia USD	199,67 USD; ficha de Newegg sin existencias
+A09	A	Memoria RAM	B	Corsair VENGEANCE CMSX32GX4M2A3200C22	Precio aproximado / referencia USD	315,99 USD; tienda oficial Corsair
+A10	A	Tarjetas gráficas	A	NVIDIA GeForce RTX 4070 SUPER	Memoria gráfica	12 GB GDDR6X
+A10	A	Tarjetas gráficas	B	AMD Radeon RX 7800 XT	Memoria gráfica	16 GB GDDR6
+A10	A	Tarjetas gráficas	A	NVIDIA GeForce RTX 4070 SUPER	Unidades de cómputo publicadas	7.168 núcleos CUDA
+A10	A	Tarjetas gráficas	B	AMD Radeon RX 7800 XT	Unidades de cómputo publicadas	60 unidades de cómputo
+A10	A	Tarjetas gráficas	A	NVIDIA GeForce RTX 4070 SUPER	Potencia de referencia	220 W
+A10	A	Tarjetas gráficas	B	AMD Radeon RX 7800 XT	Potencia de referencia	263 W
+A10	A	Tarjetas gráficas	A	NVIDIA GeForce RTX 4070 SUPER	Tecnologías	DLSS, CUDA, Tensor; codificación AV1
+A10	A	Tarjetas gráficas	B	AMD Radeon RX 7800 XT	Tecnologías	FSR; codificación AV1
+A10	A	Tarjetas gráficas	A	NVIDIA GeForce RTX 4070 SUPER	Precio aproximado / referencia USD	599 USD; precio de lanzamiento, enero de 2024
+A10	A	Tarjetas gráficas	B	AMD Radeon RX 7800 XT	Precio aproximado / referencia USD	499 USD; precio de lanzamiento, septiembre de 2023
+A11	A	Tarjetas gráficas	A	NVIDIA RTX 2000 Ada Generation	Memoria	16 GB GDDR6 con ECC
+A11	A	Tarjetas gráficas	B	AMD Radeon PRO W7700	Memoria	16 GB GDDR6 con ECC
+A11	A	Tarjetas gráficas	A	NVIDIA RTX 2000 Ada Generation	Potencia	70 W
+A11	A	Tarjetas gráficas	B	AMD Radeon PRO W7700	Potencia	190 W
+A11	A	Tarjetas gráficas	A	NVIDIA RTX 2000 Ada Generation	Formato destacado	Perfil bajo; ocupa dos ranuras
+A11	A	Tarjetas gráficas	B	AMD Radeon PRO W7700	Formato destacado	Tarjeta de tamaño completo
+A11	A	Tarjetas gráficas	A	NVIDIA RTX 2000 Ada Generation	Salidas / plataforma	4 mini DisplayPort 1.4a; CUDA y OptiX
+A11	A	Tarjetas gráficas	B	AMD Radeon PRO W7700	Salidas / plataforma	4 DisplayPort 2.1; controladores Radeon PRO
+A11	A	Tarjetas gráficas	A	NVIDIA RTX 2000 Ada Generation	Precio aproximado / referencia USD	772,50 USD; anuncio de Walmart
+A11	A	Tarjetas gráficas	B	AMD Radeon PRO W7700	Precio aproximado / referencia USD	999 USD; precio recomendado de lanzamiento, 2023
+A12	A	Tarjetas gráficas	A	NVIDIA GeForce RTX 5090	Memoria	32 GB GDDR7; bus de 512 bits
+A12	A	Tarjetas gráficas	B	AMD Radeon AI PRO R9700	Memoria	32 GB GDDR6; bus de 256 bits
+A12	A	Tarjetas gráficas	A	NVIDIA GeForce RTX 5090	Arquitectura	Blackwell; núcleos Tensor
+A12	A	Tarjetas gráficas	B	AMD Radeon AI PRO R9700	Arquitectura	RDNA 4; aceleradores de IA
+A12	A	Tarjetas gráficas	A	NVIDIA GeForce RTX 5090	Potencia de referencia	575 W
+A12	A	Tarjetas gráficas	B	AMD Radeon AI PRO R9700	Potencia de referencia	300 W
+A12	A	Tarjetas gráficas	A	NVIDIA GeForce RTX 5090	Entorno de desarrollo	CUDA y bibliotecas NVIDIA
+A12	A	Tarjetas gráficas	B	AMD Radeon AI PRO R9700	Entorno de desarrollo	ROCm y software compatible con AMD
+A12	A	Tarjetas gráficas	A	NVIDIA GeForce RTX 5090	Precio aproximado / referencia USD	1.999 USD; precio de lanzamiento, 2025
+A12	A	Tarjetas gráficas	B	AMD Radeon AI PRO R9700	Precio aproximado / referencia USD	1.299 USD; precio recomendado publicado por AMD
+A13	A	Discos duros HDD	A	Seagate BarraCuda ST2000DM008	Capacidad / interfaz	2 TB; SATA 6 Gb/s
+A13	A	Discos duros HDD	B	Western Digital Blue WD20EZBX	Capacidad / interfaz	2 TB; SATA 6 Gb/s
+A13	A	Discos duros HDD	A	Seagate BarraCuda ST2000DM008	Formato / velocidad	3,5 pulgadas; 7.200 rpm
+A13	A	Discos duros HDD	B	Western Digital Blue WD20EZBX	Formato / velocidad	3,5 pulgadas; 7.200 rpm
+A13	A	Discos duros HDD	A	Seagate BarraCuda ST2000DM008	Caché / grabación	256 MB; SMR
+A13	A	Discos duros HDD	B	Western Digital Blue WD20EZBX	Caché / grabación	256 MB; SMR
+A13	A	Discos duros HDD	A	Seagate BarraCuda ST2000DM008	Uso previsto	PC de escritorio y almacenamiento general
+A13	A	Discos duros HDD	B	Western Digital Blue WD20EZBX	Uso previsto	PC de escritorio y almacenamiento general
+A13	A	Discos duros HDD	A	Seagate BarraCuda ST2000DM008	Precio aproximado / referencia USD	119,99 USD; anuncio de Newegg
+A13	A	Discos duros HDD	B	Western Digital Blue WD20EZBX	Precio aproximado / referencia USD	249,99 USD; Newegg, vendedor BTE Outlet
+A14	A	Discos duros HDD	A	Seagate Mobile HDD ST1000LM035	Capacidad / interfaz	1 TB; SATA 6 Gb/s
+A14	A	Discos duros HDD	B	Western Digital Blue WD10SPZX	Capacidad / interfaz	1 TB; SATA 6 Gb/s
+A14	A	Discos duros HDD	A	Seagate Mobile HDD ST1000LM035	Formato / grosor	2,5 pulgadas; 7 mm
+A14	A	Discos duros HDD	B	Western Digital Blue WD10SPZX	Formato / grosor	2,5 pulgadas; 7 mm
+A14	A	Discos duros HDD	A	Seagate Mobile HDD ST1000LM035	Velocidad / caché	5.400 rpm; 128 MB
+A14	A	Discos duros HDD	B	Western Digital Blue WD10SPZX	Velocidad / caché	5.400 rpm; 128 MB
+A14	A	Discos duros HDD	A	Seagate Mobile HDD ST1000LM035	Grabación	SMR
+A14	A	Discos duros HDD	B	Western Digital Blue WD10SPZX	Grabación	SMR
+A14	A	Discos duros HDD	A	Seagate Mobile HDD ST1000LM035	Precio aproximado / referencia USD	74,90 USD; anuncio de Newegg
+A14	A	Discos duros HDD	B	Western Digital Blue WD10SPZX	Precio aproximado / referencia USD	99,95 USD; anuncio de Walmart
+A15	A	Discos duros HDD	A	Western Digital Red Plus WD40EFPX	Capacidad / interfaz	4 TB; SATA 6 Gb/s
+A15	A	Discos duros HDD	B	Seagate IronWolf ST4000VN006	Capacidad / interfaz	4 TB; SATA 6 Gb/s
+A15	A	Discos duros HDD	A	Western Digital Red Plus WD40EFPX	Grabación / velocidad	CMR; 5.400 rpm
+A15	A	Discos duros HDD	B	Seagate IronWolf ST4000VN006	Grabación / velocidad	CMR; 5.400 rpm
+A15	A	Discos duros HDD	A	Western Digital Red Plus WD40EFPX	Caché / carga anual	256 MB; hasta 180 TB/año
+A15	A	Discos duros HDD	B	Seagate IronWolf ST4000VN006	Caché / carga anual	256 MB; hasta 180 TB/año
+A15	A	Discos duros HDD	A	Western Digital Red Plus WD40EFPX	Uso / garantía limitada	NAS 24/7; 3 años
+A15	A	Discos duros HDD	B	Seagate IronWolf ST4000VN006	Uso / garantía limitada	NAS 24/7; 3 años
+A15	A	Discos duros HDD	A	Western Digital Red Plus WD40EFPX	Precio aproximado / referencia USD	139,00 USD; anuncio de Walmart
+A15	A	Discos duros HDD	B	Seagate IronWolf ST4000VN006	Precio aproximado / referencia USD	216,99 USD; anuncio de CDW
+A16	A	Unidades SSD	A	Samsung 870 EVO MZ-77E1T0B/AM	Capacidad / interfaz	1 TB; SATA 6 Gb/s
+A16	A	Unidades SSD	B	Crucial MX500 CT1000MX500SSD1	Capacidad / interfaz	1 TB; SATA 6 Gb/s
+A16	A	Unidades SSD	A	Samsung 870 EVO MZ-77E1T0B/AM	Lectura / escritura secuencial máxima	560 / 530 MB/s
+A16	A	Unidades SSD	B	Crucial MX500 CT1000MX500SSD1	Lectura / escritura secuencial máxima	560 / 510 MB/s
+A16	A	Unidades SSD	A	Samsung 870 EVO MZ-77E1T0B/AM	Resistencia publicada	600 TBW
+A16	A	Unidades SSD	B	Crucial MX500 CT1000MX500SSD1	Resistencia publicada	360 TBW
+A16	A	Unidades SSD	A	Samsung 870 EVO MZ-77E1T0B/AM	Garantía limitada	5 años o límite de TBW, lo que ocurra primero
+A16	A	Unidades SSD	B	Crucial MX500 CT1000MX500SSD1	Garantía limitada	5 años o límite de TBW, lo que ocurra primero
+A16	A	Unidades SSD	A	Samsung 870 EVO MZ-77E1T0B/AM	Precio aproximado / referencia USD	414,99 USD; ficha oficial con entrega no disponible
+A16	A	Unidades SSD	B	Crucial MX500 CT1000MX500SSD1	Precio aproximado / referencia USD	121,42 USD; anuncio de Walmart
+A17	A	Unidades SSD	A	Transcend MTS830S TS1TMTS830S	Formato	M.2 2280
+A17	A	Unidades SSD	B	Western Digital Blue SA510 WDS100T3B0B	Formato	M.2 2280
+A17	A	Unidades SSD	A	Transcend MTS830S TS1TMTS830S	Protocolo / capacidad	SATA 6 Gb/s; 1 TB
+A17	A	Unidades SSD	B	Western Digital Blue SA510 WDS100T3B0B	Protocolo / capacidad	SATA 6 Gb/s; 1 TB
+A17	A	Unidades SSD	A	Transcend MTS830S TS1TMTS830S	Lectura / escritura secuencial máxima	560 / 500 MB/s
+A17	A	Unidades SSD	B	Western Digital Blue SA510 WDS100T3B0B	Lectura / escritura secuencial máxima	560 / 520 MB/s
+A17	A	Unidades SSD	A	Transcend MTS830S TS1TMTS830S	Uso	Actualización de ranuras M.2 SATA
+A17	A	Unidades SSD	B	Western Digital Blue SA510 WDS100T3B0B	Uso	Actualización de ranuras M.2 SATA
+A17	A	Unidades SSD	A	Transcend MTS830S TS1TMTS830S	Precio aproximado / referencia USD	323,10 USD; Newegg, vendedor MemoryC
+A17	A	Unidades SSD	B	Western Digital Blue SA510 WDS100T3B0B	Precio aproximado / referencia USD	117,77 USD; anuncio de Walmart Business
+A18	A	Unidades SSD	A	Samsung 990 PRO con disipador MZ-V9P1T0CW	Formato / interfaz	M.2 2280; NVMe PCIe 4.0 x4
+A18	A	Unidades SSD	B	Western Digital Black SN850X con disipador WDS100T2XHE	Formato / interfaz	M.2 2280; NVMe PCIe 4.0 x4
+A18	A	Unidades SSD	A	Samsung 990 PRO con disipador MZ-V9P1T0CW	Lectura / escritura secuencial máxima	7.450 / 6.900 MB/s
+A18	A	Unidades SSD	B	Western Digital Black SN850X con disipador WDS100T2XHE	Lectura / escritura secuencial máxima	7.300 / 6.300 MB/s
+A18	A	Unidades SSD	A	Samsung 990 PRO con disipador MZ-V9P1T0CW	Resistencia / garantía	600 TBW; 5 años limitados
+A18	A	Unidades SSD	B	Western Digital Black SN850X con disipador WDS100T2XHE	Resistencia / garantía	600 TBW; 5 años limitados
+A18	A	Unidades SSD	A	Samsung 990 PRO con disipador MZ-V9P1T0CW	Refrigeración	Disipador instalado de fábrica
+A18	A	Unidades SSD	B	Western Digital Black SN850X con disipador WDS100T2XHE	Refrigeración	Disipador instalado de fábrica
+A18	A	Unidades SSD	A	Samsung 990 PRO con disipador MZ-V9P1T0CW	Precio aproximado / referencia USD	339,99 USD; ficha oficial, entrega no disponible
+A18	A	Unidades SSD	B	Western Digital Black SN850X con disipador WDS100T2XHE	Precio aproximado / referencia USD	Desde 299,00 USD; oferta de Walmart para la variante con disipador
+A19	A	Fuentes de alimentación	A	Corsair RM850e 2025 CP-9020296-NA	Potencia / formato	850 W; ATX
+A19	A	Fuentes de alimentación	B	MSI MAG A850GL PCIE5, revisión ATX 3.1	Potencia / formato	850 W; ATX
+A19	A	Fuentes de alimentación	A	Corsair RM850e 2025 CP-9020296-NA	Normas publicadas	ATX 3.1; PCIe 5.1
+A19	A	Fuentes de alimentación	B	MSI MAG A850GL PCIE5, revisión ATX 3.1	Normas publicadas	ATX 3.1; PCIe 5.1
+A19	A	Fuentes de alimentación	A	Corsair RM850e 2025 CP-9020296-NA	Cableado / GPU	Totalmente modular; 12V-2x6
+A19	A	Fuentes de alimentación	B	MSI MAG A850GL PCIE5, revisión ATX 3.1	Cableado / GPU	Totalmente modular; conector de 16 pines PCIe 5.1
+A19	A	Fuentes de alimentación	A	Corsair RM850e 2025 CP-9020296-NA	Certificación / garantía	Cybenetics Gold; 7 años
+A19	A	Fuentes de alimentación	B	MSI MAG A850GL PCIE5, revisión ATX 3.1	Certificación / garantía	80 PLUS Gold; 10 años
+A19	A	Fuentes de alimentación	A	Corsair RM850e 2025 CP-9020296-NA	Precio aproximado / referencia USD	115,99 USD; tienda oficial Corsair
+A19	A	Fuentes de alimentación	B	MSI MAG A850GL PCIE5, revisión ATX 3.1	Precio aproximado / referencia USD	109,99 USD; oferta de la tienda oficial MSI
+A20	A	Fuentes de alimentación	A	Corsair SF750 2024 CP-9020284-NA	Potencia / formato	750 W; SFX
+A20	A	Fuentes de alimentación	B	Cooler Master V750 SFX Gold ATX 3.1 MPY-7501-SFHAGV-3XX	Potencia / formato	750 W; SFX
+A20	A	Fuentes de alimentación	A	Corsair SF750 2024 CP-9020284-NA	Cableado	Totalmente modular
+A20	A	Fuentes de alimentación	B	Cooler Master V750 SFX Gold ATX 3.1 MPY-7501-SFHAGV-3XX	Cableado	Totalmente modular
+A20	A	Fuentes de alimentación	A	Corsair SF750 2024 CP-9020284-NA	Certificación	80 PLUS Platinum
+A20	A	Fuentes de alimentación	B	Cooler Master V750 SFX Gold ATX 3.1 MPY-7501-SFHAGV-3XX	Certificación	80 PLUS Gold
+A20	A	Fuentes de alimentación	A	Corsair SF750 2024 CP-9020284-NA	Característica destacada	ATX 3.1; conexión nativa 12V-2x6
+A20	A	Fuentes de alimentación	B	Cooler Master V750 SFX Gold ATX 3.1 MPY-7501-SFHAGV-3XX	Característica destacada	ATX 3.1; fuente compacta con ventilador de 92 mm
+A20	A	Fuentes de alimentación	A	Corsair SF750 2024 CP-9020284-NA	Precio aproximado / referencia USD	174,99 USD; tienda oficial Corsair
+A20	A	Fuentes de alimentación	B	Cooler Master V750 SFX Gold ATX 3.1 MPY-7501-SFHAGV-3XX	Precio aproximado / referencia USD	207,80 USD; oferta del SKU V3 entre las opciones de Walmart Business
+A21	A	Fuentes de alimentación	A	HPE Flex Slot 800 W Platinum P38995-B21	Potencia por módulo	800 W
+A21	A	Fuentes de alimentación	B	Lenovo ThinkSystem 750 W Platinum 7N67A00883	Potencia por módulo	750 W
+A21	A	Fuentes de alimentación	A	HPE Flex Slot 800 W Platinum P38995-B21	Formato / sustitución	Flex Slot; hot-plug
+A21	A	Fuentes de alimentación	B	Lenovo ThinkSystem 750 W Platinum 7N67A00883	Formato / sustitución	ThinkSystem; hot-swap
+A21	A	Fuentes de alimentación	A	HPE Flex Slot 800 W Platinum P38995-B21	Eficiencia publicada	Platinum
+A21	A	Fuentes de alimentación	B	Lenovo ThinkSystem 750 W Platinum 7N67A00883	Eficiencia publicada	Platinum
+A21	A	Fuentes de alimentación	A	HPE Flex Slot 800 W Platinum P38995-B21	Plataforma	Servidores HPE compatibles
+A21	A	Fuentes de alimentación	B	Lenovo ThinkSystem 750 W Platinum 7N67A00883	Plataforma	Servidores Lenovo compatibles; admite pares en modelos documentados
+A21	A	Fuentes de alimentación	A	HPE Flex Slot 800 W Platinum P38995-B21	Precio aproximado / referencia USD	107,28 USD; valor publicado en datos de la tienda HPE; confirmar cotización
+A21	A	Fuentes de alimentación	B	Lenovo ThinkSystem 750 W Platinum 7N67A00883	Precio aproximado / referencia USD	65,00 USD; ServerSupply, unidad reacondicionada
+A22	A	Refrigeración	A	Noctua NH-D15 G2, versión estándar	Diseño	Doble torre; 8 heatpipes
+A22	A	Refrigeración	B	be quiet! Dark Rock Pro 5 BK036	Diseño	Doble torre; 7 heatpipes
+A22	A	Refrigeración	A	Noctua NH-D15 G2, versión estándar	Ventiladores	2 × 140 mm NF-A14x25r G2
+A22	A	Refrigeración	B	be quiet! Dark Rock Pro 5 BK036	Ventiladores	120 mm y 135 mm
+A22	A	Refrigeración	A	Noctua NH-D15 G2, versión estándar	Altura	168 mm
+A22	A	Refrigeración	B	be quiet! Dark Rock Pro 5 BK036	Altura	168 mm
+A22	A	Refrigeración	A	Noctua NH-D15 G2, versión estándar	Garantía limitada	6 años
+A22	A	Refrigeración	B	be quiet! Dark Rock Pro 5 BK036	Garantía limitada	3 años
+A22	A	Refrigeración	A	Noctua NH-D15 G2, versión estándar	Precio aproximado / referencia USD	149,90 USD; precio recomendado de lanzamiento, 2024
+A22	A	Refrigeración	B	be quiet! Dark Rock Pro 5 BK036	Precio aproximado / referencia USD	84,90 USD; registro de precio de Pangoly
+A23	A	Refrigeración	A	ARCTIC Liquid Freezer III 360 A-RGB, blanco	Radiador / ventiladores	360 mm; 3 × 120 mm
+A23	A	Refrigeración	B	Corsair iCUE H150i ELITE CAPELLIX XT, blanco CW-9060073-WW	Radiador / ventiladores	360 mm; 3 × 120 mm
+A23	A	Refrigeración	A	ARCTIC Liquid Freezer III 360 A-RGB, blanco	Grosor del radiador	38 mm
+A23	A	Refrigeración	B	Corsair iCUE H150i ELITE CAPELLIX XT, blanco CW-9060073-WW	Grosor del radiador	27 mm
+A23	A	Refrigeración	A	ARCTIC Liquid Freezer III 360 A-RGB, blanco	Funciones destacadas	Ventilador para la zona VRM; iluminación A-RGB
+A23	A	Refrigeración	B	Corsair iCUE H150i ELITE CAPELLIX XT, blanco CW-9060073-WW	Funciones destacadas	Gestión iCUE; controlador COMMANDER CORE
+A23	A	Refrigeración	A	ARCTIC Liquid Freezer III 360 A-RGB, blanco	Garantía limitada	6 años
+A23	A	Refrigeración	B	Corsair iCUE H150i ELITE CAPELLIX XT, blanco CW-9060073-WW	Garantía limitada	5 años
+A23	A	Refrigeración	A	ARCTIC Liquid Freezer III 360 A-RGB, blanco	Precio aproximado / referencia USD	119,99 USD; anuncio de Walmart
+A23	A	Refrigeración	B	Corsair iCUE H150i ELITE CAPELLIX XT, blanco CW-9060073-WW	Precio aproximado / referencia USD	229,99 USD; tienda oficial Corsair, sin existencias
+A24	A	Refrigeración	A	Corsair Hydro X iCUE XH305i RGB PRO, negro CX-9070008-WW	Bomba / depósito	Conjunto XD5 con bomba D5
+A24	A	Refrigeración	B	Thermaltake Pacific C360 DDC Hard Tube CL-W243-CU12SW-A	Bomba / depósito	Conjunto PR15 con bomba DDC
+A24	A	Refrigeración	A	Corsair Hydro X iCUE XH305i RGB PRO, negro CX-9070008-WW	Bloque de CPU	XC7 RGB PRO
+A24	A	Refrigeración	B	Thermaltake Pacific C360 DDC Hard Tube CL-W243-CU12SW-A	Bloque de CPU	W4 ARGB
+A24	A	Refrigeración	A	Corsair Hydro X iCUE XH305i RGB PRO, negro CX-9070008-WW	Radiador / ventiladores	XR5 de 360 mm; 3 QL120 RGB
+A24	A	Refrigeración	B	Thermaltake Pacific C360 DDC Hard Tube CL-W243-CU12SW-A	Radiador / ventiladores	C360 de cobre; 3 Pure 12 ARGB
+A24	A	Refrigeración	A	Corsair Hydro X iCUE XH305i RGB PRO, negro CX-9070008-WW	Tubos / trabajo requerido	Tubos rígidos; corte, doblado y montaje
+A24	A	Refrigeración	B	Thermaltake Pacific C360 DDC Hard Tube CL-W243-CU12SW-A	Tubos / trabajo requerido	Tubos rígidos; corte, doblado y montaje
+A24	A	Refrigeración	A	Corsair Hydro X iCUE XH305i RGB PRO, negro CX-9070008-WW	Precio aproximado / referencia USD	599,99 USD; tienda oficial Corsair
+A24	A	Refrigeración	B	Thermaltake Pacific C360 DDC Hard Tube CL-W243-CU12SW-A	Precio aproximado / referencia USD	369,99 USD; tienda oficial Thermaltake, agotado
+A25	A	Gabinetes	A	Corsair 7000D AIRFLOW, negro CC-9011218-WW	Placas admitidas	Hasta E-ATX, según dimensiones
+A25	A	Gabinetes	B	Fractal Design Meshify 2 XL, negro Light TG	Placas admitidas	Hasta E-ATX y formatos de servidor según configuración
+A25	A	Gabinetes	A	Corsair 7000D AIRFLOW, negro CC-9011218-WW	GPU / CPU	Hasta 450 mm de GPU; 190 mm de disipador
+A25	A	Gabinetes	B	Fractal Design Meshify 2 XL, negro Light TG	GPU / CPU	Hasta 491 mm de GPU en disposición abierta; 185 mm de disipador
+A25	A	Gabinetes	A	Corsair 7000D AIRFLOW, negro CC-9011218-WW	Ventiladores incluidos	3 × 140 mm
+A25	A	Gabinetes	B	Fractal Design Meshify 2 XL, negro Light TG	Ventiladores incluidos	3 × 140 mm
+A25	A	Gabinetes	A	Corsair 7000D AIRFLOW, negro CC-9011218-WW	Prioridad de diseño	Flujo de aire y refrigeración grande
+A25	A	Gabinetes	B	Fractal Design Meshify 2 XL, negro Light TG	Prioridad de diseño	Flexibilidad entre montaje abierto y almacenamiento
+A25	A	Gabinetes	A	Corsair 7000D AIRFLOW, negro CC-9011218-WW	Precio aproximado / referencia USD	289,99 USD; tienda Corsair, pedido pendiente de reposición
+A25	A	Gabinetes	B	Fractal Design Meshify 2 XL, negro Light TG	Precio aproximado / referencia USD	317,46 USD; anuncio de Walmart
+A26	A	Gabinetes	A	Corsair 4000D AIRFLOW, negro CC-9011200-WW	Formato de placa	ATX y formatos menores
+A26	A	Gabinetes	B	NZXT H5 Flow, edición 2024, negro	Formato de placa	ATX y formatos menores
+A26	A	Gabinetes	A	Corsair 4000D AIRFLOW, negro CC-9011200-WW	GPU / CPU	Hasta 360 mm; disipador hasta 170 mm
+A26	A	Gabinetes	B	NZXT H5 Flow, edición 2024, negro	GPU / CPU	Hasta 410 mm; disipador hasta 170 mm
+A26	A	Gabinetes	A	Corsair 4000D AIRFLOW, negro CC-9011200-WW	Ventiladores incluidos	2 × 120 mm
+A26	A	Gabinetes	B	NZXT H5 Flow, edición 2024, negro	Ventiladores incluidos	2 × 120 mm
+A26	A	Gabinetes	A	Corsair 4000D AIRFLOW, negro CC-9011200-WW	Radiador destacado	Frontal hasta 360 mm
+A26	A	Gabinetes	B	NZXT H5 Flow, edición 2024, negro	Radiador destacado	Frontal hasta 360 mm
+A26	A	Gabinetes	A	Corsair 4000D AIRFLOW, negro CC-9011200-WW	Precio aproximado / referencia USD	104,99 USD; tienda Corsair, sin existencias
+A26	A	Gabinetes	B	NZXT H5 Flow, edición 2024, negro	Precio aproximado / referencia USD	94,99 USD; tienda oficial NZXT
+A27	A	Gabinetes	A	Cooler Master MasterBox NR200, negro MCB-NR200-KNNN-S00	Volumen	Aproximadamente 18,25 litros
+A27	A	Gabinetes	B	Fractal Design Terra, Jade	Volumen	Aproximadamente 10,4 litros
+A27	A	Gabinetes	A	Cooler Master MasterBox NR200, negro MCB-NR200-KNNN-S00	GPU máxima publicada	Hasta 330 mm
+A27	A	Gabinetes	B	Fractal Design Terra, Jade	GPU máxima publicada	Hasta 322 mm
+A27	A	Gabinetes	A	Cooler Master MasterBox NR200, negro MCB-NR200-KNNN-S00	Disipador de CPU	Hasta 155 mm con panel de malla
+A27	A	Gabinetes	B	Fractal Design Terra, Jade	Disipador de CPU	Entre 48 y 77 mm, según posición del divisor y grosor de GPU
+A27	A	Gabinetes	A	Cooler Master MasterBox NR200, negro MCB-NR200-KNNN-S00	Fuente / detalle	SFX o SFX-L; paneles ventilados
+A27	A	Gabinetes	B	Fractal Design Terra, Jade	Fuente / detalle	SFX o SFX-L; aluminio, madera y riser PCIe 4.0
+A27	A	Gabinetes	A	Cooler Master MasterBox NR200, negro MCB-NR200-KNNN-S00	Precio aproximado / referencia USD	79,98 USD; anuncio de Walmart
+A27	A	Gabinetes	B	Fractal Design Terra, Jade	Precio aproximado / referencia USD	199,99 USD; precio de familia Terra en 9 TO 5 Computer; confirmar color Jade
+A28	A	Tarjetas de red	A	TP-Link TG-3468, versión 4	Interfaz / puertos	PCIe x1; 1 RJ45
+A28	A	Tarjetas de red	B	D-Link DGE-560T, revisión B1	Interfaz / puertos	PCIe x1; 1 RJ45
+A28	A	Tarjetas de red	A	TP-Link TG-3468, versión 4	Velocidad Ethernet	10/100/1.000 Mb/s
+A28	A	Tarjetas de red	B	D-Link DGE-560T, revisión B1	Velocidad Ethernet	10/100/1.000 Mb/s
+A28	A	Tarjetas de red	A	TP-Link TG-3468, versión 4	Funciones	Wake-on-LAN y negociación automática
+A28	A	Tarjetas de red	B	D-Link DGE-560T, revisión B1	Funciones	Wake-on-LAN, VLAN 802.1Q y tramas jumbo
+A28	A	Tarjetas de red	A	TP-Link TG-3468, versión 4	Uso	Añadir o reemplazar un puerto Gigabit
+A28	A	Tarjetas de red	B	D-Link DGE-560T, revisión B1	Uso	Añadir o reemplazar un puerto Gigabit
+A28	A	Tarjetas de red	A	TP-Link TG-3468, versión 4	Precio aproximado / referencia USD	16,99 USD; anuncio de Walmart
+A28	A	Tarjetas de red	B	D-Link DGE-560T, revisión B1	Precio aproximado / referencia USD	21,84 USD; anuncio de SecureSwitches
+A29	A	Tarjetas de red	A	TP-Link Archer TX3000E, versión 1	Wi-Fi	Wi-Fi 6, AX3000; bandas 2,4 y 5 GHz
+A29	A	Tarjetas de red	B	ASUS PCE-AX58BT	Wi-Fi	Wi-Fi 6, AX3000; bandas 2,4 y 5 GHz
+A29	A	Tarjetas de red	A	TP-Link Archer TX3000E, versión 1	Máximos de enlace	574 Mb/s en 2,4 GHz y 2.402 Mb/s en 5 GHz
+A29	A	Tarjetas de red	B	ASUS PCE-AX58BT	Máximos de enlace	574 Mb/s en 2,4 GHz y 2.402 Mb/s en 5 GHz
+A29	A	Tarjetas de red	A	TP-Link Archer TX3000E, versión 1	Canal / Bluetooth	Canal de hasta 160 MHz; Bluetooth 5.0 en V1
+A29	A	Tarjetas de red	B	ASUS PCE-AX58BT	Canal / Bluetooth	Canal de hasta 160 MHz; Bluetooth 5.0
+A29	A	Tarjetas de red	A	TP-Link Archer TX3000E, versión 1	Instalación	Ranura PCIe y conector USB interno para Bluetooth
+A29	A	Tarjetas de red	B	ASUS PCE-AX58BT	Instalación	Ranura PCIe y conector USB interno para Bluetooth
+A29	A	Tarjetas de red	A	TP-Link Archer TX3000E, versión 1	Precio aproximado / referencia USD	55,84 USD; anuncio de Walmart
+A29	A	Tarjetas de red	B	ASUS PCE-AX58BT	Precio aproximado / referencia USD	39,99 USD; tienda ASUS con aviso de disponibilidad
+A30	A	Tarjetas de red	A	Intel Ethernet Converged Network Adapter X550-T2	Interfaz	PCIe 3.0 x4
+A30	A	Tarjetas de red	B	QNAP QXG-10G2T	Interfaz	PCIe 3.0 x4
+A30	A	Tarjetas de red	A	Intel Ethernet Converged Network Adapter X550-T2	Puertos	2 RJ45 de hasta 10 Gb/s
+A30	A	Tarjetas de red	B	QNAP QXG-10G2T	Puertos	2 RJ45 de hasta 10 Gb/s
+A30	A	Tarjetas de red	A	Intel Ethernet Converged Network Adapter X550-T2	Controlador	Intel X550
+A30	A	Tarjetas de red	B	QNAP QXG-10G2T	Controlador	Marvell/Aquantia AQC107
+A30	A	Tarjetas de red	A	Intel Ethernet Converged Network Adapter X550-T2	Uso destacado	PC o servidor con controladores Intel compatibles
+A30	A	Tarjetas de red	B	QNAP QXG-10G2T	Uso destacado	PC o NAS QNAP expresamente compatible
+A30	A	Tarjetas de red	A	Intel Ethernet Converged Network Adapter X550-T2	Precio aproximado / referencia USD	116,00 USD; anuncio de Tech-America
+A30	A	Tarjetas de red	B	QNAP QXG-10G2T	Precio aproximado / referencia USD	271,00 USD; anuncio de Tech-America
+A31	A	Audio	A	Creative Sound BlasterX AE-5 Plus	Reproducción publicada	Hasta 32 bits / 384 kHz
+A31	A	Audio	B	ASUS Xonar SE	Reproducción publicada	Hasta 24 bits / 192 kHz
+A31	A	Audio	A	Creative Sound BlasterX AE-5 Plus	Relación señal/ruido publicada	Hasta 122 dB
+A31	A	Audio	B	ASUS Xonar SE	Relación señal/ruido publicada	Hasta 116 dB
+A31	A	Audio	A	Creative Sound BlasterX AE-5 Plus	Canales	5.1 analógico; 7.1 virtual para auriculares
+A31	A	Audio	B	ASUS Xonar SE	Canales	5.1 analógico
+A31	A	Audio	A	Creative Sound BlasterX AE-5 Plus	Funciones	Amplificador Xamp, Dolby Digital Live, DTS y RGB
+A31	A	Audio	B	ASUS Xonar SE	Funciones	Amplificación de auriculares y S/PDIF óptico
+A31	A	Audio	A	Creative Sound BlasterX AE-5 Plus	Precio aproximado / referencia USD	149,99 USD; referencia documental de distribuidor de diciembre de 2024
+A31	A	Audio	B	ASUS Xonar SE	Precio aproximado / referencia USD	39,99 USD; tienda oficial ASUS con aviso de disponibilidad
+A32	A	Audio	A	Creative Sound Blaster X4	Conexión	USB
+A32	A	Audio	B	EPOS GSX 1000, segunda edición	Conexión	USB
+A32	A	Audio	A	Creative Sound Blaster X4	Audio destacado	Hasta 24 bits / 192 kHz
+A32	A	Audio	B	EPOS GSX 1000, segunda edición	Audio destacado	Procesamiento virtual 7.1 para auriculares
+A32	A	Audio	A	Creative Sound Blaster X4	Funciones	Super X-Fi; salidas para altavoces 7.1; óptica
+A32	A	Audio	B	EPOS GSX 1000, segunda edición	Funciones	Pantalla táctil; ajuste y mezcla de juego/chat
+A32	A	Audio	A	Creative Sound Blaster X4	Uso	PC con auriculares o altavoces multicanal
+A32	A	Audio	B	EPOS GSX 1000, segunda edición	Uso	PC orientado a auriculares para juegos
+A32	A	Audio	A	Creative Sound Blaster X4	Precio aproximado / referencia USD	139,99 USD; promoción de Creative US
+A32	A	Audio	B	EPOS GSX 1000, segunda edición	Precio aproximado / referencia USD	199,00 USD; ficha de Walmart sin existencias
+A33	A	Audio	A	Focusrite Scarlett 2i2, cuarta generación	Entradas / salidas	2 entradas y 2 salidas principales
+A33	A	Audio	B	Steinberg UR22C	Entradas / salidas	2 entradas y 2 salidas principales
+A33	A	Audio	A	Focusrite Scarlett 2i2, cuarta generación	Conversión máxima publicada	24 bits / 192 kHz
+A33	A	Audio	B	Steinberg UR22C	Conversión máxima publicada	32 bits / 192 kHz
+A33	A	Audio	A	Focusrite Scarlett 2i2, cuarta generación	Funciones destacadas	Auto Gain, Clip Safe, Air; hasta 69 dB de ganancia
+A33	A	Audio	B	Steinberg UR22C	Funciones destacadas	DSP integrado y monitorización con efectos
+A33	A	Audio	A	Focusrite Scarlett 2i2, cuarta generación	Conectividad adicional	USB; alimentación phantom de 48 V
+A33	A	Audio	B	Steinberg UR22C	Conectividad adicional	USB; MIDI de entrada/salida; phantom de 48 V
+A33	A	Audio	A	Focusrite Scarlett 2i2, cuarta generación	Precio aproximado / referencia USD	224,99 USD; anuncio de Walmart
+A33	A	Audio	B	Steinberg UR22C	Precio aproximado / referencia USD	189,99 USD; anuncio de Walmart
+A34	A	Capturadoras de video	A	Elgato Game Capture 4K Pro	Conexión al PC	PCIe 2.0 x4
+A34	A	Capturadoras de video	B	AVerMedia Live Gamer 4K 2.1 GC575	Conexión al PC	PCIe 3.0 x4
+A34	A	Capturadoras de video	A	Elgato Game Capture 4K Pro	Interfaz de video	HDMI 2.1
+A34	A	Capturadoras de video	B	AVerMedia Live Gamer 4K 2.1 GC575	Interfaz de video	HDMI 2.1
+A34	A	Capturadoras de video	A	Elgato Game Capture 4K Pro	Paso de señal destacado	Hasta 8K60 o 4K144
+A34	A	Capturadoras de video	B	AVerMedia Live Gamer 4K 2.1 GC575	Paso de señal destacado	Hasta 4K144
+A34	A	Capturadoras de video	A	Elgato Game Capture 4K Pro	Captura de referencia comparada	4K60 HDR
+A34	A	Capturadoras de video	B	AVerMedia Live Gamer 4K 2.1 GC575	Captura de referencia comparada	4K60; modos superiores según software/firmware
+A34	A	Capturadoras de video	A	Elgato Game Capture 4K Pro	Precio aproximado / referencia USD	220,00 USD; anuncio de Walmart
+A34	A	Capturadoras de video	B	AVerMedia Live Gamer 4K 2.1 GC575	Precio aproximado / referencia USD	209,99 USD; tienda oficial AVerMedia
+A35	A	Capturadoras de video	A	Elgato Game Capture 4K X	Conexión al equipo	USB 3.2 Gen 2, 10 Gb/s
+A35	A	Capturadoras de video	B	AVerMedia Live Gamer ULTRA 2.1 GC553G2	Conexión al equipo	USB 3.2 Gen 2, 10 Gb/s
+A35	A	Capturadoras de video	A	Elgato Game Capture 4K X	Video / paso de señal	HDMI 2.1; hasta 4K144
+A35	A	Capturadoras de video	B	AVerMedia Live Gamer ULTRA 2.1 GC553G2	Video / paso de señal	HDMI 2.1; hasta 4K144
+A35	A	Capturadoras de video	A	Elgato Game Capture 4K X	Captura destacada	Hasta 4K144 SDR en configuraciones admitidas
+A35	A	Capturadoras de video	B	AVerMedia Live Gamer ULTRA 2.1 GC553G2	Captura destacada	4K60 como modo de referencia; modos adicionales según versión
+A35	A	Capturadoras de video	A	Elgato Game Capture 4K X	Uso	Captura con PC o Mac compatible
+A35	A	Capturadoras de video	B	AVerMedia Live Gamer ULTRA 2.1 GC553G2	Uso	Captura con PC o Mac compatible
+A35	A	Capturadoras de video	A	Elgato Game Capture 4K X	Precio aproximado / referencia USD	189,99 USD; anuncio de Walmart
+A35	A	Capturadoras de video	B	AVerMedia Live Gamer ULTRA 2.1 GC553G2	Precio aproximado / referencia USD	209,99 USD; tienda oficial AVerMedia
+A36	A	Capturadoras de video	A	Blackmagic Design DeckLink Quad HDMI Recorder	Entradas	4 HDMI 2.0b independientes
+A36	A	Capturadoras de video	B	Magewell Pro Capture Quad HDMI, modelo 11100	Entradas	4 HDMI 1.4a independientes
+A36	A	Capturadoras de video	A	Blackmagic Design DeckLink Quad HDMI Recorder	Captura por canal	Hasta 4K60
+A36	A	Capturadoras de video	B	Magewell Pro Capture Quad HDMI, modelo 11100	Captura por canal	Hasta 2.048 × 2.160; frecuencia dependiente de resolución y formato
+A36	A	Capturadoras de video	A	Blackmagic Design DeckLink Quad HDMI Recorder	Interfaz de expansión	PCIe 3.0 x8
+A36	A	Capturadoras de video	B	Magewell Pro Capture Quad HDMI, modelo 11100	Interfaz de expansión	PCIe 2.0 x4
+A36	A	Capturadoras de video	A	Blackmagic Design DeckLink Quad HDMI Recorder	Uso destacado	Producción multicámara con fuentes 4K
+A36	A	Capturadoras de video	B	Magewell Pro Capture Quad HDMI, modelo 11100	Uso destacado	Producción multicámara HD y procesamiento de señal
+A36	A	Capturadoras de video	A	Blackmagic Design DeckLink Quad HDMI Recorder	Precio aproximado / referencia USD	669,00 USD; precio publicado por Blackmagic Design
+A36	A	Capturadoras de video	B	Magewell Pro Capture Quad HDMI, modelo 11100	Precio aproximado / referencia USD	999,00 USD; anuncio de Motion Media
+A37	A	Otras tarjetas de expansión	A	Broadcom / LSI SAS 9300-8i	Interfaz con el equipo	PCIe 3.0 x8
+A37	A	Otras tarjetas de expansión	B	Microchip / Adaptec HBA 1000-8i, 2288300-R	Interfaz con el equipo	PCIe 3.0 x8
+A37	A	Otras tarjetas de expansión	A	Broadcom / LSI SAS 9300-8i	Puertos internos	8; mediante 2 conectores SFF-8643
+A37	A	Otras tarjetas de expansión	B	Microchip / Adaptec HBA 1000-8i, 2288300-R	Puertos internos	8; mediante 2 conectores SFF-8643
+A37	A	Otras tarjetas de expansión	A	Broadcom / LSI SAS 9300-8i	Velocidades de unidades	SAS hasta 12 Gb/s; SATA hasta 6 Gb/s
+A37	A	Otras tarjetas de expansión	B	Microchip / Adaptec HBA 1000-8i, 2288300-R	Velocidades de unidades	SAS hasta 12 Gb/s; SATA hasta 6 Gb/s
+A37	A	Otras tarjetas de expansión	A	Broadcom / LSI SAS 9300-8i	Función	HBA: expone las unidades al sistema
+A37	A	Otras tarjetas de expansión	B	Microchip / Adaptec HBA 1000-8i, 2288300-R	Función	HBA: expone las unidades al sistema
+A37	A	Otras tarjetas de expansión	A	Broadcom / LSI SAS 9300-8i	Precio aproximado / referencia USD	199,99 USD; Newegg, vendedor B-IN Electronics
+A37	A	Otras tarjetas de expansión	B	Microchip / Adaptec HBA 1000-8i, 2288300-R	Precio aproximado / referencia USD	146,75 USD; eBay, anuncio con condición nueva
+A38	A	Otras tarjetas de expansión	A	StarTech PEXUSB3S44V	Puertos	4 USB-A de hasta 5 Gb/s cada uno
+A38	A	Otras tarjetas de expansión	B	Sonnet Allegro Type A USB 3.2 PCIe, 4 puertos	Puertos	4 USB-A de hasta 5 Gb/s cada uno
+A38	A	Otras tarjetas de expansión	A	StarTech PEXUSB3S44V	Interfaz PCIe	PCIe x4
+A38	A	Otras tarjetas de expansión	B	Sonnet Allegro Type A USB 3.2 PCIe, 4 puertos	Interfaz PCIe	PCIe x1
+A38	A	Otras tarjetas de expansión	A	StarTech PEXUSB3S44V	Controladores	4 controladores independientes
+A38	A	Otras tarjetas de expansión	B	Sonnet Allegro Type A USB 3.2 PCIe, 4 puertos	Controladores	Puertos con ancho de banda compartido
+A38	A	Otras tarjetas de expansión	A	StarTech PEXUSB3S44V	Uso destacado	Varios dispositivos de almacenamiento a la vez
+A38	A	Otras tarjetas de expansión	B	Sonnet Allegro Type A USB 3.2 PCIe, 4 puertos	Uso destacado	Añadir conexiones para periféricos generales
+A38	A	Otras tarjetas de expansión	A	StarTech PEXUSB3S44V	Precio aproximado / referencia USD	160,94 USD; anuncio de Mouser
+A38	A	Otras tarjetas de expansión	B	Sonnet Allegro Type A USB 3.2 PCIe, 4 puertos	Precio aproximado / referencia USD	49,99 USD; tienda oficial Sonnet
+A39	A	Otras tarjetas de expansión	A	ASUS ThunderboltEX 4	Controlador / interfaz	Intel JHL8540; PCIe 3.0 x4
+A39	A	Otras tarjetas de expansión	B	GIGABYTE GC-MAPLE RIDGE, rev. 1.0	Controlador / interfaz	Intel JHL8540; PCIe 3.0 x4
+A39	A	Otras tarjetas de expansión	A	ASUS ThunderboltEX 4	Puertos	2 USB-C Thunderbolt 4, hasta 40 Gb/s
+A39	A	Otras tarjetas de expansión	B	GIGABYTE GC-MAPLE RIDGE, rev. 1.0	Puertos	2 USB-C Thunderbolt 4, hasta 40 Gb/s
+A39	A	Otras tarjetas de expansión	A	ASUS ThunderboltEX 4	Alimentación USB publicada	Hasta 100 W en el puerto designado
+A39	A	Otras tarjetas de expansión	B	GIGABYTE GC-MAPLE RIDGE, rev. 1.0	Alimentación USB publicada	Hasta 97 W en el primer puerto
+A39	A	Otras tarjetas de expansión	A	ASUS ThunderboltEX 4	Requisito esencial	Placa ASUS compatible y cabeceras necesarias
+A39	A	Otras tarjetas de expansión	B	GIGABYTE GC-MAPLE RIDGE, rev. 1.0	Requisito esencial	Placa GIGABYTE compatible y cabeceras necesarias
+A39	A	Otras tarjetas de expansión	A	ASUS ThunderboltEX 4	Precio aproximado / referencia USD	115,99 USD; tienda oficial ASUS
+A39	A	Otras tarjetas de expansión	B	GIGABYTE GC-MAPLE RIDGE, rev. 1.0	Precio aproximado / referencia USD	112,00 USD; anuncio de Tech-America
+B01	B	Teclados	A	Keychron V6 QMK, ensamblado con perilla	Formato	100%; incluye bloque numérico
+B01	B	Teclados	B	HyperX Alloy Origins, tamaño completo	Formato	100%; incluye bloque numérico
+B01	B	Teclados	A	Keychron V6 QMK, ensamblado con perilla	Mecanismo	Interruptores Keychron K Pro; zócalos intercambiables
+B01	B	Teclados	B	HyperX Alloy Origins, tamaño completo	Mecanismo	Interruptores mecánicos HyperX; fijados a la placa
+B01	B	Teclados	A	Keychron V6 QMK, ensamblado con perilla	Conexión y sondeo	USB-C con cable; hasta 1.000 Hz
+B01	B	Teclados	B	HyperX Alloy Origins, tamaño completo	Conexión y sondeo	USB-C con cable desmontable; hasta 1.000 Hz
+B01	B	Teclados	A	Keychron V6 QMK, ensamblado con perilla	Personalización	QMK/VIA, teclas PBT y perilla
+B01	B	Teclados	B	HyperX Alloy Origins, tamaño completo	Personalización	RGB con NGENUITY; estructura de aluminio
+B01	B	Teclados	A	Keychron V6 QMK, ensamblado con perilla	Precio aproximado / referencia USD	74,99 USD; precio promocional oficial; variante con perilla pendiente de reposición
+B01	B	Teclados	B	HyperX Alloy Origins, tamaño completo	Precio aproximado / referencia USD	99,99 USD; precio promocional oficial
+B02	B	Teclados	A	Logitech K120	Formato	Completo, con bloque numérico
+B02	B	Teclados	B	Dell KB216, negro	Formato	Completo, con bloque numérico
+B02	B	Teclados	A	Logitech K120	Mecanismo	Membrana; teclas convencionales
+B02	B	Teclados	B	Dell KB216, negro	Mecanismo	Membrana/plunger; teclas de perfil bajo tipo chiclet
+B02	B	Teclados	A	Logitech K120	Conexión	USB-A con cable
+B02	B	Teclados	B	Dell KB216, negro	Conexión	USB-A con cable
+B02	B	Teclados	A	Logitech K120	Uso y funciones	Escritura básica; diseño resistente a salpicaduras
+B02	B	Teclados	B	Dell KB216, negro	Uso y funciones	Escritura de oficina; accesos multimedia
+B02	B	Teclados	A	Logitech K120	Precio aproximado / referencia USD	12,99 USD; tienda oficial
+B02	B	Teclados	B	Dell KB216, negro	Precio aproximado / referencia USD	14,99 USD; tienda oficial
+B03	B	Teclados	A	Wooting 80HE, preensamblado con carcasa ABS	Formato	80%, sin bloque numérico
+B03	B	Teclados	B	SteelSeries Apex Pro TKL Gen 3, cableado negro	Formato	TKL, sin bloque numérico
+B03	B	Teclados	A	Wooting 80HE, preensamblado con carcasa ABS	Mecanismo	Hall Effect; interruptores Lekker L60 V2
+B03	B	Teclados	B	SteelSeries Apex Pro TKL Gen 3, cableado negro	Mecanismo	Hall Effect; interruptores OmniPoint 3.0
+B03	B	Teclados	A	Wooting 80HE, preensamblado con carcasa ABS	Control de pulsación	Activación configurable, entrada analógica y Rapid Trigger
+B03	B	Teclados	B	SteelSeries Apex Pro TKL Gen 3, cableado negro	Control de pulsación	Activación de 0,1–4,0 mm; Rapid Trigger y modos de protección
+B03	B	Teclados	A	Wooting 80HE, preensamblado con carcasa ABS	Funciones destacadas	Sondeo de hasta 8.000 Hz; configuración Wootility
+B03	B	Teclados	B	SteelSeries Apex Pro TKL Gen 3, cableado negro	Funciones destacadas	Pantalla OLED, teclas PBT y ajustes con SteelSeries GG
+B03	B	Teclados	A	Wooting 80HE, preensamblado con carcasa ABS	Precio aproximado / referencia USD	199,99 USD; referencia oficial para ABS; tienda consultada agotada
+B03	B	Teclados	B	SteelSeries Apex Pro TKL Gen 3, cableado negro	Precio aproximado / referencia USD	219,99 USD; anuncio de Lenovo para Gen 3 TKL negro
+B04	B	Mouse	A	Razer DeathAdder V3, cableado	Sensor	Focus Pro 30K; hasta 30.000 DPI
+B04	B	Mouse	B	HyperX Pulsefire Haste 2, cableado	Sensor	HyperX 26K; hasta 26.000 DPI
+B04	B	Mouse	A	Razer DeathAdder V3, cableado	Peso publicado	59 g, sin cable
+B04	B	Mouse	B	HyperX Pulsefire Haste 2, cableado	Peso publicado	53 g, sin cable
+B04	B	Mouse	A	Razer DeathAdder V3, cableado	Sondeo máximo	Hasta 8.000 Hz
+B04	B	Mouse	B	HyperX Pulsefire Haste 2, cableado	Sondeo máximo	Hasta 8.000 Hz
+B04	B	Mouse	A	Razer DeathAdder V3, cableado	Diseño y botones	Ergonómico para diestros; 6 botones programables
+B04	B	Mouse	B	HyperX Pulsefire Haste 2, cableado	Diseño y botones	Forma simétrica; 6 botones programables
+B04	B	Mouse	A	Razer DeathAdder V3, cableado	Precio aproximado / referencia USD	69,99 USD; tienda oficial
+B04	B	Mouse	B	HyperX Pulsefire Haste 2, cableado	Precio aproximado / referencia USD	39,99 USD; oferta oficial
+B05	B	Mouse	A	Logitech Signature M650, tamaño estándar	Conexión	Bluetooth o receptor USB-A Logi Bolt
+B05	B	Mouse	B	HP 430 Multi-Device Wireless Mouse	Conexión	Bluetooth o receptor USB-A de 2,4 GHz
+B05	B	Mouse	A	Logitech Signature M650, tamaño estándar	Alimentación	Una batería AA; hasta 24 meses
+B05	B	Mouse	B	HP 430 Multi-Device Wireless Mouse	Alimentación	Una batería AA; hasta 24 meses
+B05	B	Mouse	A	Logitech Signature M650, tamaño estándar	Uso entre dispositivos	Un dispositivo conectado a la vez
+B05	B	Mouse	B	HP 430 Multi-Device Wireless Mouse	Uso entre dispositivos	Conmutación entre hasta dos dispositivos
+B05	B	Mouse	A	Logitech Signature M650, tamaño estándar	Funciones	Clic silencioso y rueda SmartWheel
+B05	B	Mouse	B	HP 430 Multi-Device Wireless Mouse	Funciones	Cuatro botones personalizables y sensor multisuperficie
+B05	B	Mouse	A	Logitech Signature M650, tamaño estándar	Precio aproximado / referencia USD	39,99 USD; tienda oficial
+B05	B	Mouse	B	HP 430 Multi-Device Wireless Mouse	Precio aproximado / referencia USD	25,99 USD; anuncio de Walmart
+B06	B	Mouse	A	Logitech Lift, blanco roto	Diseño	Inclinación de 57°; pensado para manos pequeñas o medianas
+B06	B	Mouse	B	Anker A7852, inalámbrico vertical	Diseño	Agarre vertical; cuerpo de 120 × 62,8 × 74,8 mm
+B06	B	Mouse	A	Logitech Lift, blanco roto	Conexión	Bluetooth o receptor USB-A Logi Bolt
+B06	B	Mouse	B	Anker A7852, inalámbrico vertical	Conexión	Receptor USB-A de 2,4 GHz; sin Bluetooth
+B06	B	Mouse	A	Logitech Lift, blanco roto	Alimentación	Una batería AA; hasta 24 meses
+B06	B	Mouse	B	Anker A7852, inalámbrico vertical	Alimentación	Dos baterías AAA, no incluidas
+B06	B	Mouse	A	Logitech Lift, blanco roto	Controles	SmartWheel y clic silencioso
+B06	B	Mouse	B	Anker A7852, inalámbrico vertical	Controles	800/1.200/1.600 DPI y botones adelante/atrás
+B06	B	Mouse	A	Logitech Lift, blanco roto	Precio aproximado / referencia USD	69,99 USD; precio promocional oficial de la variante consultada
+B06	B	Mouse	B	Anker A7852, inalámbrico vertical	Precio aproximado / referencia USD	29,99 USD; tienda oficial
+B07	B	Monitores	A	Dell P2725H, con soporte	Panel y tamaño	IPS de 27 pulgadas
+B07	B	Monitores	B	ASUS ProArt PA278QV original	Panel y tamaño	IPS de 27 pulgadas
+B07	B	Monitores	A	Dell P2725H, con soporte	Resolución / frecuencia	1.920 × 1.080; hasta 100 Hz
+B07	B	Monitores	B	ASUS ProArt PA278QV original	Resolución / frecuencia	2.560 × 1.440; hasta 75 Hz
+B07	B	Monitores	A	Dell P2725H, con soporte	Color	99% sRGB publicado
+B07	B	Monitores	B	ASUS ProArt PA278QV original	Color	100% sRGB y Rec.709; verificación Calman
+B07	B	Monitores	A	Dell P2725H, con soporte	Conexiones y soporte	HDMI, DisplayPort, VGA y hub USB; altura/giro/pivote
+B07	B	Monitores	B	ASUS ProArt PA278QV original	Conexiones y soporte	HDMI, DisplayPort, Mini DisplayPort y hub USB; altura/giro/pivote
+B07	B	Monitores	A	Dell P2725H, con soporte	Precio aproximado / referencia USD	224,99 USD; tienda Dell; incluye soporte
+B07	B	Monitores	B	ASUS ProArt PA278QV original	Precio aproximado / referencia USD	229,00 USD; precio de ASUS Store mostrado en soporte oficial
+B08	B	Monitores	A	Alienware AW2725DF	Panel / resolución	QD-OLED de 26,7 pulgadas; QHD 2.560 × 1.440
+B08	B	Monitores	B	MSI MPG 271QRX QD-OLED	Panel / resolución	QD-OLED de 26,5 pulgadas; QHD 2.560 × 1.440
+B08	B	Monitores	A	Alienware AW2725DF	Frecuencia / respuesta declarada	Hasta 360 Hz; 0,03 ms gris a gris
+B08	B	Monitores	B	MSI MPG 271QRX QD-OLED	Frecuencia / respuesta declarada	Hasta 360 Hz; 0,03 ms gris a gris
+B08	B	Monitores	A	Alienware AW2725DF	HDR	VESA DisplayHDR True Black 400
+B08	B	Monitores	B	MSI MPG 271QRX QD-OLED	HDR	VESA DisplayHDR True Black 400
+B08	B	Monitores	A	Alienware AW2725DF	Conexión destacada	DisplayPort y HDMI; hub USB
+B08	B	Monitores	B	MSI MPG 271QRX QD-OLED	Conexión destacada	HDMI 2.1, DisplayPort, USB-C con hasta 90 W y KVM
+B08	B	Monitores	A	Alienware AW2725DF	Precio aproximado / referencia USD	649,99 USD; tienda oficial Dell
+B08	B	Monitores	B	MSI MPG 271QRX QD-OLED	Precio aproximado / referencia USD	579,99 USD; oferta de MSI US Store sin accesorios de montaje
+B09	B	Monitores	A	BenQ MOBIUZ EX321UX	Panel / resolución	IPS de 31,5 pulgadas; 3.840 × 2.160
+B09	B	Monitores	B	Samsung Odyssey Neo G7 G75NB, 32 pulgadas	Panel / resolución	VA curvo de 32 pulgadas; 3.840 × 2.160
+B09	B	Monitores	A	BenQ MOBIUZ EX321UX	Frecuencia	Hasta 144 Hz
+B09	B	Monitores	B	Samsung Odyssey Neo G7 G75NB, 32 pulgadas	Frecuencia	Hasta 165 Hz
+B09	B	Monitores	A	BenQ MOBIUZ EX321UX	Iluminación y HDR	Mini LED de 1.152 zonas; DisplayHDR 1000
+B09	B	Monitores	B	Samsung Odyssey Neo G7 G75NB, 32 pulgadas	Iluminación y HDR	Quantum Mini LED; Quantum HDR 2000
+B09	B	Monitores	A	BenQ MOBIUZ EX321UX	Formato y conexiones	Plano; HDMI 2.1 y DisplayPort 2.1
+B09	B	Monitores	B	Samsung Odyssey Neo G7 G75NB, 32 pulgadas	Formato y conexiones	Curvatura 1000R; HDMI 2.1 y DisplayPort
+B09	B	Monitores	A	BenQ MOBIUZ EX321UX	Precio aproximado / referencia USD	1.299,99 USD; catálogo oficial BenQ
+B09	B	Monitores	B	Samsung Odyssey Neo G7 G75NB, 32 pulgadas	Precio aproximado / referencia USD	1.099,99 USD; referencia de la tienda oficial Samsung
+B10	B	Impresoras	A	Brother HL-L2405W	Funciones	Impresión en negro
+B10	B	Impresoras	B	HP LaserJet M209dw	Funciones	Impresión en negro
+B10	B	Impresoras	A	Brother HL-L2405W	Velocidad publicada	Hasta 30 ppm en papel carta
+B10	B	Impresoras	B	HP LaserJet M209dw	Velocidad publicada	Hasta 30 ppm carta; 28 ppm A4
+B10	B	Impresoras	A	Brother HL-L2405W	Papel / doble cara	Bandeja de 250 hojas; dúplex manual
+B10	B	Impresoras	B	HP LaserJet M209dw	Papel / doble cara	Bandeja de 150 hojas; dúplex automático
+B10	B	Impresoras	A	Brother HL-L2405W	Conexión	USB y Wi-Fi
+B10	B	Impresoras	B	HP LaserJet M209dw	Conexión	USB, Wi-Fi y Ethernet
+B10	B	Impresoras	A	Brother HL-L2405W	Precio aproximado / referencia USD	139,99 USD; tienda oficial
+B10	B	Impresoras	B	HP LaserJet M209dw	Precio aproximado / referencia USD	168,99 USD; anuncio de Walmart
+B11	B	Impresoras	A	Epson EcoTank ET-2800, blanca	Funciones	Imprimir, escanear y copiar
+B11	B	Impresoras	B	Canon MegaTank PIXMA G3290	Funciones	Imprimir, escanear y copiar
+B11	B	Impresoras	A	Epson EcoTank ET-2800, blanca	Velocidad ISO / ipm publicada	10 en negro; 5 en color
+B11	B	Impresoras	B	Canon MegaTank PIXMA G3290	Velocidad ISO / ipm publicada	11 en negro; 6 en color
+B11	B	Impresoras	A	Epson EcoTank ET-2800, blanca	Alimentación y doble cara	100 hojas; dúplex manual
+B11	B	Impresoras	B	Canon MegaTank PIXMA G3290	Alimentación y doble cara	100 hojas; dúplex automático
+B11	B	Impresoras	A	Epson EcoTank ET-2800, blanca	Escáner / conexión	Cama plana; USB y Wi-Fi
+B11	B	Impresoras	B	Canon MegaTank PIXMA G3290	Escáner / conexión	Cama plana; USB y Wi-Fi de 2,4/5 GHz; pantalla táctil de 2,7 pulgadas
+B11	B	Impresoras	A	Epson EcoTank ET-2800, blanca	Precio aproximado / referencia USD	239,99 USD; tienda oficial; versión blanca C11CJ66202
+B11	B	Impresoras	B	Canon MegaTank PIXMA G3290	Precio aproximado / referencia USD	269,99 USD; precio regular oficial, sin depender de una promoción vencida
+B12	B	Impresoras	A	Epson LX-350	Cabezal / ancho	9 agujas; 80 columnas a 10 caracteres por pulgada
+B12	B	Impresoras	B	OKI MICROLINE 320 TURBO, P/N 62411601	Cabezal / ancho	9 agujas; 80 columnas a 10 caracteres por pulgada
+B12	B	Impresoras	A	Epson LX-350	Velocidad de borrador	Hasta 347 caracteres por segundo a 10 cpi
+B12	B	Impresoras	B	OKI MICROLINE 320 TURBO, P/N 62411601	Velocidad de borrador	Hasta 435 caracteres por segundo en Super Speed Draft a 12 cpi
+B12	B	Impresoras	A	Epson LX-350	Consumible / uso	Cinta; formularios continuos y multicopia
+B12	B	Impresoras	B	OKI MICROLINE 320 TURBO, P/N 62411601	Consumible / uso	Cinta; formularios continuos y multicopia
+B12	B	Impresoras	A	Epson LX-350	Interfaz	USB, paralelo y serie
+B12	B	Impresoras	B	OKI MICROLINE 320 TURBO, P/N 62411601	Interfaz	Paralelo; otras interfaces dependen de la variante regional
+B12	B	Impresoras	A	Epson LX-350	Precio aproximado / referencia USD	275,25 USD; tienda oficial
+B12	B	Impresoras	B	OKI MICROLINE 320 TURBO, P/N 62411601	Precio aproximado / referencia USD	900,00 USD; anuncio de unidad reacondicionada en Walmart
+B13	B	Escáneres	A	Epson Perfection V39 II	Tecnología / resolución óptica	CIS; hasta 4.800 dpi
+B13	B	Escáneres	B	Canon CanoScan LiDE 400	Tecnología / resolución óptica	CIS; hasta 4.800 × 4.800 dpi
+B13	B	Escáneres	A	Epson Perfection V39 II	Originales	Documentos y fotos hasta tamaño carta/A4
+B13	B	Escáneres	B	Canon CanoScan LiDE 400	Originales	Documentos y fotos hasta tamaño carta/A4
+B13	B	Escáneres	A	Epson Perfection V39 II	Conexión / energía	USB; alimentado desde la computadora
+B13	B	Escáneres	B	Canon CanoScan LiDE 400	Conexión / energía	USB-C; alimentado desde la computadora
+B13	B	Escáneres	A	Epson Perfection V39 II	Diseño	Tapa desmontable y soporte integrado
+B13	B	Escáneres	B	Canon CanoScan LiDE 400	Diseño	Soporte para posición vertical y botones de acceso rápido
+B13	B	Escáneres	A	Epson Perfection V39 II	Precio aproximado / referencia USD	129,99 USD; tienda oficial
+B13	B	Escáneres	B	Canon CanoScan LiDE 400	Precio aproximado / referencia USD	97,99 USD; tienda oficial
+B14	B	Escáneres	A	Brother ADS-1800W	Velocidad publicada	Hasta 30 ppm / 60 imágenes por minuto
+B14	B	Escáneres	B	Ricoh ScanSnap iX2500, modelo base	Velocidad publicada	Hasta 45 ppm / 90 imágenes por minuto, A4 a 300 dpi
+B14	B	Escáneres	A	Brother ADS-1800W	Alimentador	20 hojas; escaneo dúplex automático
+B14	B	Escáneres	B	Ricoh ScanSnap iX2500, modelo base	Alimentador	100 hojas; escaneo dúplex automático
+B14	B	Escáneres	A	Brother ADS-1800W	Interfaz de usuario	Pantalla táctil de 2,8 pulgadas
+B14	B	Escáneres	B	Ricoh ScanSnap iX2500, modelo base	Interfaz de usuario	Pantalla táctil de 5 pulgadas
+B14	B	Escáneres	A	Brother ADS-1800W	Conexión	USB y Wi-Fi
+B14	B	Escáneres	B	Ricoh ScanSnap iX2500, modelo base	Conexión	USB-C con USB 3.2 Gen1 y Wi-Fi
+B14	B	Escáneres	A	Brother ADS-1800W	Precio aproximado / referencia USD	294,99 USD; oferta oficial
+B14	B	Escáneres	B	Ricoh ScanSnap iX2500, modelo base	Precio aproximado / referencia USD	399,99 USD; tienda oficial PFU Ricoh; modelo base blanco o negro
+B15	B	Escáneres	A	Brother DS-640	Alimentación de originales	Una hoja cada vez; una cara por pasada
+B15	B	Escáneres	B	Epson WorkForce ES-50	Alimentación de originales	Una hoja cada vez; una cara por pasada
+B15	B	Escáneres	A	Brother DS-640	Velocidad publicada	Hasta 16 ppm en carta / 15 ppm en A4
+B15	B	Escáneres	B	Epson WorkForce ES-50	Velocidad publicada	Una página en apenas 5,5 segundos, según condiciones del fabricante
+B15	B	Escáneres	A	Brother DS-640	Resolución óptica	Hasta 600 dpi
+B15	B	Escáneres	B	Epson WorkForce ES-50	Resolución óptica	Hasta 600 dpi
+B15	B	Escáneres	A	Brother DS-640	Conexión / energía	USB; energía desde la computadora
+B15	B	Escáneres	B	Epson WorkForce ES-50	Conexión / energía	USB; energía desde la computadora
+B15	B	Escáneres	A	Brother DS-640	Precio aproximado / referencia USD	134,99 USD; precio oficial de la variante nueva
+B15	B	Escáneres	B	Epson WorkForce ES-50	Precio aproximado / referencia USD	139,99 USD; oferta del catálogo oficial para WorkForce ES-50
+B16	B	Fotocopiadoras	A	Brother MFC-L5915DW	Funciones / tecnología	Impresión, copia, escaneo y fax; láser monocromática
+B16	B	Fotocopiadoras	B	Canon imageCLASS MF455dw	Funciones / tecnología	Impresión, copia, escaneo y fax; láser monocromática
+B16	B	Fotocopiadoras	A	Brother MFC-L5915DW	Velocidad en carta	Hasta 50 ppm
+B16	B	Fotocopiadoras	B	Canon imageCLASS MF455dw	Velocidad en carta	Hasta 40 ppm
+B16	B	Fotocopiadoras	A	Brother MFC-L5915DW	Alimentación	ADF de 70 hojas; 350 hojas de papel estándar
+B16	B	Fotocopiadoras	B	Canon imageCLASS MF455dw	Alimentación	ADF de 50 hojas; 350 hojas de papel estándar
+B16	B	Fotocopiadoras	A	Brother MFC-L5915DW	Doble cara / conexión	Impresión y escaneo dúplex; USB, Wi-Fi y Gigabit Ethernet
+B16	B	Fotocopiadoras	B	Canon imageCLASS MF455dw	Doble cara / conexión	Impresión y escaneo dúplex; USB, Wi-Fi y Ethernet
+B16	B	Fotocopiadoras	A	Brother MFC-L5915DW	Precio aproximado / referencia USD	589,99 USD; precio oficial; agotada
+B16	B	Fotocopiadoras	B	Canon imageCLASS MF455dw	Precio aproximado / referencia USD	446,00 USD; referencia de Walmart; agotada
+B17	B	Fotocopiadoras	A	Canon Color imageCLASS MF753Cdw II	Funciones / tecnología	Impresión, copia, escaneo y fax; láser a color
+B17	B	Fotocopiadoras	B	Brother MFC-L3780CDW	Funciones / tecnología	Impresión, copia, escaneo y fax; LED a color con tóner
+B17	B	Fotocopiadoras	A	Canon Color imageCLASS MF753Cdw II	Velocidad en carta	Hasta 35 ppm en negro y color
+B17	B	Fotocopiadoras	B	Brother MFC-L3780CDW	Velocidad en carta	Hasta 31 ppm en negro y color
+B17	B	Fotocopiadoras	A	Canon Color imageCLASS MF753Cdw II	Papel / ADF	300 hojas estándar; ADF de 50 hojas
+B17	B	Fotocopiadoras	B	Brother MFC-L3780CDW	Papel / ADF	280 hojas estándar; ADF de 50 hojas
+B17	B	Fotocopiadoras	A	Canon Color imageCLASS MF753Cdw II	Dúplex / red	Impresión y escaneo dúplex; Wi-Fi y Ethernet
+B17	B	Fotocopiadoras	B	Brother MFC-L3780CDW	Dúplex / red	Impresión y escaneo dúplex; Wi-Fi y Gigabit Ethernet
+B17	B	Fotocopiadoras	A	Canon Color imageCLASS MF753Cdw II	Precio aproximado / referencia USD	499,99 USD; precio promocional de la tienda oficial
+B17	B	Fotocopiadoras	B	Brother MFC-L3780CDW	Precio aproximado / referencia USD	569,99 USD; tienda oficial
+B18	B	Fotocopiadoras	A	HP Color LaserJet Enterprise MFP M480f	Formato / funciones	Carta/A4; impresión, copia, escaneo y fax
+B18	B	Fotocopiadoras	B	Xerox VersaLink C625	Formato / funciones	Carta/A4; impresión, copia, escaneo y fax
+B18	B	Fotocopiadoras	A	HP Color LaserJet Enterprise MFP M480f	Velocidad publicada	Hasta 29 ppm carta / 27 ppm A4
+B18	B	Fotocopiadoras	B	Xerox VersaLink C625	Velocidad publicada	Hasta 52 ppm carta / 50 ppm A4
+B18	B	Fotocopiadoras	A	HP Color LaserJet Enterprise MFP M480f	Gestión	Firmware FutureSmart y administración con HP Web Jetadmin
+B18	B	Fotocopiadoras	B	Xerox VersaLink C625	Gestión	Plataforma ConnectKey y aplicaciones de flujo de trabajo
+B18	B	Fotocopiadoras	A	HP Color LaserJet Enterprise MFP M480f	Conexión	USB y Ethernet; opciones inalámbricas según configuración
+B18	B	Fotocopiadoras	B	Xerox VersaLink C625	Conexión	USB y Ethernet; Wi-Fi opcional
+B18	B	Fotocopiadoras	A	HP Color LaserJet Enterprise MFP M480f	Precio aproximado / referencia USD	988,90 USD; anuncio de Walmart, vendedor externo
+B18	B	Fotocopiadoras	B	Xerox VersaLink C625	Precio aproximado / referencia USD	3.199,00 USD; tienda oficial Xerox
+B19	B	Cañoneras / proyectores	A	BenQ TH575	Tecnología / resolución nativa	DLP; Full HD 1.920 × 1.080
+B19	B	Cañoneras / proyectores	B	ViewSonic PA503HD	Tecnología / resolución nativa	DLP; Full HD 1.920 × 1.080
+B19	B	Cañoneras / proyectores	A	BenQ TH575	Brillo publicado	3.800 lúmenes ANSI
+B19	B	Cañoneras / proyectores	B	ViewSonic PA503HD	Brillo publicado	4.000 lúmenes ANSI
+B19	B	Cañoneras / proyectores	A	BenQ TH575	Fuente de luz / zoom	Lámpara; zoom óptico de 1,1×
+B19	B	Cañoneras / proyectores	B	ViewSonic PA503HD	Fuente de luz / zoom	Lámpara; zoom óptico de 1,1×
+B19	B	Cañoneras / proyectores	A	BenQ TH575	Proyección / conexión	Relación de tiro 1,49–1,64; entradas HDMI
+B19	B	Cañoneras / proyectores	B	ViewSonic PA503HD	Proyección / conexión	Relación de tiro 1,4–1,6; entradas HDMI
+B19	B	Cañoneras / proyectores	A	BenQ TH575	Precio aproximado / referencia USD	749,00 USD; anuncio de Best Buy
+B19	B	Cañoneras / proyectores	B	ViewSonic PA503HD	Precio aproximado / referencia USD	649,99 USD; tienda oficial ViewSonic
+B20	B	Cañoneras / proyectores	A	Epson Home Cinema 1100	Tecnología	Tres paneles LCD: 3LCD
+B20	B	Cañoneras / proyectores	B	Panasonic PT-VW360	Tecnología	Tres paneles LCD: 3LCD
+B20	B	Cañoneras / proyectores	A	Epson Home Cinema 1100	Resolución nativa	1.920 × 1.080, Full HD
+B20	B	Cañoneras / proyectores	B	Panasonic PT-VW360	Resolución nativa	1.280 × 800, WXGA
+B20	B	Cañoneras / proyectores	A	Epson Home Cinema 1100	Brillo publicado	3.400 lúmenes blancos ISO y 3.400 de color IDMS
+B20	B	Cañoneras / proyectores	B	Panasonic PT-VW360	Brillo publicado	4.000 lúmenes ANSI
+B20	B	Cañoneras / proyectores	A	Epson Home Cinema 1100	Funciones / óptica	Dos HDMI, altavoz y compatibilidad con AirPlay
+B20	B	Cañoneras / proyectores	B	Panasonic PT-VW360	Funciones / óptica	Zoom óptico de 1,6×; funciones para presentaciones
+B20	B	Cañoneras / proyectores	A	Epson Home Cinema 1100	Precio aproximado / referencia USD	879,99 USD; oferta de Epson consultada
+B20	B	Cañoneras / proyectores	B	Panasonic PT-VW360	Precio aproximado / referencia USD	1.349 USD; precio minorista histórico de referencia recogido por ProjectorCentral
+B21	B	Cañoneras / proyectores	A	BenQ GV50	Tecnología / resolución	DLP con láser; 1.920 × 1.080
+B21	B	Cañoneras / proyectores	B	Epson EpiqVision Mini EF22	Tecnología / resolución	3LCD con láser; 1.920 × 1.080
+B21	B	Cañoneras / proyectores	A	BenQ GV50	Brillo publicado	500 lúmenes ANSI
+B21	B	Cañoneras / proyectores	B	Epson EpiqVision Mini EF22	Brillo publicado	1.000 lúmenes blancos ISO y 1.000 de color IDMS
+B21	B	Cañoneras / proyectores	A	BenQ GV50	Uso portátil	Batería integrada y soporte para proyección al techo
+B21	B	Cañoneras / proyectores	B	Epson EpiqVision Mini EF22	Uso portátil	Soporte giratorio e inclinable; requiere alimentación de red
+B21	B	Cañoneras / proyectores	A	BenQ GV50	Funciones	Google TV; audio 2.1 integrado
+B21	B	Cañoneras / proyectores	B	Epson EpiqVision Mini EF22	Funciones	Google TV; dos altavoces de 5 W
+B21	B	Cañoneras / proyectores	A	BenQ GV50	Precio aproximado / referencia USD	649,99 USD; oferta de Best Buy
+B21	B	Cañoneras / proyectores	B	Epson EpiqVision Mini EF22	Precio aproximado / referencia USD	999,99 USD; MSRP histórico de lanzamiento publicado por Epson
+B22	B	Micrófonos	A	Shure SM58-LC	Transductor / patrón	Dinámico; cardioide
+B22	B	Micrófonos	B	Sennheiser e 835, sin interruptor	Transductor / patrón	Dinámico; cardioide
+B22	B	Micrófonos	A	Shure SM58-LC	Respuesta en frecuencia	50 Hz–15 kHz
+B22	B	Micrófonos	B	Sennheiser e 835, sin interruptor	Respuesta en frecuencia	40 Hz–16 kHz
+B22	B	Micrófonos	A	Shure SM58-LC	Conexión / alimentación	XLR de tres pines; no requiere alimentación phantom
+B22	B	Micrófonos	B	Sennheiser e 835, sin interruptor	Conexión / alimentación	XLR de tres pines; no requiere alimentación phantom
+B22	B	Micrófonos	A	Shure SM58-LC	Aplicación	Voz en escenario; rejilla con filtro antipop
+B22	B	Micrófonos	B	Sennheiser e 835, sin interruptor	Aplicación	Voz en escenario; cuerpo metálico
+B22	B	Micrófonos	A	Shure SM58-LC	Precio aproximado / referencia USD	109,00 USD; anuncio de Sweetwater para micrófono individual
+B22	B	Micrófonos	B	Sennheiser e 835, sin interruptor	Precio aproximado / referencia USD	99,95 USD; MSRP publicado por Sennheiser, referencia de 2025
+B23	B	Micrófonos	A	Audio-Technica AT2020, XLR	Transductor / patrón	Condensador; cardioide
+B23	B	Micrófonos	B	RØDE NT1 Signature Series, negro	Transductor / patrón	Condensador de cápsula de una pulgada; cardioide
+B23	B	Micrófonos	A	Audio-Technica AT2020, XLR	Respuesta en frecuencia	20 Hz–20 kHz
+B23	B	Micrófonos	B	RØDE NT1 Signature Series, negro	Respuesta en frecuencia	20 Hz–20 kHz
+B23	B	Micrófonos	A	Audio-Technica AT2020, XLR	Ruido propio / presión máxima	20 dBA; 144 dB SPL
+B23	B	Micrófonos	B	RØDE NT1 Signature Series, negro	Ruido propio / presión máxima	4 dBA; 142 dB SPL
+B23	B	Micrófonos	A	Audio-Technica AT2020, XLR	Conexión / accesorios	XLR; alimentación phantom de 48 V
+B23	B	Micrófonos	B	RØDE NT1 Signature Series, negro	Conexión / accesorios	XLR; alimentación phantom; suspensión y filtro antipop incluidos
+B23	B	Micrófonos	A	Audio-Technica AT2020, XLR	Precio aproximado / referencia USD	99,00 USD; referencia del catálogo oficial Audio-Technica de 2024
+B23	B	Micrófonos	B	RØDE NT1 Signature Series, negro	Precio aproximado / referencia USD	159,00 USD; anuncio de Guitar Center
+B24	B	Micrófonos	A	RØDE Lavalier GO	Patrón / cápsula	Omnidireccional; cápsula de 4,5 mm
+B24	B	Micrófonos	B	Sennheiser XS Lav Mobile, 509260	Patrón / cápsula	Omnidireccional; cápsula de condensador
+B24	B	Micrófonos	A	RØDE Lavalier GO	Conector	Minijack de 3,5 mm TRS
+B24	B	Micrófonos	B	Sennheiser XS Lav Mobile, 509260	Conector	Minijack de 3,5 mm TRRS
+B24	B	Micrófonos	A	RØDE Lavalier GO	Cable	Aproximadamente 1,2 m
+B24	B	Micrófonos	B	Sennheiser XS Lav Mobile, 509260	Cable	Aproximadamente 2 m
+B24	B	Micrófonos	A	RØDE Lavalier GO	Destino típico	Transmisores y grabadores con entrada TRS y alimentación compatible
+B24	B	Micrófonos	B	Sennheiser XS Lav Mobile, 509260	Destino típico	Teléfonos y computadoras con entrada de auricular/micrófono TRRS
+B24	B	Micrófonos	A	RØDE Lavalier GO	Precio aproximado / referencia USD	69,99 USD; oferta de Best Buy
+B24	B	Micrófonos	B	Sennheiser XS Lav Mobile, 509260	Precio aproximado / referencia USD	55,00 USD; precio MAP publicado por Empire Pro
+B25	B	Bocinas	A	Edifier MR4, par	Configuración	Dos bocinas activas/pasivas emparejadas; sin subwoofer
+B25	B	Bocinas	B	PreSonus Eris 3.5, segunda generación, par	Configuración	Dos bocinas activas/pasivas emparejadas; sin subwoofer
+B25	B	Bocinas	A	Edifier MR4, par	Transductores	Woofer de 4 pulgadas y tweeter de una pulgada
+B25	B	Bocinas	B	PreSonus Eris 3.5, segunda generación, par	Transductores	Woofer de 3,5 pulgadas y tweeter de una pulgada
+B25	B	Bocinas	A	Edifier MR4, par	Potencia RMS publicada	42 W totales: 21 + 21 W
+B25	B	Bocinas	B	PreSonus Eris 3.5, segunda generación, par	Potencia RMS publicada	50 W totales: 25 + 25 W
+B25	B	Bocinas	A	Edifier MR4, par	Entradas / salida	TRS balanceadas, RCA y auxiliar de 3,5 mm; auriculares
+B25	B	Bocinas	B	PreSonus Eris 3.5, segunda generación, par	Entradas / salida	TRS balanceadas, RCA y auxiliar de 3,5 mm; auriculares
+B25	B	Bocinas	A	Edifier MR4, par	Precio aproximado / referencia USD	169,99 USD; tienda oficial estadounidense
+B25	B	Bocinas	B	PreSonus Eris 3.5, segunda generación, par	Precio aproximado / referencia USD	99,99 USD; tienda oficial; par sin Bluetooth
+B26	B	Bocinas	A	Logitech Z623	Configuración	Dos satélites y subwoofer
+B26	B	Bocinas	B	Creative Pebble Plus	Configuración	Dos satélites y subwoofer
+B26	B	Bocinas	A	Logitech Z623	Potencia RMS publicada	200 W totales
+B26	B	Bocinas	B	Creative Pebble Plus	Potencia RMS publicada	Hasta 8 W totales en modo de alta ganancia
+B26	B	Bocinas	A	Logitech Z623	Señal de audio	Entrada analógica de 3,5 mm y RCA
+B26	B	Bocinas	B	Creative Pebble Plus	Señal de audio	Entrada analógica de 3,5 mm
+B26	B	Bocinas	A	Logitech Z623	Alimentación / uso	Red eléctrica; sistema con certificación THX
+B26	B	Bocinas	B	Creative Pebble Plus	Alimentación / uso	USB para energía; adaptador de 5 V / 2 A para máximo rendimiento
+B26	B	Bocinas	A	Logitech Z623	Precio aproximado / referencia USD	170,99 USD; oferta de Best Buy consultada
+B26	B	Bocinas	B	Creative Pebble Plus	Precio aproximado / referencia USD	52,24 USD; precio promocional oficial
+B27	B	Bocinas	A	JBL Flip 6	Conexión / autonomía	Bluetooth; hasta 12 horas
+B27	B	Bocinas	B	Sony ULT FIELD 1, SRS-ULT10, blanco	Conexión / autonomía	Bluetooth; hasta 12 horas
+B27	B	Bocinas	A	JBL Flip 6	Protección	IP67: resistencia al agua y polvo
+B27	B	Bocinas	B	Sony ULT FIELD 1, SRS-ULT10, blanco	Protección	IP67: resistencia al agua y polvo
+B27	B	Bocinas	A	JBL Flip 6	Audio / funciones	Woofer y tweeter; 30 W RMS totales
+B27	B	Bocinas	B	Sony ULT FIELD 1, SRS-ULT10, blanco	Audio / funciones	Modo ULT para reforzar graves; reproducción portátil
+B27	B	Bocinas	A	JBL Flip 6	Uso adicional	PartyBoost con modelos compatibles; sin micrófono de llamadas
+B27	B	Bocinas	B	Sony ULT FIELD 1, SRS-ULT10, blanco	Uso adicional	Micrófono integrado para llamadas; correa de transporte
+B27	B	Bocinas	A	JBL Flip 6	Precio aproximado / referencia USD	129,95 USD; referencia de la tienda oficial JBL
+B27	B	Bocinas	B	Sony ULT FIELD 1, SRS-ULT10, blanco	Precio aproximado / referencia USD	99,99–139,99 USD; dos referencias oficiales Sony, con y sin promoción
+B28	B	Auriculares	A	HyperX Cloud III	Transductores	53 mm
+B28	B	Auriculares	B	SteelSeries Arctis Nova 1P, negro	Transductores	40 mm
+B28	B	Auriculares	A	HyperX Cloud III	Conexión	3,5 mm, USB-A y USB-C mediante adaptador incluido
+B28	B	Auriculares	B	SteelSeries Arctis Nova 1P, negro	Conexión	3,5 mm; cable/adaptación según dispositivo
+B28	B	Auriculares	A	HyperX Cloud III	Micrófono	Desmontable, con cancelación de ruido de fondo
+B28	B	Auriculares	B	SteelSeries Arctis Nova 1P, negro	Micrófono	Retráctil, con cancelación de ruido de fondo
+B28	B	Auriculares	A	HyperX Cloud III	Diseño	Copas cerradas; controles de volumen y micrófono
+B28	B	Auriculares	B	SteelSeries Arctis Nova 1P, negro	Diseño	Copas cerradas; banda ajustable y diseño ligero
+B28	B	Auriculares	A	HyperX Cloud III	Precio aproximado / referencia USD	69,99 USD; oferta oficial
+B28	B	Auriculares	B	SteelSeries Arctis Nova 1P, negro	Precio aproximado / referencia USD	59,99 USD; referencia de Lenovo para Nova 1P negro
+B29	B	Auriculares	A	Sony WH-1000XM5, negro	Conexión	Bluetooth multipunto; entrada analógica
+B29	B	Auriculares	B	Bose QuietComfort Headphones, versión de 2023	Conexión	Bluetooth multipunto; cable de audio con micrófono
+B29	B	Auriculares	A	Sony WH-1000XM5, negro	Autonomía publicada	Hasta 30 horas con ANC
+B29	B	Auriculares	B	Bose QuietComfort Headphones, versión de 2023	Autonomía publicada	Hasta 24 horas
+B29	B	Auriculares	A	Sony WH-1000XM5, negro	Cancelación / controles	ANC y modo ambiente; controles táctiles
+B29	B	Auriculares	B	Bose QuietComfort Headphones, versión de 2023	Cancelación / controles	Modos Quiet, Aware y personalizados; controles físicos
+B29	B	Auriculares	A	Sony WH-1000XM5, negro	Diseño	Diadema y copas que giran; sin plegado compacto de la diadema
+B29	B	Auriculares	B	Bose QuietComfort Headphones, versión de 2023	Diseño	Diadema plegable para transporte
+B29	B	Auriculares	A	Sony WH-1000XM5, negro	Precio aproximado / referencia USD	299,99 USD; oferta oficial Sony
+B29	B	Auriculares	B	Bose QuietComfort Headphones, versión de 2023	Precio aproximado / referencia USD	359,00 USD; tienda oficial Bose para la versión indicada
+B30	B	Auriculares	A	Audio-Technica ATH-M50x	Diseño / transductor	Cerrado; dinámico de 45 mm
+B30	B	Auriculares	B	Beyerdynamic DT 770 PRO, 80 Ω	Diseño / transductor	Cerrado; dinámico
+B30	B	Auriculares	A	Audio-Technica ATH-M50x	Impedancia	38 Ω
+B30	B	Auriculares	B	Beyerdynamic DT 770 PRO, 80 Ω	Impedancia	80 Ω
+B30	B	Auriculares	A	Audio-Technica ATH-M50x	Cable	Desmontable; varios cables incluidos
+B30	B	Auriculares	B	Beyerdynamic DT 770 PRO, 80 Ω	Cable	Fijo, de aproximadamente tres metros
+B30	B	Auriculares	A	Audio-Technica ATH-M50x	Uso y ajuste	Copas giratorias y estructura plegable
+B30	B	Auriculares	B	Beyerdynamic DT 770 PRO, 80 Ω	Uso y ajuste	Almohadillas de terciopelo; construcción de estudio
+B30	B	Auriculares	A	Audio-Technica ATH-M50x	Precio aproximado / referencia USD	159,00 USD; referencia del catálogo oficial de 2026
+B30	B	Auriculares	B	Beyerdynamic DT 770 PRO, 80 Ω	Precio aproximado / referencia USD	179,99 USD; oferta de la tienda oficial norteamericana
+B31	B	Webcams	A	Logitech C920s Pro HD	Video	1.920 × 1.080 a 30 fps
+B31	B	Webcams	B	Razer Kiyo original	Video	1.920 × 1.080 a 30 fps; 720p a 60 fps
+B31	B	Webcams	A	Logitech C920s Pro HD	Enfoque / campo de visión	Automático; diagonal de 78°
+B31	B	Webcams	B	Razer Kiyo original	Enfoque / campo de visión	Automático; diagonal de 81,6°
+B31	B	Webcams	A	Logitech C920s Pro HD	Audio	Dos micrófonos para audio estéreo
+B31	B	Webcams	B	Razer Kiyo original	Audio	Micrófono integrado
+B31	B	Webcams	A	Logitech C920s Pro HD	Conexión / función adicional	USB-A; tapa de privacidad
+B31	B	Webcams	B	Razer Kiyo original	Conexión / función adicional	USB-A; aro de iluminación LED ajustable
+B31	B	Webcams	A	Logitech C920s Pro HD	Precio aproximado / referencia USD	69,99 USD; tienda oficial Logitech
+B31	B	Webcams	B	Razer Kiyo original	Precio aproximado / referencia USD	99,99 USD; anuncio de Walmart para Kiyo con aro de luz
+B32	B	Webcams	A	Logitech Brio 4K	Video	4K a 30 fps; Full HD hasta 60 fps
+B32	B	Webcams	B	Dell UltraSharp Webcam WB7022	Video	4K a 30 fps; Full HD hasta 60 fps
+B32	B	Webcams	A	Logitech Brio 4K	Campo de visión	65° / 78° / 90° seleccionables
+B32	B	Webcams	B	Dell UltraSharp Webcam WB7022	Campo de visión	65° / 78° / 90° seleccionables
+B32	B	Webcams	A	Logitech Brio 4K	Funciones	HDR y sensor infrarrojo para Windows Hello
+B32	B	Webcams	B	Dell UltraSharp Webcam WB7022	Funciones	Sensor Sony STARVIS, HDR y encuadre automático; Windows Hello
+B32	B	Webcams	A	Logitech Brio 4K	Audio / conexión	Dos micrófonos; conexión USB
+B32	B	Webcams	B	Dell UltraSharp Webcam WB7022	Audio / conexión	Sin micrófono integrado; conexión USB-C
+B32	B	Webcams	A	Logitech Brio 4K	Precio aproximado / referencia USD	169,99 USD; tienda oficial
+B32	B	Webcams	B	Dell UltraSharp Webcam WB7022	Precio aproximado / referencia USD	199,99 USD; precio oficial de lanzamiento, referencia histórica
+B33	B	Webcams	A	Insta360 Link 2, Graphite Black Standard Bundle	Video / sensor	4K a 30 fps; sensor de 1/2 pulgada
+B33	B	Webcams	B	OBSBOT Tiny 2, cámara individual	Video / sensor	4K a 30 fps; sensor de 1/1,5 pulgadas
+B33	B	Webcams	A	Insta360 Link 2, Graphite Black Standard Bundle	Movimiento	Gimbal motorizado de dos ejes
+B33	B	Webcams	B	OBSBOT Tiny 2, cámara individual	Movimiento	Gimbal motorizado con seguimiento y encuadre
+B33	B	Webcams	A	Insta360 Link 2, Graphite Black Standard Bundle	Control	Seguimiento por IA y gestos
+B33	B	Webcams	B	OBSBOT Tiny 2, cámara individual	Control	Seguimiento por IA, gestos y comandos de voz
+B33	B	Webcams	A	Insta360 Link 2, Graphite Black Standard Bundle	Conexión / sonido	USB; micrófonos integrados
+B33	B	Webcams	B	OBSBOT Tiny 2, cámara individual	Conexión / sonido	USB 3.0; micrófonos integrados
+B33	B	Webcams	A	Insta360 Link 2, Graphite Black Standard Bundle	Precio aproximado / referencia USD	279,99 USD; tienda oficial regional, precio expresado en USD
+B33	B	Webcams	B	OBSBOT Tiny 2, cámara individual	Precio aproximado / referencia USD	299,00 USD; referencia oficial de la cámara individual, sin combo
+B34	B	Controladores de videojuegos	A	Microsoft Xbox Wireless Controller, Carbon Black	Conexión	Xbox Wireless, Bluetooth o USB-C
+B34	B	Controladores de videojuegos	B	Sony DualSense, Midnight Black	Conexión	Bluetooth o USB-C
+B34	B	Controladores de videojuegos	A	Microsoft Xbox Wireless Controller, Carbon Black	Alimentación	Dos baterías AA; kit recargable opcional
+B34	B	Controladores de videojuegos	B	Sony DualSense, Midnight Black	Alimentación	Batería recargable integrada
+B34	B	Controladores de videojuegos	A	Microsoft Xbox Wireless Controller, Carbon Black	Funciones	Vibración, botón Compartir y entrada de auriculares
+B34	B	Controladores de videojuegos	B	Sony DualSense, Midnight Black	Funciones	Respuesta háptica, gatillos adaptativos, panel táctil y micrófono
+B34	B	Controladores de videojuegos	A	Microsoft Xbox Wireless Controller, Carbon Black	Plataforma principal	Xbox Series/One y Windows; otros dispositivos compatibles
+B34	B	Controladores de videojuegos	B	Sony DualSense, Midnight Black	Plataforma principal	PS5; PC, Mac y móviles compatibles
+B34	B	Controladores de videojuegos	A	Microsoft Xbox Wireless Controller, Carbon Black	Precio aproximado / referencia USD	49,06 USD; oferta de Microsoft Store; precio regular 64,99 USD
+B34	B	Controladores de videojuegos	B	Sony DualSense, Midnight Black	Precio aproximado / referencia USD	74,99 USD; anuncio de Best Buy
+B35	B	Controladores de videojuegos	A	Logitech G923, versión Xbox/PC	Retroalimentación	Dos motores con engranajes y TRUEFORCE
+B35	B	Controladores de videojuegos	B	Thrustmaster T300RS GT Edition	Retroalimentación	Motor sin escobillas y sistema de doble correa
+B35	B	Controladores de videojuegos	A	Logitech G923, versión Xbox/PC	Giro máximo	Hasta 900°
+B35	B	Controladores de videojuegos	B	Thrustmaster T300RS GT Edition	Giro máximo	Hasta 1.080°
+B35	B	Controladores de videojuegos	A	Logitech G923, versión Xbox/PC	Pedales incluidos	Tres: acelerador, freno y embrague
+B35	B	Controladores de videojuegos	B	Thrustmaster T300RS GT Edition	Pedales incluidos	Tres: conjunto T3PA GT
+B35	B	Controladores de videojuegos	A	Logitech G923, versión Xbox/PC	Compatibilidad	Xbox Series/One y PC en la versión elegida
+B35	B	Controladores de videojuegos	B	Thrustmaster T300RS GT Edition	Compatibilidad	PlayStation y PC; revisar lista de juegos compatible
+B35	B	Controladores de videojuegos	A	Logitech G923, versión Xbox/PC	Precio aproximado / referencia USD	299,99 USD; referencia de la tienda Logitech G
+B35	B	Controladores de videojuegos	B	Thrustmaster T300RS GT Edition	Precio aproximado / referencia USD	449,99 USD; referencia oficial Thrustmaster
+B36	B	Controladores de videojuegos	A	Logitech X56 HOTAS	Conjunto	Joystick y módulo de doble acelerador
+B36	B	Controladores de videojuegos	B	Thrustmaster T.16000M FCS HOTAS	Conjunto	Joystick y acelerador TWCS
+B36	B	Controladores de videojuegos	A	Logitech X56 HOTAS	Sensores / control	Sensores de efecto Hall y numerosos controles configurables
+B36	B	Controladores de videojuegos	B	Thrustmaster T.16000M FCS HOTAS	Sensores / control	Sensor magnético H.E.A.R.T. en el joystick; 16 bits en ejes principales
+B36	B	Controladores de videojuegos	A	Logitech X56 HOTAS	Diseño	Aceleradores separables para dos motores; iluminación RGB
+B36	B	Controladores de videojuegos	B	Thrustmaster T.16000M FCS HOTAS	Diseño	Joystick adaptable a mano derecha/izquierda; acelerador deslizante
+B36	B	Controladores de videojuegos	A	Logitech X56 HOTAS	Conexión / plataforma	USB; computadora Windows
+B36	B	Controladores de videojuegos	B	Thrustmaster T.16000M FCS HOTAS	Conexión / plataforma	USB; computadora Windows
+B36	B	Controladores de videojuegos	A	Logitech X56 HOTAS	Precio aproximado / referencia USD	199,99 USD; oferta oficial Logitech G
+B36	B	Controladores de videojuegos	B	Thrustmaster T.16000M FCS HOTAS	Precio aproximado / referencia USD	169,99 USD; tienda oficial Thrustmaster
+B37	B	Almacenamiento externo	A	Seagate Expansion Portable, STKM2000400	Capacidad / tecnología	2 TB; disco magnético portátil
+B37	B	Almacenamiento externo	B	WD My Passport, WDBYVG0020BBK-WESN	Capacidad / tecnología	2 TB; disco magnético portátil
+B37	B	Almacenamiento externo	A	Seagate Expansion Portable, STKM2000400	Interfaz	USB 3.0, hasta 5 Gb/s de enlace; conector Micro-B
+B37	B	Almacenamiento externo	B	WD My Passport, WDBYVG0020BBK-WESN	Interfaz	USB 3.0, hasta 5 Gb/s de enlace; conector Micro-B
+B37	B	Almacenamiento externo	A	Seagate Expansion Portable, STKM2000400	Alimentación	Desde USB; sin adaptador eléctrico independiente
+B37	B	Almacenamiento externo	B	WD My Passport, WDBYVG0020BBK-WESN	Alimentación	Desde USB; sin adaptador eléctrico independiente
+B37	B	Almacenamiento externo	A	Seagate Expansion Portable, STKM2000400	Funciones	Almacenamiento y copia de archivos; formato NTFS de fábrica
+B37	B	Almacenamiento externo	B	WD My Passport, WDBYVG0020BBK-WESN	Funciones	Software de copia de seguridad y protección con contraseña/cifrado
+B37	B	Almacenamiento externo	A	Seagate Expansion Portable, STKM2000400	Precio aproximado / referencia USD	129,99 USD; anuncio de Best Buy
+B37	B	Almacenamiento externo	B	WD My Passport, WDBYVG0020BBK-WESN	Precio aproximado / referencia USD	169,99 USD; anuncio de Best Buy
+B38	B	Almacenamiento externo	A	Samsung T7 Shield, MU-PE1T0K/AM, beige	Capacidad / tecnología	1 TB; SSD
+B38	B	Almacenamiento externo	B	Crucial X9 Pro, CT1000X9PROSSD9	Capacidad / tecnología	1 TB; SSD
+B38	B	Almacenamiento externo	A	Samsung T7 Shield, MU-PE1T0K/AM, beige	Interfaz	USB-C; USB 3.2 Gen2, hasta 10 Gb/s
+B38	B	Almacenamiento externo	B	Crucial X9 Pro, CT1000X9PROSSD9	Interfaz	USB-C; USB 3.2 Gen2, hasta 10 Gb/s
+B38	B	Almacenamiento externo	A	Samsung T7 Shield, MU-PE1T0K/AM, beige	Velocidad máxima declarada	Hasta 1.050 MB/s lectura y 1.000 MB/s escritura
+B38	B	Almacenamiento externo	B	Crucial X9 Pro, CT1000X9PROSSD9	Velocidad máxima declarada	Hasta 1.050 MB/s lectura y escritura
+B38	B	Almacenamiento externo	A	Samsung T7 Shield, MU-PE1T0K/AM, beige	Resistencia publicada	IP65; caídas de hasta tres metros bajo condiciones de prueba
+B38	B	Almacenamiento externo	B	Crucial X9 Pro, CT1000X9PROSSD9	Resistencia publicada	IP55; caídas de hasta dos metros bajo condiciones de prueba
+B38	B	Almacenamiento externo	A	Samsung T7 Shield, MU-PE1T0K/AM, beige	Precio aproximado / referencia USD	287,99 USD; precio oficial; entrega no disponible en la consulta
+B38	B	Almacenamiento externo	B	Crucial X9 Pro, CT1000X9PROSSD9	Precio aproximado / referencia USD	119,99 USD; referencia de Best Buy
+B39	B	Almacenamiento externo	A	SanDisk Ultra Flair, SDCZ73-128G-G46	Capacidad / formato	128 GB; memoria USB
+B39	B	Almacenamiento externo	B	Kingston DataTraveler Kyson, DTKN/128GB	Capacidad / formato	128 GB; memoria USB
+B39	B	Almacenamiento externo	A	SanDisk Ultra Flair, SDCZ73-128G-G46	Conexión	USB-A; USB 3.0 de hasta 5 Gb/s
+B39	B	Almacenamiento externo	B	Kingston DataTraveler Kyson, DTKN/128GB	Conexión	USB-A; USB 3.2 Gen1 de hasta 5 Gb/s
+B39	B	Almacenamiento externo	A	SanDisk Ultra Flair, SDCZ73-128G-G46	Velocidad máxima publicada	Hasta 150 MB/s de lectura
+B39	B	Almacenamiento externo	B	Kingston DataTraveler Kyson, DTKN/128GB	Velocidad máxima publicada	Hasta 200 MB/s de lectura y 60 MB/s de escritura en 128 GB
+B39	B	Almacenamiento externo	A	SanDisk Ultra Flair, SDCZ73-128G-G46	Diseño	Cuerpo metálico compacto
+B39	B	Almacenamiento externo	B	Kingston DataTraveler Kyson, DTKN/128GB	Diseño	Cuerpo metálico sin tapa; anilla de sujeción
+B39	B	Almacenamiento externo	A	SanDisk Ultra Flair, SDCZ73-128G-G46	Precio aproximado / referencia USD	27,39 USD; referencia de Newegg para 128 GB
+B39	B	Almacenamiento externo	B	Kingston DataTraveler Kyson, DTKN/128GB	Precio aproximado / referencia USD	34,90 USD; referencia de Best Buy para DTKN/128GB
+B40	B	Tarjetas de memoria	A	SanDisk Extreme PRO UHS-I, SDSDXXJ-128G-GSCIN	Formato / bus	SDXC; UHS-I
+B40	B	Tarjetas de memoria	B	Lexar Professional 1667x SILVER UHS-II, LSD128CBNA1667	Formato / bus	SDXC; UHS-II
+B40	B	Tarjetas de memoria	A	SanDisk Extreme PRO UHS-I, SDSDXXJ-128G-GSCIN	Capacidad	128 GB
+B40	B	Tarjetas de memoria	B	Lexar Professional 1667x SILVER UHS-II, LSD128CBNA1667	Capacidad	128 GB
+B40	B	Tarjetas de memoria	A	SanDisk Extreme PRO UHS-I, SDSDXXJ-128G-GSCIN	Velocidad máxima declarada	Hasta 250 MB/s lectura; 120 MB/s escritura
+B40	B	Tarjetas de memoria	B	Lexar Professional 1667x SILVER UHS-II, LSD128CBNA1667	Velocidad máxima declarada	Hasta 250 MB/s lectura; 120 MB/s escritura
+B40	B	Tarjetas de memoria	A	SanDisk Extreme PRO UHS-I, SDSDXXJ-128G-GSCIN	Clase de video	V30 / U3
+B40	B	Tarjetas de memoria	B	Lexar Professional 1667x SILVER UHS-II, LSD128CBNA1667	Clase de video	V60 / U3
+B40	B	Tarjetas de memoria	A	SanDisk Extreme PRO UHS-I, SDSDXXJ-128G-GSCIN	Precio aproximado / referencia USD	51,99 USD; anuncio de B&H
+B40	B	Tarjetas de memoria	B	Lexar Professional 1667x SILVER UHS-II, LSD128CBNA1667	Precio aproximado / referencia USD	94,99 USD; MSRP del catálogo oficial para una tarjeta de 128 GB
+B41	B	Tarjetas de memoria	A	Samsung PRO Plus + lector, MB-MD256SB/AM	Formato / capacidad	microSDXC UHS-I; 256 GB
+B41	B	Tarjetas de memoria	B	SanDisk Extreme, SDSQXAV-256G-GN6MA	Formato / capacidad	microSDXC UHS-I; 256 GB
+B41	B	Tarjetas de memoria	A	Samsung PRO Plus + lector, MB-MD256SB/AM	Velocidad máxima declarada	Hasta 180 MB/s lectura y 130 MB/s escritura
+B41	B	Tarjetas de memoria	B	SanDisk Extreme, SDSQXAV-256G-GN6MA	Velocidad máxima declarada	Hasta 190 MB/s lectura y 130 MB/s escritura
+B41	B	Tarjetas de memoria	A	Samsung PRO Plus + lector, MB-MD256SB/AM	Clases	U3, V30 y A2
+B41	B	Tarjetas de memoria	B	SanDisk Extreme, SDSQXAV-256G-GN6MA	Clases	U3, V30 y A2
+B41	B	Tarjetas de memoria	A	Samsung PRO Plus + lector, MB-MD256SB/AM	Paquete comparado	Tarjeta con lector USB incluido
+B41	B	Tarjetas de memoria	B	SanDisk Extreme, SDSQXAV-256G-GN6MA	Paquete comparado	Tarjeta; comprobar adaptador incluido en la presentación
+B41	B	Tarjetas de memoria	A	Samsung PRO Plus + lector, MB-MD256SB/AM	Precio aproximado / referencia USD	83,99 USD; paquete oficial con lector; agotado
+B41	B	Tarjetas de memoria	B	SanDisk Extreme, SDSQXAV-256G-GN6MA	Precio aproximado / referencia USD	29,99 USD; referencia de Walmart Business para el SKU indicado
+B42	B	Tarjetas de memoria	A	SanDisk Extreme PRO CFexpress 4.0 Type B, SDCFEB-128G-GN4NN	Formato / capacidad	CFexpress Type B; 128 GB
+B42	B	Tarjetas de memoria	B	Lexar Professional GOLD CFexpress 4.0 Type B, LCXEXP4128G-RNENG	Formato / capacidad	CFexpress Type B; 128 GB
+B42	B	Tarjetas de memoria	A	SanDisk Extreme PRO CFexpress 4.0 Type B, SDCFEB-128G-GN4NN	Interfaz	CFexpress 4.0 sobre PCIe Gen4
+B42	B	Tarjetas de memoria	B	Lexar Professional GOLD CFexpress 4.0 Type B, LCXEXP4128G-RNENG	Interfaz	CFexpress 4.0 sobre PCIe Gen4
+B42	B	Tarjetas de memoria	A	SanDisk Extreme PRO CFexpress 4.0 Type B, SDCFEB-128G-GN4NN	Lectura máxima publicada	Hasta 3.700 MB/s
+B42	B	Tarjetas de memoria	B	Lexar Professional GOLD CFexpress 4.0 Type B, LCXEXP4128G-RNENG	Lectura máxima publicada	Hasta 3.600 MB/s
+B42	B	Tarjetas de memoria	A	SanDisk Extreme PRO CFexpress 4.0 Type B, SDCFEB-128G-GN4NN	Escritura máxima publicada	Hasta 3.500 MB/s
+B42	B	Tarjetas de memoria	B	Lexar Professional GOLD CFexpress 4.0 Type B, LCXEXP4128G-RNENG	Escritura máxima publicada	Hasta 3.300 MB/s
+B42	B	Tarjetas de memoria	A	SanDisk Extreme PRO CFexpress 4.0 Type B, SDCFEB-128G-GN4NN	Precio aproximado / referencia USD	199,99 USD; anuncio de Walmart para CFexpress 4.0 de 128 GB
+B42	B	Tarjetas de memoria	B	Lexar Professional GOLD CFexpress 4.0 Type B, LCXEXP4128G-RNENG	Precio aproximado / referencia USD	229,99 USD; anuncio de B&H para CFexpress 4.0 de 128 GB
+B43	B	Lectores de tarjetas	A	SanDisk Extreme PRO SD USB-C, SDDR-409-G46	Tarjetas	SD/SDHC/SDXC; UHS-I y UHS-II
+B43	B	Lectores de tarjetas	B	Sony MRW-S1	Tarjetas	SD/SDHC/SDXC; UHS-I y UHS-II
+B43	B	Lectores de tarjetas	A	SanDisk Extreme PRO SD USB-C, SDDR-409-G46	Conector al equipo	USB-C
+B43	B	Lectores de tarjetas	B	Sony MRW-S1	Conector al equipo	USB-A
+B43	B	Lectores de tarjetas	A	SanDisk Extreme PRO SD USB-C, SDDR-409-G46	Enlace USB	USB 3.x de hasta 5 Gb/s
+B43	B	Lectores de tarjetas	B	Sony MRW-S1	Enlace USB	USB 3.1 Gen1 de hasta 5 Gb/s
+B43	B	Lectores de tarjetas	A	SanDisk Extreme PRO SD USB-C, SDDR-409-G46	Formato	Lector compacto para una tarjeta SD
+B43	B	Lectores de tarjetas	B	Sony MRW-S1	Formato	Lector compacto para una tarjeta SD
+B43	B	Lectores de tarjetas	A	SanDisk Extreme PRO SD USB-C, SDDR-409-G46	Precio aproximado / referencia USD	49,99 USD; anuncio de Walmart
+B43	B	Lectores de tarjetas	B	Sony MRW-S1	Precio aproximado / referencia USD	29,99 USD; tienda oficial Sony
+B44	B	Lectores de tarjetas	A	Anker 2-in-1 USB 3.0, A7612	Ranuras	Una SD y una microSD
+B44	B	Lectores de tarjetas	B	Transcend RDF5, TS-RDF5K	Ranuras	Una SD y una microSD
+B44	B	Lectores de tarjetas	A	Anker 2-in-1 USB 3.0, A7612	Conexión	USB-A; USB 3.0 de hasta 5 Gb/s
+B44	B	Lectores de tarjetas	B	Transcend RDF5, TS-RDF5K	Conexión	USB-A; USB 3.1 Gen1 de hasta 5 Gb/s
+B44	B	Lectores de tarjetas	A	Anker 2-in-1 USB 3.0, A7612	Uso de tarjetas	Admite lectura/escritura en las dos tarjetas simultáneamente
+B44	B	Lectores de tarjetas	B	Transcend RDF5, TS-RDF5K	Uso de tarjetas	No admite utilizar las dos tarjetas simultáneamente
+B44	B	Lectores de tarjetas	A	Anker 2-in-1 USB 3.0, A7612	Alimentación / formato	Desde USB; cuerpo compacto sin fuente de red
+B44	B	Lectores de tarjetas	B	Transcend RDF5, TS-RDF5K	Alimentación / formato	Desde USB; cuerpo de 56 × 24 × 8,9 mm
+B44	B	Lectores de tarjetas	A	Anker 2-in-1 USB 3.0, A7612	Precio aproximado / referencia USD	12,99 USD; referencia de Best Buy para A7612
+B44	B	Lectores de tarjetas	B	Transcend RDF5, TS-RDF5K	Precio aproximado / referencia USD	12,99 USD; referencia de Walmart; agotado
+B45	B	Lectores de tarjetas	A	Angelbird Performance Card Reader CFexpress B	Tarjetas	Una CFexpress Type B
+B45	B	Lectores de tarjetas	B	ProGrade Digital PG05.5 CFexpress B / SD	Tarjetas	Una CFexpress Type B y una SD UHS-II
+B45	B	Lectores de tarjetas	A	Angelbird Performance Card Reader CFexpress B	Interfaz al equipo	USB-C; USB4 de hasta 40 Gb/s
+B45	B	Lectores de tarjetas	B	ProGrade Digital PG05.5 CFexpress B / SD	Interfaz al equipo	USB-C; USB 3.2 Gen2 de hasta 10 Gb/s
+B45	B	Lectores de tarjetas	A	Angelbird Performance Card Reader CFexpress B	Transferencia y diseño	Refrigeración activa; pensado para descarga rápida de CFexpress
+B45	B	Lectores de tarjetas	B	ProGrade Digital PG05.5 CFexpress B / SD	Transferencia y diseño	Uso simultáneo de las dos ranuras; base magnética
+B45	B	Lectores de tarjetas	A	Angelbird Performance Card Reader CFexpress B	Función adicional	Actualización de firmware de tarjetas Angelbird compatibles
+B45	B	Lectores de tarjetas	B	ProGrade Digital PG05.5 CFexpress B / SD	Función adicional	Cables para USB-C y USB-A; garantía de dos años
+B45	B	Lectores de tarjetas	A	Angelbird Performance Card Reader CFexpress B	Precio aproximado / referencia USD	259,99 USD; tienda oficial Angelbird
+B45	B	Lectores de tarjetas	B	ProGrade Digital PG05.5 CFexpress B / SD	Precio aproximado / referencia USD	84,99 USD; tienda oficial ProGrade
+B46	B	UPS	A	APC Back-UPS BE600M1	Topología	Standby / Offline
+B46	B	UPS	B	CyberPower ST625U	Topología	Standby / Offline
+B46	B	UPS	A	APC Back-UPS BE600M1	Capacidad	600 VA / 330 W
+B46	B	UPS	B	CyberPower ST625U	Capacidad	625 VA / 360 W
+B46	B	UPS	A	APC Back-UPS BE600M1	Voltaje y salida en batería	120 V; aproximación escalonada de onda senoidal
+B46	B	UPS	B	CyberPower ST625U	Voltaje y salida en batería	120 V; onda senoidal simulada
+B46	B	UPS	A	APC Back-UPS BE600M1	Tomas	7: 5 con batería y 2 solo contra sobretensiones
+B46	B	UPS	B	CyberPower ST625U	Tomas	8: 4 con batería y 4 solo contra sobretensiones
+B46	B	UPS	A	APC Back-UPS BE600M1	Precio aproximado / referencia USD	83,99 USD; anuncio de Walmart
+B46	B	UPS	B	CyberPower ST625U	Precio aproximado / referencia USD	84,95 USD; MSRP oficial CyberPower
+B47	B	UPS	A	APC Back-UPS Pro BR1000MS	Topología / regulación	Line Interactive con AVR
+B47	B	UPS	B	CyberPower CP1000PFCLCD	Topología / regulación	Line Interactive con AVR
+B47	B	UPS	A	APC Back-UPS Pro BR1000MS	Capacidad / voltaje	1.000 VA / 600 W; 120 V
+B47	B	UPS	B	CyberPower CP1000PFCLCD	Capacidad / voltaje	1.000 VA / 600 W; 120 V
+B47	B	UPS	A	APC Back-UPS Pro BR1000MS	Onda en batería	Senoidal
+B47	B	UPS	B	CyberPower CP1000PFCLCD	Onda en batería	Senoidal; orientado a fuentes con PFC activo
+B47	B	UPS	A	APC Back-UPS Pro BR1000MS	Tomas y control	10: 6 con batería y 4 solo protección; pantalla LCD
+B47	B	UPS	B	CyberPower CP1000PFCLCD	Tomas y control	10: 5 con batería y 5 solo protección; pantalla LCD
+B47	B	UPS	A	APC Back-UPS Pro BR1000MS	Precio aproximado / referencia USD	194,99 USD; anuncio de Sweetwater
+B47	B	UPS	B	CyberPower CP1000PFCLCD	Precio aproximado / referencia USD	199,95 USD; MSRP oficial CyberPower
+B48	B	UPS	A	APC Smart-UPS SRT1000XLA	Topología	Online; doble conversión
+B48	B	UPS	B	Eaton 9SX1000	Topología	Online; doble conversión
+B48	B	UPS	A	APC Smart-UPS SRT1000XLA	Capacidad	1.000 VA / 900 W
+B48	B	UPS	B	Eaton 9SX1000	Capacidad	1.000 VA / 900 W
+B48	B	UPS	A	APC Smart-UPS SRT1000XLA	Voltaje / salida	120 V; onda senoidal; 6 tomas NEMA 5-15R
+B48	B	UPS	B	Eaton 9SX1000	Voltaje / salida	120 V; onda senoidal; 6 tomas NEMA 5-15R
+B48	B	UPS	A	APC Smart-UPS SRT1000XLA	Expansión / gestión	Baterías externas compatibles; SmartSlot para gestión opcional
+B48	B	UPS	B	Eaton 9SX1000	Expansión / gestión	Baterías externas compatibles; tarjeta de red opcional
+B48	B	UPS	A	APC Smart-UPS SRT1000XLA	Precio aproximado / referencia USD	1.275,00 USD; anuncio de APCGuard
+B48	B	UPS	B	Eaton 9SX1000	Precio aproximado / referencia USD	1.869,84 USD; precio de lista publicado por Eaton
+B49	B	Hubs y estaciones	A	Anker Ultra Slim 4-Port USB 3.0, A7516	Entrada al equipo	USB-A
+B49	B	Hubs y estaciones	B	Sabrent HB-UM43	Entrada al equipo	USB-A
+B49	B	Hubs y estaciones	A	Anker Ultra Slim 4-Port USB 3.0, A7516	Salidas de datos	Cuatro puertos USB-A
+B49	B	Hubs y estaciones	B	Sabrent HB-UM43	Salidas de datos	Cuatro puertos USB-A
+B49	B	Hubs y estaciones	A	Anker Ultra Slim 4-Port USB 3.0, A7516	Enlace máximo	USB 3.0 de hasta 5 Gb/s, compartidos hacia el equipo
+B49	B	Hubs y estaciones	B	Sabrent HB-UM43	Enlace máximo	USB 3.0 de hasta 5 Gb/s, compartidos hacia el equipo
+B49	B	Hubs y estaciones	A	Anker Ultra Slim 4-Port USB 3.0, A7516	Energía y controles	Alimentado por USB; diseño delgado
+B49	B	Hubs y estaciones	B	Sabrent HB-UM43	Energía y controles	Alimentado por USB; interruptor e indicador por puerto
+B49	B	Hubs y estaciones	A	Anker Ultra Slim 4-Port USB 3.0, A7516	Precio aproximado / referencia USD	14,99 USD; tienda oficial Anker
+B49	B	Hubs y estaciones	B	Sabrent HB-UM43	Precio aproximado / referencia USD	14,95 USD; oferta oficial Sabrent
+B50	B	Hubs y estaciones	A	Anker 555 USB-C Hub 8-in-1, A8383	Datos USB	Dos USB-A y un USB-C de datos, hasta 10 Gb/s
+B50	B	Hubs y estaciones	B	UGREEN Revodok 107 7-in-1, 60515	Datos USB	Dos USB-A de datos, hasta 5 Gb/s
+B50	B	Hubs y estaciones	A	Anker 555 USB-C Hub 8-in-1, A8383	Video	Una salida HDMI hasta 4K a 60 Hz
+B50	B	Hubs y estaciones	B	UGREEN Revodok 107 7-in-1, 60515	Video	Una salida HDMI hasta 4K a 60 Hz
+B50	B	Hubs y estaciones	A	Anker 555 USB-C Hub 8-in-1, A8383	Red / tarjetas	Gigabit Ethernet; SD y microSD
+B50	B	Hubs y estaciones	B	UGREEN Revodok 107 7-in-1, 60515	Red / tarjetas	Gigabit Ethernet; SD y microSD
+B50	B	Hubs y estaciones	A	Anker 555 USB-C Hub 8-in-1, A8383	Carga de paso	Entrada PD de hasta 100 W; hasta 85 W al portátil
+B50	B	Hubs y estaciones	B	UGREEN Revodok 107 7-in-1, 60515	Carga de paso	Entrada USB-C PD de hasta 100 W; potencia efectiva según reserva del hub
+B50	B	Hubs y estaciones	A	Anker 555 USB-C Hub 8-in-1, A8383	Precio aproximado / referencia USD	49,99 USD; tienda oficial Anker
+B50	B	Hubs y estaciones	B	UGREEN Revodok 107 7-in-1, 60515	Precio aproximado / referencia USD	39,99 USD; tienda oficial UGREEN
+B51	B	Hubs y estaciones	A	CalDigit TS4	Interfaz / puertos	Thunderbolt 4 de hasta 40 Gb/s; 18 puertos totales
+B51	B	Hubs y estaciones	B	OWC 11-Port Thunderbolt Dock	Interfaz / puertos	Thunderbolt 4 de hasta 40 Gb/s; 11 puertos totales
+B51	B	Hubs y estaciones	A	CalDigit TS4	Carga del equipo	Hasta 98 W
+B51	B	Hubs y estaciones	B	OWC 11-Port Thunderbolt Dock	Carga del equipo	Hasta 96 W
+B51	B	Hubs y estaciones	A	CalDigit TS4	Red / tarjetas	Ethernet de 2,5 Gb/s; SD y microSD UHS-II
+B51	B	Hubs y estaciones	B	OWC 11-Port Thunderbolt Dock	Red / tarjetas	Gigabit Ethernet; lector SD UHS-II
+B51	B	Hubs y estaciones	A	CalDigit TS4	Pantallas / conexiones	DisplayPort 1.4 y puertos Thunderbolt; USB de hasta 10 Gb/s
+B51	B	Hubs y estaciones	B	OWC 11-Port Thunderbolt Dock	Pantallas / conexiones	Video mediante puertos Thunderbolt; USB de hasta 10 Gb/s
+B51	B	Hubs y estaciones	A	CalDigit TS4	Precio aproximado / referencia USD	379,99 USD; tienda oficial CalDigit
+B51	B	Hubs y estaciones	B	OWC 11-Port Thunderbolt Dock	Precio aproximado / referencia USD	229,99 USD; tienda oficial OWC / MacSales
+C01	C	Computadoras de escritorio	A	Alienware Aurora ACT1250, Ultra 7 / RTX 5070	Procesador	Intel Core Ultra 7 265F
+C01	C	Computadoras de escritorio	B	Lenovo Legion Tower 5i Gen 10, 90YA0014US	Procesador	Intel Core Ultra 7 265F
+C01	C	Computadoras de escritorio	A	Alienware Aurora ACT1250, Ultra 7 / RTX 5070	Tarjeta gráfica	GeForce RTX 5070; 12 GB GDDR7
+C01	C	Computadoras de escritorio	B	Lenovo Legion Tower 5i Gen 10, 90YA0014US	Tarjeta gráfica	GeForce RTX 5070; 12 GB GDDR7
+C01	C	Computadoras de escritorio	A	Alienware Aurora ACT1250, Ultra 7 / RTX 5070	Memoria	32 GB DDR5, 5.200 MT/s
+C01	C	Computadoras de escritorio	B	Lenovo Legion Tower 5i Gen 10, 90YA0014US	Memoria	32 GB DDR5, 5.600 MT/s
+C01	C	Computadoras de escritorio	A	Alienware Aurora ACT1250, Ultra 7 / RTX 5070	Almacenamiento	SSD NVMe de 1 TB
+C01	C	Computadoras de escritorio	B	Lenovo Legion Tower 5i Gen 10, 90YA0014US	Almacenamiento	SSD NVMe de 2 TB
+C01	C	Computadoras de escritorio	A	Alienware Aurora ACT1250, Ultra 7 / RTX 5070	Fuente y refrigeración	1.000 W Platinum; CPU por aire
+C01	C	Computadoras de escritorio	B	Lenovo Legion Tower 5i Gen 10, 90YA0014US	Fuente y refrigeración	850 W; refrigeración líquida de 240 mm
+C01	C	Computadoras de escritorio	A	Alienware Aurora ACT1250, Ultra 7 / RTX 5070	Precio aproximado / referencia USD	2.229,99 USD; oferta indexada de Dell para esta configuración
+C01	C	Computadoras de escritorio	B	Lenovo Legion Tower 5i Gen 10, 90YA0014US	Precio aproximado / referencia USD	2.889,99 USD; catálogo oficial, SKU 90YA0014US
+C02	C	Computadoras de escritorio	A	HP Z2 SFF G1i, Ultra 7 / RTX 2000 Ada	Procesador	Intel Core Ultra 7 265K
+C02	C	Computadoras de escritorio	B	Lenovo ThinkStation P3 Tower Gen 2, 30HS000MUS	Procesador	Intel Core Ultra 9 285
+C02	C	Computadoras de escritorio	A	HP Z2 SFF G1i, Ultra 7 / RTX 2000 Ada	Gráfica profesional	NVIDIA RTX 2000 Ada; 16 GB
+C02	C	Computadoras de escritorio	B	Lenovo ThinkStation P3 Tower Gen 2, 30HS000MUS	Gráfica profesional	NVIDIA RTX 2000 Ada; 16 GB
+C02	C	Computadoras de escritorio	A	HP Z2 SFF G1i, Ultra 7 / RTX 2000 Ada	Memoria	32 GB
+C02	C	Computadoras de escritorio	B	Lenovo ThinkStation P3 Tower Gen 2, 30HS000MUS	Memoria	64 GB DDR5; 2 módulos de 32 GB
+C02	C	Computadoras de escritorio	A	HP Z2 SFF G1i, Ultra 7 / RTX 2000 Ada	Almacenamiento	SSD de 1 TB
+C02	C	Computadoras de escritorio	B	Lenovo ThinkStation P3 Tower Gen 2, 30HS000MUS	Almacenamiento	SSD de 1 TB PCIe Gen 5, Opal
+C02	C	Computadoras de escritorio	A	HP Z2 SFF G1i, Ultra 7 / RTX 2000 Ada	Formato y sistema	Gabinete SFF; Windows 11 Pro
+C02	C	Computadoras de escritorio	B	Lenovo ThinkStation P3 Tower Gen 2, 30HS000MUS	Formato y sistema	Torre; Windows 11 Pro
+C02	C	Computadoras de escritorio	A	HP Z2 SFF G1i, Ultra 7 / RTX 2000 Ada	Precio aproximado / referencia USD	3.326,53 USD; anuncio de Walmart de la configuración indicada
+C02	C	Computadoras de escritorio	B	Lenovo ThinkStation P3 Tower Gen 2, 30HS000MUS	Precio aproximado / referencia USD	3.429,00 USD; catálogo Lenovo, SKU 30HS000MUS; confirmar existencias
+C03	C	Computadoras de escritorio	A	Dell OptiPlex 7020 SFF, i5 / 8 GB / 256 GB	Procesador	Intel Core i5-14500
+C03	C	Computadoras de escritorio	B	Lenovo ThinkCentre neo 50s Gen 5, 12XF000NUS	Procesador	Intel Core i5-14400
+C03	C	Computadoras de escritorio	A	Dell OptiPlex 7020 SFF, i5 / 8 GB / 256 GB	Memoria	8 GB DDR5
+C03	C	Computadoras de escritorio	B	Lenovo ThinkCentre neo 50s Gen 5, 12XF000NUS	Memoria	16 GB DDR5
+C03	C	Computadoras de escritorio	A	Dell OptiPlex 7020 SFF, i5 / 8 GB / 256 GB	Almacenamiento	SSD NVMe de 256 GB
+C03	C	Computadoras de escritorio	B	Lenovo ThinkCentre neo 50s Gen 5, 12XF000NUS	Almacenamiento	SSD de 512 GB
+C03	C	Computadoras de escritorio	A	Dell OptiPlex 7020 SFF, i5 / 8 GB / 256 GB	Gráfica y sistema	Intel integrada; Windows 11 Pro
+C03	C	Computadoras de escritorio	B	Lenovo ThinkCentre neo 50s Gen 5, 12XF000NUS	Gráfica y sistema	Intel UHD 730; Windows 11 Pro
+C03	C	Computadoras de escritorio	A	Dell OptiPlex 7020 SFF, i5 / 8 GB / 256 GB	Formato y fuente	SFF; 300 W
+C03	C	Computadoras de escritorio	B	Lenovo ThinkCentre neo 50s Gen 5, 12XF000NUS	Formato y fuente	SFF; 260 W
+C03	C	Computadoras de escritorio	A	Dell OptiPlex 7020 SFF, i5 / 8 GB / 256 GB	Precio aproximado / referencia USD	849,45 USD; oferta indexada de Dell
+C03	C	Computadoras de escritorio	B	Lenovo ThinkCentre neo 50s Gen 5, 12XF000NUS	Precio aproximado / referencia USD	839,99 USD; anuncio de Walmart, SKU 12XF000NUS
+C04	C	Laptops	A	ASUS TUF Gaming A15, FA507NV-EH74	Procesador	AMD Ryzen 7 7735HS
+C04	C	Laptops	B	Lenovo LOQ 15IRX9, 83DV00FXUS	Procesador	Intel Core i7-13650HX
+C04	C	Laptops	A	ASUS TUF Gaming A15, FA507NV-EH74	GPU	RTX 4060 Laptop; 8 GB
+C04	C	Laptops	B	Lenovo LOQ 15IRX9, 83DV00FXUS	GPU	RTX 4060 Laptop; 8 GB
+C04	C	Laptops	A	ASUS TUF Gaming A15, FA507NV-EH74	Memoria y SSD	16 GB DDR5; SSD de 512 GB
+C04	C	Laptops	B	Lenovo LOQ 15IRX9, 83DV00FXUS	Memoria y SSD	16 GB DDR5; SSD de 512 GB
+C04	C	Laptops	A	ASUS TUF Gaming A15, FA507NV-EH74	Pantalla	15,6 pulgadas; IPS Full HD, 144 Hz
+C04	C	Laptops	B	Lenovo LOQ 15IRX9, 83DV00FXUS	Pantalla	15,6 pulgadas; IPS Full HD, 144 Hz
+C04	C	Laptops	A	ASUS TUF Gaming A15, FA507NV-EH74	Sistema	Windows 11 Home
+C04	C	Laptops	B	Lenovo LOQ 15IRX9, 83DV00FXUS	Sistema	Windows 11 Home
+C04	C	Laptops	A	ASUS TUF Gaming A15, FA507NV-EH74	Precio aproximado / referencia USD	1.622,99 USD; registro histórico del 14/02/2026 en Pangoly
+C04	C	Laptops	B	Lenovo LOQ 15IRX9, 83DV00FXUS	Precio aproximado / referencia USD	1.169,99 USD; ficha de Walmart marcada como agotada
+C05	C	Laptops	A	Apple MacBook Pro 14, M4 (2024), 16/512 GB	Procesador	Apple M4; CPU de 10 núcleos
+C05	C	Laptops	B	ASUS ProArt P16, H7606WI-P16.R3704070	Procesador	AMD Ryzen AI 9 HX 370
+C05	C	Laptops	A	Apple MacBook Pro 14, M4 (2024), 16/512 GB	GPU	Apple integrada, 10 núcleos
+C05	C	Laptops	B	ASUS ProArt P16, H7606WI-P16.R3704070	GPU	RTX 4070 Laptop; 8 GB
+C05	C	Laptops	A	Apple MacBook Pro 14, M4 (2024), 16/512 GB	Memoria y SSD	16 GB de memoria unificada; 512 GB
+C05	C	Laptops	B	ASUS ProArt P16, H7606WI-P16.R3704070	Memoria y SSD	32 GB LPDDR5X; SSD de 2 TB
+C05	C	Laptops	A	Apple MacBook Pro 14, M4 (2024), 16/512 GB	Pantalla	14,2 pulgadas; Liquid Retina XDR, 3.024 × 1.964; hasta 120 Hz
+C05	C	Laptops	B	ASUS ProArt P16, H7606WI-P16.R3704070	Pantalla	16 pulgadas; OLED táctil, 3.840 × 2.400; 60 Hz
+C05	C	Laptops	A	Apple MacBook Pro 14, M4 (2024), 16/512 GB	Sistema	macOS
+C05	C	Laptops	B	ASUS ProArt P16, H7606WI-P16.R3704070	Sistema	Windows 11 Home
+C05	C	Laptops	A	Apple MacBook Pro 14, M4 (2024), 16/512 GB	Precio aproximado / referencia USD	1.479,99 USD; precio indexado de unidad nueva en Best Buy; no disponible
+C05	C	Laptops	B	ASUS ProArt P16, H7606WI-P16.R3704070	Precio aproximado / referencia USD	2.069,99 USD; liquidación de Best Buy, no disponible
+C06	C	Laptops	A	Acer Aspire Go 15, AG15-31P-P5TG	Procesador	Intel N200; 4 núcleos
+C06	C	Laptops	B	HP 15-fc0093dx, 16 GB / 256 GB	Procesador	AMD Ryzen 5 7520U; 4 núcleos
+C06	C	Laptops	A	Acer Aspire Go 15, AG15-31P-P5TG	Memoria	4 GB LPDDR5
+C06	C	Laptops	B	HP 15-fc0093dx, 16 GB / 256 GB	Memoria	16 GB LPDDR5; soldada
+C06	C	Laptops	A	Acer Aspire Go 15, AG15-31P-P5TG	Almacenamiento	128 GB SSD
+C06	C	Laptops	B	HP 15-fc0093dx, 16 GB / 256 GB	Almacenamiento	256 GB SSD NVMe
+C06	C	Laptops	A	Acer Aspire Go 15, AG15-31P-P5TG	Pantalla	15,6 pulgadas; Full HD, 60 Hz
+C06	C	Laptops	B	HP 15-fc0093dx, 16 GB / 256 GB	Pantalla	15,6 pulgadas; Full HD; 250 nits
+C06	C	Laptops	A	Acer Aspire Go 15, AG15-31P-P5TG	Sistema	Windows 11 Home en modo S
+C06	C	Laptops	B	HP 15-fc0093dx, 16 GB / 256 GB	Sistema	Windows 11 Home en modo S
+C06	C	Laptops	A	Acer Aspire Go 15, AG15-31P-P5TG	Precio aproximado / referencia USD	299,99 USD; tienda oficial Acer, NX.KRYAA.001; agotada
+C06	C	Laptops	B	HP 15-fc0093dx, 16 GB / 256 GB	Precio aproximado / referencia USD	159,99 USD; liquidación de Best Buy marcada como no disponible
+C07	C	Tablets	A	Apple iPad Pro 11, M5, Wi-Fi / 256 GB	Procesador	Apple M5; CPU de 9 núcleos, GPU de 10
+C07	C	Tablets	B	Samsung Galaxy Tab S11, Wi-Fi / 128 GB	Procesador	MediaTek Dimensity 9400+
+C07	C	Tablets	A	Apple iPad Pro 11, M5, Wi-Fi / 256 GB	Memoria y almacenamiento	12 GB; 256 GB
+C07	C	Tablets	B	Samsung Galaxy Tab S11, Wi-Fi / 128 GB	Memoria y almacenamiento	12 GB; 128 GB; ampliación microSD
+C07	C	Tablets	A	Apple iPad Pro 11, M5, Wi-Fi / 256 GB	Pantalla	11 pulgadas; OLED tándem, 2.420 × 1.668; ProMotion hasta 120 Hz
+C07	C	Tablets	B	Samsung Galaxy Tab S11, Wi-Fi / 128 GB	Pantalla	11 pulgadas; AMOLED, 2.560 × 1.600; 120 Hz
+C07	C	Tablets	A	Apple iPad Pro 11, M5, Wi-Fi / 256 GB	Lápiz	Apple Pencil Pro compatible; compra aparte
+C07	C	Tablets	B	Samsung Galaxy Tab S11, Wi-Fi / 128 GB	Lápiz	S Pen incluido
+C07	C	Tablets	A	Apple iPad Pro 11, M5, Wi-Fi / 256 GB	Entorno de trabajo	iPadOS; Thunderbolt / USB 4
+C07	C	Tablets	B	Samsung Galaxy Tab S11, Wi-Fi / 128 GB	Entorno de trabajo	Android; Samsung DeX
+C07	C	Tablets	A	Apple iPad Pro 11, M5, Wi-Fi / 256 GB	Precio aproximado / referencia USD	1.199,00 USD; tienda Apple, 256 GB Wi-Fi con vidrio estándar
+C07	C	Tablets	B	Samsung Galaxy Tab S11, Wi-Fi / 128 GB	Precio aproximado / referencia USD	699,99 USD; promoción oficial; precio regular anunciado 899,99 USD
+C08	C	Tablets	A	Apple iPad (A16), Wi-Fi / 128 GB	Procesador	Apple A16; CPU de 5 núcleos, GPU de 4
+C08	C	Tablets	B	Samsung Galaxy Tab S10 FE, Wi-Fi / 128 GB	Procesador	Samsung Exynos 1580
+C08	C	Tablets	A	Apple iPad (A16), Wi-Fi / 128 GB	Almacenamiento	128 GB internos
+C08	C	Tablets	B	Samsung Galaxy Tab S10 FE, Wi-Fi / 128 GB	Almacenamiento	128 GB internos; microSD
+C08	C	Tablets	A	Apple iPad (A16), Wi-Fi / 128 GB	Pantalla	11 pulgadas; IPS, 2.360 × 1.640
+C08	C	Tablets	B	Samsung Galaxy Tab S10 FE, Wi-Fi / 128 GB	Pantalla	10,9 pulgadas; LCD, 2.304 × 1.440; 90 Hz
+C08	C	Tablets	A	Apple iPad (A16), Wi-Fi / 128 GB	Lápiz	Apple Pencil USB-C o primera generación; aparte
+C08	C	Tablets	B	Samsung Galaxy Tab S10 FE, Wi-Fi / 128 GB	Lápiz	S Pen incluido
+C08	C	Tablets	A	Apple iPad (A16), Wi-Fi / 128 GB	Sistema	iPadOS
+C08	C	Tablets	B	Samsung Galaxy Tab S10 FE, Wi-Fi / 128 GB	Sistema	Android; Samsung DeX
+C08	C	Tablets	A	Apple iPad (A16), Wi-Fi / 128 GB	Precio aproximado / referencia USD	449,00 USD; tienda Apple, versión de 128 GB Wi-Fi
+C08	C	Tablets	B	Samsung Galaxy Tab S10 FE, Wi-Fi / 128 GB	Precio aproximado / referencia USD	449,99 USD; oferta indexada de Samsung para la Tab S10 FE Wi-Fi
+C09	C	Tablets	A	Lenovo Tab M11, ZADA0047US, 4/64 GB	Memoria	4 GB RAM
+C09	C	Tablets	B	Samsung Galaxy Tab A9+, Wi-Fi, 4/64 GB	Memoria	4 GB RAM
+C09	C	Tablets	A	Lenovo Tab M11, ZADA0047US, 4/64 GB	Almacenamiento	64 GB eMMC; microSD
+C09	C	Tablets	B	Samsung Galaxy Tab A9+, Wi-Fi, 4/64 GB	Almacenamiento	64 GB; microSD
+C09	C	Tablets	A	Lenovo Tab M11, ZADA0047US, 4/64 GB	Pantalla	11 pulgadas; IPS, 1.920 × 1.200; 90 Hz
+C09	C	Tablets	B	Samsung Galaxy Tab A9+, Wi-Fi, 4/64 GB	Pantalla	11 pulgadas; TFT, 1.920 × 1.200; 90 Hz
+C09	C	Tablets	A	Lenovo Tab M11, ZADA0047US, 4/64 GB	Audio y uso	Cuatro altavoces; Android
+C09	C	Tablets	B	Samsung Galaxy Tab A9+, Wi-Fi, 4/64 GB	Audio y uso	Cuatro altavoces; Android
+C09	C	Tablets	A	Lenovo Tab M11, ZADA0047US, 4/64 GB	Precio aproximado / referencia USD	159,99 USD; Best Buy, SKU ZADA0047US; no disponible
+C09	C	Tablets	B	Samsung Galaxy Tab A9+, Wi-Fi, 4/64 GB	Precio aproximado / referencia USD	199,00 USD; referencia de unidad nueva en Best Buy; no disponible con ese vendedor
+C10	C	Celulares	A	Apple iPhone 17, 256 GB	Pantalla	6,3 pulgadas; OLED, 2.622 × 1.206; ProMotion hasta 120 Hz
+C10	C	Celulares	B	Samsung Galaxy S26, 256 GB, desbloqueado	Pantalla	6,3 pulgadas; AMOLED, 2.340 × 1.080; hasta 120 Hz
+C10	C	Celulares	A	Apple iPhone 17, 256 GB	Procesador	Apple A19
+C10	C	Celulares	B	Samsung Galaxy S26, 256 GB, desbloqueado	Procesador	Snapdragon 8 Elite Gen 5 for Galaxy o Exynos 2600, según mercado
+C10	C	Celulares	A	Apple iPhone 17, 256 GB	Almacenamiento	256 GB
+C10	C	Celulares	B	Samsung Galaxy S26, 256 GB, desbloqueado	Almacenamiento	256 GB; 12 GB RAM
+C10	C	Celulares	A	Apple iPhone 17, 256 GB	Cámaras traseras	48 MP principal + 48 MP ultra gran angular
+C10	C	Celulares	B	Samsung Galaxy S26, 256 GB, desbloqueado	Cámaras traseras	50 MP principal + 12 MP ultra gran angular + 10 MP teleobjetivo
+C10	C	Celulares	A	Apple iPhone 17, 256 GB	Sistema	iOS
+C10	C	Celulares	B	Samsung Galaxy S26, 256 GB, desbloqueado	Sistema	Android / One UI
+C10	C	Celulares	A	Apple iPhone 17, 256 GB	Precio aproximado / referencia USD	929,00 USD; Apple, conectar a un operador después; sin descuento por activación
+C10	C	Celulares	B	Samsung Galaxy S26, 256 GB, desbloqueado	Precio aproximado / referencia USD	699,99 USD; promoción oficial para 256 GB desbloqueado; regular 899,99 USD
+C11	C	Celulares	A	Google Pixel 9a, 128 GB	Procesador	Google Tensor G4
+C11	C	Celulares	B	Samsung Galaxy A56 5G, 128 GB	Procesador	Samsung Exynos 1580
+C11	C	Celulares	A	Google Pixel 9a, 128 GB	Memoria y almacenamiento	8 GB RAM; 128 GB
+C11	C	Celulares	B	Samsung Galaxy A56 5G, 128 GB	Memoria y almacenamiento	8 GB RAM; 128 GB
+C11	C	Celulares	A	Google Pixel 9a, 128 GB	Pantalla	6,3 pulgadas; OLED, 2.424 × 1.080; hasta 120 Hz
+C11	C	Celulares	B	Samsung Galaxy A56 5G, 128 GB	Pantalla	6,7 pulgadas; Super AMOLED Full HD+; hasta 120 Hz
+C11	C	Celulares	A	Google Pixel 9a, 128 GB	Batería / carga	5.100 mAh
+C11	C	Celulares	B	Samsung Galaxy A56 5G, 128 GB	Batería / carga	5.000 mAh; carga de hasta 45 W
+C11	C	Celulares	A	Google Pixel 9a, 128 GB	Protección declarada	IP68
+C11	C	Celulares	B	Samsung Galaxy A56 5G, 128 GB	Protección declarada	IP67
+C11	C	Celulares	A	Google Pixel 9a, 128 GB	Precio aproximado / referencia USD	499,00 USD; precio de referencia en tienda Google
+C11	C	Celulares	B	Samsung Galaxy A56 5G, 128 GB	Precio aproximado / referencia USD	499,99 USD; MSRP estadounidense oficial de lanzamiento
+C12	C	Celulares	A	Motorola moto g (2025), 128 GB	Pantalla	6,7 pulgadas; LCD, 1.604 × 720; 120 Hz
+C12	C	Celulares	B	Samsung Galaxy A16 5G, 128 GB, EE. UU.	Pantalla	6,7 pulgadas; AMOLED, 2.340 × 1.080; 90 Hz
+C12	C	Celulares	A	Motorola moto g (2025), 128 GB	Almacenamiento	128 GB; microSD; 4 GB de RAM física
+C12	C	Celulares	B	Samsung Galaxy A16 5G, 128 GB, EE. UU.	Almacenamiento	128 GB; microSD
+C12	C	Celulares	A	Motorola moto g (2025), 128 GB	Batería	5.000 mAh
+C12	C	Celulares	B	Samsung Galaxy A16 5G, 128 GB, EE. UU.	Batería	5.000 mAh
+C12	C	Celulares	A	Motorola moto g (2025), 128 GB	Carga máxima anunciada	30 W
+C12	C	Celulares	B	Samsung Galaxy A16 5G, 128 GB, EE. UU.	Carga máxima anunciada	25 W
+C12	C	Celulares	A	Motorola moto g (2025), 128 GB	Conectividad	5G
+C12	C	Celulares	B	Samsung Galaxy A16 5G, 128 GB, EE. UU.	Conectividad	5G
+C12	C	Celulares	A	Motorola moto g (2025), 128 GB	Precio aproximado / referencia USD	169,99 USD; promoción oficial Motorola; regular 199,99 USD
+C12	C	Celulares	B	Samsung Galaxy A16 5G, 128 GB, EE. UU.	Precio aproximado / referencia USD	169,99 USD; MSRP oficial estadounidense efectivo en marzo de 2026
+C13	C	Smartwatches	A	Apple Watch Series 11, GPS, aluminio de 42 mm	Pantalla	OLED LTPO3 Retina; caja de 42 mm
+C13	C	Smartwatches	B	Samsung Galaxy Watch8, Bluetooth, 40 mm	Pantalla	Super AMOLED de 1,3 pulgadas; 438 × 438
+C13	C	Smartwatches	A	Apple Watch Series 11, GPS, aluminio de 42 mm	Plataforma	Chip S10; watchOS
+C13	C	Smartwatches	B	Samsung Galaxy Watch8, Bluetooth, 40 mm	Plataforma	Wear OS Powered by Samsung
+C13	C	Smartwatches	A	Apple Watch Series 11, GPS, aluminio de 42 mm	Posicionamiento	GPS integrado
+C13	C	Smartwatches	B	Samsung Galaxy Watch8, Bluetooth, 40 mm	Posicionamiento	GPS y otros sistemas GNSS integrados
+C13	C	Smartwatches	A	Apple Watch Series 11, GPS, aluminio de 42 mm	Batería declarada	Hasta 24 horas de uso normal; 38 horas en bajo consumo
+C13	C	Smartwatches	B	Samsung Galaxy Watch8, Bluetooth, 40 mm	Batería declarada	Batería de 325 mAh
+C13	C	Smartwatches	A	Apple Watch Series 11, GPS, aluminio de 42 mm	Teléfono compatible	iPhone compatible
+C13	C	Smartwatches	B	Samsung Galaxy Watch8, Bluetooth, 40 mm	Teléfono compatible	Android compatible; algunas funciones requieren Galaxy
+C13	C	Smartwatches	A	Apple Watch Series 11, GPS, aluminio de 42 mm	Precio aproximado / referencia USD	399,00 USD; tienda Apple, versión GPS de 42 mm
+C13	C	Smartwatches	B	Samsung Galaxy Watch8, Bluetooth, 40 mm	Precio aproximado / referencia USD	299,99 USD; promoción oficial de la versión Bluetooth de 40 mm
+C14	C	Smartwatches	A	Garmin Forerunner 265, 46 mm	Pantalla	AMOLED táctil de 1,3 pulgadas; 416 × 416
+C14	C	Smartwatches	B	COROS PACE 3	Pantalla	LCD táctil
+C14	C	Smartwatches	A	Garmin Forerunner 265, 46 mm	Posicionamiento	GNSS multibanda; selección SatIQ
+C14	C	Smartwatches	B	COROS PACE 3	Posicionamiento	GNSS; modo de doble frecuencia
+C14	C	Smartwatches	A	Garmin Forerunner 265, 46 mm	Autonomía GPS anunciada	Hasta 20 horas, modo solo GPS
+C14	C	Smartwatches	B	COROS PACE 3	Autonomía GPS anunciada	Hasta 38 horas, GPS estándar
+C14	C	Smartwatches	A	Garmin Forerunner 265, 46 mm	Uso deportivo	Entrenamiento y recuperación; Garmin Connect
+C14	C	Smartwatches	B	COROS PACE 3	Uso deportivo	Entrenamiento y rutas; aplicación COROS
+C14	C	Smartwatches	A	Garmin Forerunner 265, 46 mm	Autonomía cotidiana anunciada	Hasta 13 días como smartwatch
+C14	C	Smartwatches	B	COROS PACE 3	Autonomía cotidiana anunciada	Hasta 17 días con seguimiento de sueño; 15 con estrés y sueño
+C14	C	Smartwatches	A	Garmin Forerunner 265, 46 mm	Precio aproximado / referencia USD	349,99 USD; precio indexado de Best Buy para 46 mm
+C14	C	Smartwatches	B	COROS PACE 3	Precio aproximado / referencia USD	199,00 USD; precio oficial revisado desde el 14/11/2025
+C15	C	Smartwatches	A	Amazfit Bip 6	Pantalla	AMOLED de 1,97 pulgadas; 390 × 450
+C15	C	Smartwatches	B	CMF Watch 3 Pro	Pantalla	AMOLED de 1,43 pulgadas
+C15	C	Smartwatches	A	Amazfit Bip 6	Posicionamiento	GPS integrado
+C15	C	Smartwatches	B	CMF Watch 3 Pro	Posicionamiento	GPS integrado de doble banda
+C15	C	Smartwatches	A	Amazfit Bip 6	Autonomía anunciada	Hasta 14 días de uso típico
+C15	C	Smartwatches	B	CMF Watch 3 Pro	Autonomía anunciada	Hasta 13 días
+C15	C	Smartwatches	A	Amazfit Bip 6	Forma y aplicación	Rectangular; aplicación Zepp
+C15	C	Smartwatches	B	CMF Watch 3 Pro	Forma y aplicación	Circular; aplicación compatible de CMF / Nothing
+C15	C	Smartwatches	A	Amazfit Bip 6	Precio aproximado / referencia USD	79,99 USD; tienda oficial Amazfit
+C15	C	Smartwatches	B	CMF Watch 3 Pro	Precio aproximado / referencia USD	79,00 USD; promoción oficial; regular 99,00 USD
+C16	C	Consolas	A	Sony PlayStation 5, modelo compacto, disco / 1 TB	Almacenamiento	SSD de 1 TB
+C16	C	Consolas	B	Microsoft Xbox Series X, negra, disco / 1 TB	Almacenamiento	SSD de 1 TB
+C16	C	Consolas	A	Sony PlayStation 5, modelo compacto, disco / 1 TB	Unidad óptica	Lector de discos incluido
+C16	C	Consolas	B	Microsoft Xbox Series X, negra, disco / 1 TB	Unidad óptica	Lector de discos incluido
+C16	C	Consolas	A	Sony PlayStation 5, modelo compacto, disco / 1 TB	Salida de juego anunciada	4K; hasta 120 FPS en juegos y modos compatibles
+C16	C	Consolas	B	Microsoft Xbox Series X, negra, disco / 1 TB	Salida de juego anunciada	4K; hasta 120 FPS en juegos y modos compatibles
+C16	C	Consolas	A	Sony PlayStation 5, modelo compacto, disco / 1 TB	Control incluido	Un DualSense
+C16	C	Consolas	B	Microsoft Xbox Series X, negra, disco / 1 TB	Control incluido	Un Xbox Wireless Controller
+C16	C	Consolas	A	Sony PlayStation 5, modelo compacto, disco / 1 TB	Catálogo	PS5 y títulos PS4 compatibles
+C16	C	Consolas	B	Microsoft Xbox Series X, negra, disco / 1 TB	Catálogo	Xbox Series y títulos anteriores compatibles
+C16	C	Consolas	A	Sony PlayStation 5, modelo compacto, disco / 1 TB	Precio aproximado / referencia USD	649,99 USD; MSRP oficial de EE. UU. vigente desde el 02/04/2026
+C16	C	Consolas	B	Microsoft Xbox Series X, negra, disco / 1 TB	Precio aproximado / referencia USD	799,99 USD; precio minorista estimado oficial, variante negra con disco de 1 TB
+C17	C	Consolas	A	Nintendo Switch 2, paquete base de 256 GB	Pantalla	7,9 pulgadas; LCD Full HD; hasta 120 Hz
+C17	C	Consolas	B	Valve Steam Deck OLED, 512 GB	Pantalla	7,4 pulgadas; OLED HDR, 1.280 × 800; hasta 90 Hz
+C17	C	Consolas	A	Nintendo Switch 2, paquete base de 256 GB	Almacenamiento	256 GB; ampliación con microSD Express
+C17	C	Consolas	B	Valve Steam Deck OLED, 512 GB	Almacenamiento	512 GB NVMe; ampliación microSD
+C17	C	Consolas	A	Nintendo Switch 2, paquete base de 256 GB	Plataforma de juego	Nintendo Switch 2; juegos Switch compatibles
+C17	C	Consolas	B	Valve Steam Deck OLED, 512 GB	Plataforma de juego	SteamOS; biblioteca de juegos de PC compatibles
+C17	C	Consolas	A	Nintendo Switch 2, paquete base de 256 GB	Uso en TV	Dock incluido; modos de hasta 4K/60 Hz
+C17	C	Consolas	B	Valve Steam Deck OLED, 512 GB	Uso en TV	Dock o adaptador compatible se compra aparte
+C17	C	Consolas	A	Nintendo Switch 2, paquete base de 256 GB	Control	Joy-Con 2 desmontables incluidos
+C17	C	Consolas	B	Valve Steam Deck OLED, 512 GB	Control	Controles y trackpads integrados
+C17	C	Consolas	A	Nintendo Switch 2, paquete base de 256 GB	Precio aproximado / referencia USD	499,99 USD; MSRP estadounidense revisado desde el 01/09/2026
+C17	C	Consolas	B	Valve Steam Deck OLED, 512 GB	Precio aproximado / referencia USD	789,00 USD; precio indexado de la tienda oficial Valve para OLED 512 GB
+C18	C	Consolas	A	My Arcade Atari Gamestation Pro, DGUNL-7012	Diseño	Consola para conectar a TV
+C18	C	Consolas	B	Analogue Pocket, negra	Diseño	Portátil; implementación de hardware mediante FPGA
+C18	C	Consolas	A	My Arcade Atari Gamestation Pro, DGUNL-7012	Juegos	Más de 200 juegos integrados con licencia y títulos adicionales
+C18	C	Consolas	B	Analogue Pocket, negra	Juegos	Cartuchos originales de Game Boy, Game Boy Color y Game Boy Advance
+C18	C	Consolas	A	My Arcade Atari Gamestation Pro, DGUNL-7012	Pantalla / salida	Salida HDMI a TV
+C18	C	Consolas	B	Analogue Pocket, negra	Pantalla / salida	LCD de 3,5 pulgadas; 1.600 × 1.440
+C18	C	Consolas	A	My Arcade Atari Gamestation Pro, DGUNL-7012	Controles	Dos joysticks inalámbricos de 2,4 GHz con mandos giratorios
+C18	C	Consolas	B	Analogue Pocket, negra	Controles	Controles integrados
+C18	C	Consolas	A	My Arcade Atari Gamestation Pro, DGUNL-7012	Expansión	Funciones de guardado
+C18	C	Consolas	B	Analogue Pocket, negra	Expansión	Adaptadores para otros cartuchos y Dock vendidos aparte
+C18	C	Consolas	A	My Arcade Atari Gamestation Pro, DGUNL-7012	Precio aproximado / referencia USD	99,99 USD; tienda oficial My Arcade
+C18	C	Consolas	B	Analogue Pocket, negra	Precio aproximado / referencia USD	239,99 USD; tienda oficial Analogue; versión estándar agotada
+C19	C	Plotters	A	Epson SureColor P7570, 24 pulgadas	Tecnología	Inyección de tinta pigmentada
+C19	C	Plotters	B	Canon imagePROGRAF PRO-2600, 24 pulgadas	Tecnología	Inyección de tinta pigmentada
+C19	C	Plotters	A	Epson SureColor P7570, 24 pulgadas	Sistema de tinta	12 tintas UltraChrome PRO12
+C19	C	Plotters	B	Canon imagePROGRAF PRO-2600, 24 pulgadas	Sistema de tinta	11 tintas LUCIA PRO II + Chroma Optimizer
+C19	C	Plotters	A	Epson SureColor P7570, 24 pulgadas	Ancho máximo	24 pulgadas, aproximadamente 61 cm
+C19	C	Plotters	B	Canon imagePROGRAF PRO-2600, 24 pulgadas	Ancho máximo	24 pulgadas, aproximadamente 61 cm
+C19	C	Plotters	A	Epson SureColor P7570, 24 pulgadas	Trabajo principal	Fotografía, arte y pruebas de color
+C19	C	Plotters	B	Canon imagePROGRAF PRO-2600, 24 pulgadas	Trabajo principal	Fotografía y reproducción de arte
+C19	C	Plotters	A	Epson SureColor P7570, 24 pulgadas	Materiales	Rollo y hojas compatibles
+C19	C	Plotters	B	Canon imagePROGRAF PRO-2600, 24 pulgadas	Materiales	Rollo y hojas compatibles
+C19	C	Plotters	A	Epson SureColor P7570, 24 pulgadas	Precio aproximado / referencia USD	4.895,00 USD; referencia de la tienda oficial Epson
+C19	C	Plotters	B	Canon imagePROGRAF PRO-2600, 24 pulgadas	Precio aproximado / referencia USD	4.426,00 USD; paquete B&H con kit adicional PFI-3100 de 160 ml; antes de reembolso condicionado
+C20	C	Plotters	A	Cricut Maker 4, máquina sin paquete ampliado	Trabajo	Corte, dibujo y otras funciones con herramientas compatibles
+C20	C	Plotters	B	Silhouette CAMEO 5α / Alpha	Trabajo	Corte y dibujo; doble portaherramientas
+C20	C	Plotters	A	Cricut Maker 4, máquina sin paquete ampliado	Área con tapete	Hasta 11,5 × 23,5 pulgadas
+C20	C	Plotters	B	Silhouette CAMEO 5α / Alpha	Área con tapete	Hasta 12 × 24 pulgadas
+C20	C	Plotters	A	Cricut Maker 4, máquina sin paquete ampliado	Corte largo compatible	Smart Materials: hasta 11,7 pulgadas × 12 pies
+C20	C	Plotters	B	Silhouette CAMEO 5α / Alpha	Corte largo compatible	Material con soporte: hasta 11,6 pulgadas × 16 pies
+C20	C	Plotters	A	Cricut Maker 4, máquina sin paquete ampliado	Software	Cricut Design Space
+C20	C	Plotters	B	Silhouette CAMEO 5α / Alpha	Software	Silhouette Studio
+C20	C	Plotters	A	Cricut Maker 4, máquina sin paquete ampliado	Accesorios básicos	Cuchilla fina, tapete, bolígrafo y mini herramienta de depilado
+C20	C	Plotters	B	Silhouette CAMEO 5α / Alpha	Accesorios básicos	AutoBlade, tapete y adaptador para bolígrafos
+C20	C	Plotters	A	Cricut Maker 4, máquina sin paquete ampliado	Precio aproximado / referencia USD	379,00 USD; promoción oficial; regular 399 USD; sin descuento de membresía
+C20	C	Plotters	B	Silhouette CAMEO 5α / Alpha	Precio aproximado / referencia USD	Desde 229,99 USD; oferta oficial; regular desde 249,99 USD
+C21	C	Plotters	A	HP DesignJet T230, 24 pulgadas, 5HB07T	Aplicación	Planos, diagramas y documentos técnicos
+C21	C	Plotters	B	Canon imagePROGRAF TC-20, 24 pulgadas	Aplicación	Planos, carteles y documentos técnicos
+C21	C	Plotters	A	HP DesignJet T230, 24 pulgadas, 5HB07T	Ancho de rollo	Hasta 24 pulgadas
+C21	C	Plotters	B	Canon imagePROGRAF TC-20, 24 pulgadas	Ancho de rollo	Hasta 24 pulgadas
+C21	C	Plotters	A	HP DesignJet T230, 24 pulgadas, 5HB07T	Tintas	Cuatro: negro pigmentado y CMY de colorante
+C21	C	Plotters	B	Canon imagePROGRAF TC-20, 24 pulgadas	Tintas	Cuatro tintas pigmentadas; botellas recargables
+C21	C	Plotters	A	HP DesignJet T230, 24 pulgadas, 5HB07T	Resolución máxima anunciada	Hasta 2.400 × 1.200 dpi optimizados
+C21	C	Plotters	B	Canon imagePROGRAF TC-20, 24 pulgadas	Resolución máxima anunciada	Hasta 2.400 × 1.200 dpi
+C21	C	Plotters	A	HP DesignJet T230, 24 pulgadas, 5HB07T	Conectividad	USB, Ethernet y Wi-Fi
+C21	C	Plotters	B	Canon imagePROGRAF TC-20, 24 pulgadas	Conectividad	USB, Ethernet y Wi-Fi
+C21	C	Plotters	A	HP DesignJet T230, 24 pulgadas, 5HB07T	Precio aproximado / referencia USD	945,00 USD; oferta indexada de B&H, 5HB07T
+C21	C	Plotters	B	Canon imagePROGRAF TC-20, 24 pulgadas	Precio aproximado / referencia USD	699,00 USD; ficha de B&H marcada como no disponible
+C22	C	Sillas gamer	A	Secretlab TITAN Evo Regular, NEO Hybrid Leatherette Classic	Tapizado	Material sintético NEO Hybrid Leatherette
+C22	C	Sillas gamer	B	AndaSeat Kaiser 3 Large, PVC, Elegant Black	Tapizado	PVC de acabado sintético
+C22	C	Sillas gamer	A	Secretlab TITAN Evo Regular, NEO Hybrid Leatherette Classic	Soporte lumbar	L-ADAPT ajustable en cuatro direcciones
+C22	C	Sillas gamer	B	AndaSeat Kaiser 3 Large, PVC, Elegant Black	Soporte lumbar	Soporte lumbar integrado ajustable en cuatro direcciones
+C22	C	Sillas gamer	A	Secretlab TITAN Evo Regular, NEO Hybrid Leatherette Classic	Reposabrazos	4D; superficies intercambiables CloudSwap
+C22	C	Sillas gamer	B	AndaSeat Kaiser 3 Large, PVC, Elegant Black	Reposabrazos	4D; superficies magnéticas
+C22	C	Sillas gamer	A	Secretlab TITAN Evo Regular, NEO Hybrid Leatherette Classic	Apoyo de cabeza	Almohada magnética de espuma viscoelástica
+C22	C	Sillas gamer	B	AndaSeat Kaiser 3 Large, PVC, Elegant Black	Apoyo de cabeza	Almohada magnética
+C22	C	Sillas gamer	A	Secretlab TITAN Evo Regular, NEO Hybrid Leatherette Classic	Formato elegido	Talla Regular
+C22	C	Sillas gamer	B	AndaSeat Kaiser 3 Large, PVC, Elegant Black	Formato elegido	Talla Large
+C22	C	Sillas gamer	A	Secretlab TITAN Evo Regular, NEO Hybrid Leatherette Classic	Precio aproximado / referencia USD	Desde 579,00 USD; tienda oficial, selección Regular / Classic
+C22	C	Sillas gamer	B	AndaSeat Kaiser 3 Large, PVC, Elegant Black	Precio aproximado / referencia USD	479,00 USD; promoción oficial; regular 499 USD; confirmar stock o preventa
+C23	C	Sillas gamer	A	Herman Miller Vantum Gaming Chair, revisión actual	Asiento y respaldo	Asiento de espuma tapizado; respaldo de suspensión
+C23	C	Sillas gamer	B	Razer Fujin Pro	Asiento y respaldo	Asiento y respaldo de malla
+C23	C	Sillas gamer	A	Herman Miller Vantum Gaming Chair, revisión actual	Apoyo de cabeza	Reposacabezas rediseñado y ajustable
+C23	C	Sillas gamer	B	Razer Fujin Pro	Apoyo de cabeza	Reposacabezas 3D ajustable
+C23	C	Sillas gamer	A	Herman Miller Vantum Gaming Chair, revisión actual	Apoyo del torso	Apoyo lumbar y torácico
+C23	C	Sillas gamer	B	Razer Fujin Pro	Apoyo del torso	Soporte lumbar ajustable en altura y profundidad
+C23	C	Sillas gamer	A	Herman Miller Vantum Gaming Chair, revisión actual	Brazos	Reposabrazos ajustables
+C23	C	Sillas gamer	B	Razer Fujin Pro	Brazos	Reposabrazos acolchados 4D
+C23	C	Sillas gamer	A	Herman Miller Vantum Gaming Chair, revisión actual	Inclinación	Ajustes de inclinación y tensión
+C23	C	Sillas gamer	B	Razer Fujin Pro	Inclinación	Synchro-tilt con control de tensión
+C23	C	Sillas gamer	A	Herman Miller Vantum Gaming Chair, revisión actual	Precio aproximado / referencia USD	990,00 USD; tienda oficial Herman Miller
+C23	C	Sillas gamer	B	Razer Fujin Pro	Precio aproximado / referencia USD	1.049,99 USD; MSRP histórico oficial de lanzamiento, RazerCon 2023
+C24	C	Sillas gamer	A	Next Level Racing GTLite Pro	Formato	Cockpit GT plegable con asiento
+C24	C	Sillas gamer	B	Playseat Challenge X, Logitech G Edition	Formato	Cockpit plegable con asiento
+C24	C	Sillas gamer	A	Next Level Racing GTLite Pro	Tapizado	Asiento acolchado con secciones transpirables
+C24	C	Sillas gamer	B	Playseat Challenge X, Logitech G Edition	Tapizado	Tela ActiFit
+C24	C	Sillas gamer	A	Next Level Racing GTLite Pro	Ajustes	Posición del asiento, volante y pedales
+C24	C	Sillas gamer	B	Playseat Challenge X, Logitech G Edition	Ajustes	Posición del asiento, volante y pedales
+C24	C	Sillas gamer	A	Next Level Racing GTLite Pro	Soportes	Volante y pedales; soportes para palanca y freno de mano
+C24	C	Sillas gamer	B	Playseat Challenge X, Logitech G Edition	Soportes	Plataforma para volante y soporte de pedales
+C24	C	Sillas gamer	A	Next Level Racing GTLite Pro	Hardware de conducción	Se compra aparte; fabricante anuncia soporte para direct drive de hasta 13 Nm
+C24	C	Sillas gamer	B	Playseat Challenge X, Logitech G Edition	Hardware de conducción	Se compra aparte; verificar compatibilidad de la base y pedales
+C24	C	Sillas gamer	A	Next Level Racing GTLite Pro	Precio aproximado / referencia USD	299,00 USD; referencia oficial Next Level Racing
+C24	C	Sillas gamer	B	Playseat Challenge X, Logitech G Edition	Precio aproximado / referencia USD	299,99 USD; referencia de la tienda Logitech para Playseat
+D01	D	Microcontroladores	A	Arduino UNO Rev3, A000066	Microcontrolador y arquitectura	ATmega328P; AVR de 8 bits
+D01	D	Microcontroladores	B	Microchip ATmega4809 Curiosity Nano, DM320115	Microcontrolador y arquitectura	ATmega4809; AVR de 8 bits
+D01	D	Microcontroladores	A	Arduino UNO Rev3, A000066	Frecuencia	16 MHz
+D01	D	Microcontroladores	B	Microchip ATmega4809 Curiosity Nano, DM320115	Frecuencia	Hasta 20 MHz
+D01	D	Microcontroladores	A	Arduino UNO Rev3, A000066	Memoria del MCU	32 KB Flash; 2 KB SRAM; 1 KB EEPROM
+D01	D	Microcontroladores	B	Microchip ATmega4809 Curiosity Nano, DM320115	Memoria del MCU	48 KB Flash; 6 KB SRAM; 256 bytes EEPROM
+D01	D	Microcontroladores	A	Arduino UNO Rev3, A000066	Programación y depuración	Carga mediante USB y bootloader; conector ICSP
+D01	D	Microcontroladores	B	Microchip ATmega4809 Curiosity Nano, DM320115	Programación y depuración	Depurador y programador integrados; interfaz UPDI
+D01	D	Microcontroladores	A	Arduino UNO Rev3, A000066	Uso y expansión	14 pines digitales, 6 entradas analógicas; formato UNO para shields
+D01	D	Microcontroladores	B	Microchip ATmega4809 Curiosity Nano, DM320115	Uso y expansión	Pines de expansión; botón, LED y tensión objetivo ajustable
+D01	D	Microcontroladores	A	Arduino UNO Rev3, A000066	Precio aproximado / referencia USD	27,60 USD; tienda oficial Arduino de EE. UU.; placa original
+D01	D	Microcontroladores	B	Microchip ATmega4809 Curiosity Nano, DM320115	Precio aproximado / referencia USD	10,61 USD; DigiKey, precio unitario de DM320115
+D02	D	Microcontroladores	A	STMicroelectronics NUCLEO-F446RE	Procesador	STM32F446RE; Arm Cortex-M4 con FPU
+D02	D	Microcontroladores	B	NXP FRDM-MCXN947	Procesador	MCXN947; dos núcleos Arm Cortex-M33
+D02	D	Microcontroladores	A	STMicroelectronics NUCLEO-F446RE	Frecuencia máxima	180 MHz
+D02	D	Microcontroladores	B	NXP FRDM-MCXN947	Frecuencia máxima	150 MHz por núcleo
+D02	D	Microcontroladores	A	STMicroelectronics NUCLEO-F446RE	Memoria del MCU	512 KB Flash; 128 KB SRAM
+D02	D	Microcontroladores	B	NXP FRDM-MCXN947	Memoria del MCU	2 MB Flash; 1 MB RAM
+D02	D	Microcontroladores	A	STMicroelectronics NUCLEO-F446RE	Depuración integrada	ST-LINK integrado
+D02	D	Microcontroladores	B	NXP FRDM-MCXN947	Depuración integrada	MCU-Link integrado, compatible con CMSIS-DAP
+D02	D	Microcontroladores	A	STMicroelectronics NUCLEO-F446RE	Expansión y funciones	Conectores Arduino y ST morpho; ecosistema STM32
+D02	D	Microcontroladores	B	NXP FRDM-MCXN947	Expansión y funciones	Conectores de expansión; Ethernet, CAN FD y acelerador eIQ Neutron NPU
+D02	D	Microcontroladores	A	STMicroelectronics NUCLEO-F446RE	Precio aproximado / referencia USD	18,82 USD; DigiKey, precio para una unidad
+D02	D	Microcontroladores	B	NXP FRDM-MCXN947	Precio aproximado / referencia USD	25,00 USD; tienda oficial NXP; stock pendiente
+D03	D	Microcontroladores	A	Espressif ESP32-C6-DevKitC-1-N8	Procesador	ESP32-C6; núcleo RISC-V de 32 bits, hasta 160 MHz
+D03	D	Microcontroladores	B	Arduino Nano ESP32 con headers, ABX00083	Procesador	ESP32-S3; dos núcleos Xtensa LX7, hasta 240 MHz
+D03	D	Microcontroladores	A	Espressif ESP32-C6-DevKitC-1-N8	Flash	8 MB SPI Flash, variante N8
+D03	D	Microcontroladores	B	Arduino Nano ESP32 con headers, ABX00083	Flash	16 MB de Flash externa al MCU, integrada en el módulo
+D03	D	Microcontroladores	A	Espressif ESP32-C6-DevKitC-1-N8	Conectividad inalámbrica	Wi-Fi 6 de 2,4 GHz, Bluetooth LE y 802.15.4
+D03	D	Microcontroladores	B	Arduino Nano ESP32 con headers, ABX00083	Conectividad inalámbrica	Wi-Fi de 2,4 GHz y Bluetooth LE
+D03	D	Microcontroladores	A	Espressif ESP32-C6-DevKitC-1-N8	Protocolos / entorno	ESP-IDF; soporte de Thread y Zigbee
+D03	D	Microcontroladores	B	Arduino Nano ESP32 con headers, ABX00083	Protocolos / entorno	Arduino, Arduino Cloud y MicroPython
+D03	D	Microcontroladores	A	Espressif ESP32-C6-DevKitC-1-N8	Formato y conexión	Placa DevKit con GPIO y conexiones USB
+D03	D	Microcontroladores	B	Arduino Nano ESP32 con headers, ABX00083	Formato y conexión	Formato Nano compacto; USB-C y pines soldados
+D03	D	Microcontroladores	A	Espressif ESP32-C6-DevKitC-1-N8	Precio aproximado / referencia USD	9,00 USD; DigiKey, precio unitario de ESP32-C6-DEVKITC-1-N8
+D03	D	Microcontroladores	B	Arduino Nano ESP32 con headers, ABX00083	Precio aproximado / referencia USD	19,30 USD; tienda Arduino de EE. UU.; versión con headers
+D04	D	Computadoras de placa única / SBC	A	Raspberry Pi 5, 8 GB	Procesador	Broadcom BCM2712; cuatro Cortex-A76 a 2,4 GHz
+D04	D	Computadoras de placa única / SBC	B	Orange Pi 5 Plus, 8 GB	Procesador	Rockchip RK3588; cuatro Cortex-A76 y cuatro Cortex-A55
+D04	D	Computadoras de placa única / SBC	A	Raspberry Pi 5, 8 GB	Memoria	8 GB LPDDR4X
+D04	D	Computadoras de placa única / SBC	B	Orange Pi 5 Plus, 8 GB	Memoria	8 GB LPDDR4/4X
+D04	D	Computadoras de placa única / SBC	A	Raspberry Pi 5, 8 GB	Almacenamiento	microSD; SSD mediante interfaz PCIe y adaptador
+D04	D	Computadoras de placa única / SBC	B	Orange Pi 5 Plus, 8 GB	Almacenamiento	microSD; conector eMMC y M.2 para SSD NVMe
+D04	D	Computadoras de placa única / SBC	A	Raspberry Pi 5, 8 GB	Red	Gigabit Ethernet; Wi-Fi de doble banda y Bluetooth integrados
+D04	D	Computadoras de placa única / SBC	B	Orange Pi 5 Plus, 8 GB	Red	Dos puertos Ethernet de 2,5 Gb/s; módulo Wi-Fi/Bluetooth opcional
+D04	D	Computadoras de placa única / SBC	A	Raspberry Pi 5, 8 GB	Sistema y expansión	Raspberry Pi OS; GPIO de 40 pines
+D04	D	Computadoras de placa única / SBC	B	Orange Pi 5 Plus, 8 GB	Sistema y expansión	Imágenes Orange Pi y Linux compatibles; GPIO de 40 pines
+D04	D	Computadoras de placa única / SBC	A	Raspberry Pi 5, 8 GB	Precio aproximado / referencia USD	200,00 USD; precio indexado de Adafruit para la placa de 8 GB
+D04	D	Computadoras de placa única / SBC	B	Orange Pi 5 Plus, 8 GB	Precio aproximado / referencia USD	347,99 USD; anuncio de Newegg de 8 GB con fuente de alimentación
+D05	D	Computadoras de placa única / SBC	A	NVIDIA Jetson Orin Nano Super Developer Kit, 8 GB	CPU	Seis núcleos Arm Cortex-A78AE
+D05	D	Computadoras de placa única / SBC	B	Radxa ROCK 5B, 8 GB, referencia OKdo RS119-D8P1	CPU	RK3588; cuatro Cortex-A76 y cuatro Cortex-A55
+D05	D	Computadoras de placa única / SBC	A	NVIDIA Jetson Orin Nano Super Developer Kit, 8 GB	Memoria	8 GB LPDDR5; ancho de banda anunciado de 102 GB/s
+D05	D	Computadoras de placa única / SBC	B	Radxa ROCK 5B, 8 GB, referencia OKdo RS119-D8P1	Memoria	8 GB LPDDR4X
+D05	D	Computadoras de placa única / SBC	A	NVIDIA Jetson Orin Nano Super Developer Kit, 8 GB	Aceleración IA anunciada	GPU Ampere: 1.024 núcleos CUDA, 32 Tensor; hasta 67 INT8 TOPS
+D05	D	Computadoras de placa única / SBC	B	Radxa ROCK 5B, 8 GB, referencia OKdo RS119-D8P1	Aceleración IA anunciada	NPU del RK3588; hasta 6 TOPS
+D05	D	Computadoras de placa única / SBC	A	NVIDIA Jetson Orin Nano Super Developer Kit, 8 GB	Almacenamiento	microSD y SSD NVMe externo compatibles
+D05	D	Computadoras de placa única / SBC	B	Radxa ROCK 5B, 8 GB, referencia OKdo RS119-D8P1	Almacenamiento	microSD; eMMC y SSD NVMe compatibles
+D05	D	Computadoras de placa única / SBC	A	NVIDIA Jetson Orin Nano Super Developer Kit, 8 GB	Software principal	NVIDIA JetPack, CUDA y herramientas de inferencia Jetson
+D05	D	Computadoras de placa única / SBC	B	Radxa ROCK 5B, 8 GB, referencia OKdo RS119-D8P1	Software principal	Linux compatible; herramientas y conversión de modelos para NPU Rockchip
+D05	D	Computadoras de placa única / SBC	A	NVIDIA Jetson Orin Nano Super Developer Kit, 8 GB	Precio aproximado / referencia USD	249,00 USD; precio oficial anunciado para el kit Super en diciembre de 2024
+D05	D	Computadoras de placa única / SBC	B	Radxa ROCK 5B, 8 GB, referencia OKdo RS119-D8P1	Precio aproximado / referencia USD	234,79 USD; precio unitario indexado de RS EE. UU. para ROCK 5B de 8 GB
+D06	D	Computadoras de placa única / SBC	A	BeagleBoard BeagleBone Black Industrial	Procesador	TI Sitara AM3358; Cortex-A8 a 1 GHz
+D06	D	Computadoras de placa única / SBC	B	Olimex A64-OLinuXino-2Ge16G-IND	Procesador	Allwinner A64; cuatro Cortex-A53 a 1,2 GHz
+D06	D	Computadoras de placa única / SBC	A	BeagleBoard BeagleBone Black Industrial	Memoria	512 MB DDR3
+D06	D	Computadoras de placa única / SBC	B	Olimex A64-OLinuXino-2Ge16G-IND	Memoria	2 GB DDR3L
+D06	D	Computadoras de placa única / SBC	A	BeagleBoard BeagleBone Black Industrial	Almacenamiento integrado	4 GB eMMC
+D06	D	Computadoras de placa única / SBC	B	Olimex A64-OLinuXino-2Ge16G-IND	Almacenamiento integrado	16 GB Flash/eMMC, variante 2Ge16G-IND
+D06	D	Computadoras de placa única / SBC	A	BeagleBoard BeagleBone Black Industrial	Control y expansión	Dos unidades PRU programables; conectores para capes
+D06	D	Computadoras de placa única / SBC	B	Olimex A64-OLinuXino-2Ge16G-IND	Control y expansión	GPIO y conexiones de expansión; diseños abiertos
+D06	D	Computadoras de placa única / SBC	A	BeagleBoard BeagleBone Black Industrial	Entorno / red	Rango industrial declarado de −40 a +85 °C; Ethernet
+D06	D	Computadoras de placa única / SBC	B	Olimex A64-OLinuXino-2Ge16G-IND	Entorno / red	Componentes con rango industrial de −40 a +85 °C; Gigabit Ethernet; sin Wi-Fi/BLE integrado
+D06	D	Computadoras de placa única / SBC	A	BeagleBoard BeagleBone Black Industrial	Precio aproximado / referencia USD	135,87 USD; precio unitario Mouser, 102110423; sin stock, admite pedido pendiente
+D06	D	Computadoras de placa única / SBC	B	Olimex A64-OLinuXino-2Ge16G-IND	Precio aproximado / referencia USD	114,20 USD; precio unitario DigiKey; sin stock en la ficha consultada
+D07	D	Realidad virtual / mixta	A	Meta Quest 3, 512 GB	Procesador	Snapdragon XR2 Gen 2
+D07	D	Realidad virtual / mixta	B	HTC VIVE Focus Vision, 128 GB	Procesador	Snapdragon XR2
+D07	D	Realidad virtual / mixta	A	Meta Quest 3, 512 GB	Memoria / almacenamiento	8 GB RAM; 512 GB
+D07	D	Realidad virtual / mixta	B	HTC VIVE Focus Vision, 128 GB	Memoria / almacenamiento	12 GB RAM; 128 GB
+D07	D	Realidad virtual / mixta	A	Meta Quest 3, 512 GB	Resolución por ojo	2.064 × 2.208 píxeles
+D07	D	Realidad virtual / mixta	B	HTC VIVE Focus Vision, 128 GB	Resolución por ojo	2.448 × 2.448 píxeles; paneles LCD
+D07	D	Realidad virtual / mixta	A	Meta Quest 3, 512 GB	Seguimiento y entorno	Seguimiento desde el visor; passthrough a color
+D07	D	Realidad virtual / mixta	B	HTC VIVE Focus Vision, 128 GB	Seguimiento y entorno	Seguimiento desde el visor; seguimiento ocular y passthrough a color
+D07	D	Realidad virtual / mixta	A	Meta Quest 3, 512 GB	Uso adicional con PC	Enlace a PC compatible por cable o red
+D07	D	Realidad virtual / mixta	B	HTC VIVE Focus Vision, 128 GB	Uso adicional con PC	Streaming a PC; modo DisplayPort con accesorios compatibles
+D07	D	Realidad virtual / mixta	A	Meta Quest 3, 512 GB	Precio aproximado / referencia USD	599,99 USD; precio indexado de B&H para el visor de 512 GB
+D07	D	Realidad virtual / mixta	B	HTC VIVE Focus Vision, 128 GB	Precio aproximado / referencia USD	1.149,00 USD; tienda oficial VIVE de EE. UU.
+D08	D	Realidad virtual / mixta	A	Valve Index VR Kit completo	Panel y resolución por ojo	LCD RGB; 1.440 × 1.600
+D08	D	Realidad virtual / mixta	B	HTC VIVE Pro 2 Full Kit	Panel y resolución por ojo	LCD RGB; 2.448 × 2.448
+D08	D	Realidad virtual / mixta	A	Valve Index VR Kit completo	Refresco	90/120 Hz y modo experimental de 144 Hz
+D08	D	Realidad virtual / mixta	B	HTC VIVE Pro 2 Full Kit	Refresco	90/120 Hz por cable
+D08	D	Realidad virtual / mixta	A	Valve Index VR Kit completo	Seguimiento	SteamVR con estaciones base externas
+D08	D	Realidad virtual / mixta	B	HTC VIVE Pro 2 Full Kit	Seguimiento	SteamVR con estaciones base externas
+D08	D	Realidad virtual / mixta	A	Valve Index VR Kit completo	Paquete elegido	Visor, controles Index y estaciones base
+D08	D	Realidad virtual / mixta	B	HTC VIVE Pro 2 Full Kit	Paquete elegido	Visor, controles VIVE y dos estaciones base
+D08	D	Realidad virtual / mixta	A	Valve Index VR Kit completo	Equipo necesario	PC compatible y conexión de video/USB
+D08	D	Realidad virtual / mixta	B	HTC VIVE Pro 2 Full Kit	Equipo necesario	PC compatible; DisplayPort con DSC para modos de resolución completa
+D08	D	Realidad virtual / mixta	A	Valve Index VR Kit completo	Precio aproximado / referencia USD	999,00 USD; tienda oficial Steam; kit completo agotado
+D08	D	Realidad virtual / mixta	B	HTC VIVE Pro 2 Full Kit	Precio aproximado / referencia USD	1.199,00 USD; ficha oficial del Full Kit 2104224; agotado
+D09	D	Realidad virtual / mixta	A	Apple Vision Pro con M5, 256 GB	Procesamiento	Apple M5 + R1
+D09	D	Realidad virtual / mixta	B	Samsung Galaxy XR, 256 GB	Procesamiento	Snapdragon XR2+ Gen 2
+D09	D	Realidad virtual / mixta	A	Apple Vision Pro con M5, 256 GB	Almacenamiento	256 GB, variante base
+D09	D	Realidad virtual / mixta	B	Samsung Galaxy XR, 256 GB	Almacenamiento	256 GB
+D09	D	Realidad virtual / mixta	A	Apple Vision Pro con M5, 256 GB	Pantallas	Micro-OLED; 23 millones de píxeles en el sistema de pantalla
+D09	D	Realidad virtual / mixta	B	Samsung Galaxy XR, 256 GB	Pantallas	Micro-OLED; 27 millones de píxeles en el sistema de pantalla
+D09	D	Realidad virtual / mixta	A	Apple Vision Pro con M5, 256 GB	Refresco compatible	90, 96, 100 y 120 Hz
+D09	D	Realidad virtual / mixta	B	Samsung Galaxy XR, 256 GB	Refresco compatible	60, 72 y 90 Hz
+D09	D	Realidad virtual / mixta	A	Apple Vision Pro con M5, 256 GB	Plataforma e interacción	visionOS; manos, ojos y voz
+D09	D	Realidad virtual / mixta	B	Samsung Galaxy XR, 256 GB	Plataforma e interacción	Android XR; manos, ojos y voz; integración con Gemini
+D09	D	Realidad virtual / mixta	A	Apple Vision Pro con M5, 256 GB	Precio aproximado / referencia USD	Desde 3.499,00 USD; precio oficial de lanzamiento del M5 en octubre de 2025, 256 GB
+D09	D	Realidad virtual / mixta	B	Samsung Galaxy XR, 256 GB	Precio aproximado / referencia USD	1.799,99 USD; precio oficial de lanzamiento estadounidense de octubre de 2025
+D10	D	Inteligencia artificial	A	OpenAI ChatGPT Plus	Tipo de producto	Servicio de IA; Chat, Work y acceso a Codex según plataforma
+D10	D	Inteligencia artificial	B	Anthropic Claude Pro	Tipo de producto	Servicio de IA; conversación y herramientas de trabajo y programación
+D10	D	Inteligencia artificial	A	OpenAI ChatGPT Plus	Trabajo con información	Conversación, búsqueda web, archivos, proyectos y herramientas compatibles
+D10	D	Inteligencia artificial	B	Anthropic Claude Pro	Trabajo con información	Conversación, búsqueda web, archivos, Projects y herramientas compatibles
+D10	D	Inteligencia artificial	A	OpenAI ChatGPT Plus	Resultados y creación	Redacción, análisis y creación de archivos con las funciones habilitadas
+D10	D	Inteligencia artificial	B	Anthropic Claude Pro	Resultados y creación	Redacción, análisis, creación de archivos y Artifacts
+D10	D	Inteligencia artificial	A	OpenAI ChatGPT Plus	Programación	Codex incluido en Plus, con límites de uso
+D10	D	Inteligencia artificial	B	Anthropic Claude Pro	Programación	Claude Code incluido en Pro, con límites de uso
+D10	D	Inteligencia artificial	A	OpenAI ChatGPT Plus	Acceso y límites	Disponibilidad por plan, cliente, región y configuración
+D10	D	Inteligencia artificial	B	Anthropic Claude Pro	Acceso y límites	Disponibilidad por plan y producto; límites de uso del servicio
+D10	D	Inteligencia artificial	A	OpenAI ChatGPT Plus	Precio aproximado / referencia USD	20,00 USD al mes; plan Plus individual, referencia oficial; existe plan Free de 0 USD
+D10	D	Inteligencia artificial	B	Anthropic Claude Pro	Precio aproximado / referencia USD	20,00 USD al mes con pago mensual; opción anual de 200 USD; existe Free de 0 USD

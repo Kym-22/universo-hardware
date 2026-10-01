@@ -1,0 +1,51 @@
+Álbum comparativo de hardware	Valor
+Comparativas	124	subcategorias de un mismo producto, ej. Grupo impresoras, subcategorias: inyeccion de tinta, laser...
+Productos / referencias	248	dos productos de una misma subcategoria
+Bloque	Comparativas	Descripcion
+Bloque A	39	Son componentes internos de la computadora
+Bloque B	51	Son perifericos y dispositivos externos
+Bloque C	24	Son equipos o dispositivos completos
+Bloque D	10	Electronica y tecnologías adicionales
+Bloque	Familia	Comparativas
+A	Audio	3
+A	Capturadoras de video	3
+A	Discos duros HDD	3
+A	Fuentes de alimentación	3
+A	Gabinetes	3
+A	Memoria RAM	3
+A	Otras tarjetas de expansión	3
+A	Placas madre	3
+A	Procesadores	3
+A	Refrigeración	3
+A	Tarjetas de red	3
+A	Tarjetas gráficas	3
+A	Unidades SSD	3
+B	Almacenamiento externo	3
+B	Auriculares	3
+B	Bocinas	3
+B	Cañoneras / proyectores	3
+B	Controladores de videojuegos	3
+B	Escáneres	3
+B	Fotocopiadoras	3
+B	Hubs y estaciones	3
+B	Impresoras	3
+B	Lectores de tarjetas	3
+B	Micrófonos	3
+B	Monitores	3
+B	Mouse	3
+B	Tarjetas de memoria	3
+B	Teclados	3
+B	UPS	3
+B	Webcams	3
+C	Celulares	3
+C	Computadoras de escritorio	3
+C	Consolas	3
+C	Laptops	3
+C	Plotters	3
+C	Sillas gamer	3
+C	Smartwatches	3
+C	Tablets	3
+D	Computadoras de placa única / SBC	3
+D	Inteligencia artificial	1
+D	Microcontroladores	3
+D	Realidad virtual / mixta	3
